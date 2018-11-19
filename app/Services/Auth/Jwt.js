@@ -10,7 +10,7 @@ class JWT  {
         this.engine = engine; //jsonwebtoken
 
         this.options;
-        this.salt       = env.salt;
+        this.salt       =  env.salt;
         this.expire     = '9999 days';
         this.hasErrored = false;
         if (typeof params === 'string') {
