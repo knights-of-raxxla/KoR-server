@@ -5,6 +5,10 @@ class RouteManager {
     }
 
     make_v1() {
+        this.app.get('/', (req, res) => {
+            console.log('bleh');
+        });
+
         this.app.get('/api/v1/login/', (req, res) => {
             res.send(1);
         });

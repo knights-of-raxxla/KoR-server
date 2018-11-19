@@ -1,25 +1,28 @@
 process.setMaxListeners(0);
 require('events').EventEmitter.defaultMaxListeners = 0;
 
-// const HttpAuth = require("./app/middlewares/HttpAuthMiddleware.js");
+// // const HttpAuth = require("./app/middlewares/HttpAuthMiddleware.js");
+const AuthMiddleware = require('./app/Http/AuthMiddleware.js');
 const RouteManager = require("./app/Http/RoutesManager.js");
 
 var express = require("express");
 var app     = express();
 var http    = require("http").createServer(app);
 
-let port = 3000;
+let port = 80;
 global.express_port = port; // on en a besoin pour dans RedisBaseEvents.js
 
 // Service Container
 let container = require("./app/Container").getInstance(express, app, http); // boot le container
 
 app.use((req, res, next) => {
-    new HttpAuth(req, res, container.get('JWTFactory')).auth()
+    let jwt_factory = container.get('JwtFactory');
+    new AuthMiddleware(req, res, jwt_factory).auth()
     .then(() => {
         next();
     }).catch(err => {
-        res.send(err);
+        console.log('bye');
+        res.send(401);
     });
 });
 
@@ -33,5 +36,5 @@ global.rootRequire = function(name) {
 
 // Starting the Server
 http.listen(port, '0.0.0.0', function() {
-    console.log(`KoR server started on port${port}`);
+    console.log(`KoR server started on port ${port}`);
 });
