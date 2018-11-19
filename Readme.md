@@ -32,3 +32,19 @@ You will need to create a file called env.json at the root of this project, cont
 - [ ] Request expedition feed
 
 
+## API
+
+### Sign (in)
+
+- Authenticate on endpoint /api/v1/login (get with query string parameters 'password' and 'email'), the response will be in JSON : {token: 'your_auth_token'}
+- Pass this token to any subsequent request as a cookie : `kor=your_token`
+ exemple in curl :
+ ```
+ curl -XGET -H "Content-type: application/json" 'api.knightsofraxxla.com/api/v1/login?email=toto@yopmail.com&password=pass'
+ ```
+
+
+### Endpoints (tbd)
+
+
+
