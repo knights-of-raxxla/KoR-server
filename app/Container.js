@@ -24,7 +24,8 @@ class Container {
 
         dipsy.register('UserManager', require('./Services/Auth/UserManager.js'), [
             "knex",
-            "bcrypt"
+            "bcrypt",
+            "uuid"
         ]);
 
         return dipsy;

@@ -42,6 +42,28 @@ describe('UserManagerSpec', function(){
             });
    });
 
+   it('should update user password and let log in', function(done) {
+        let new_password = uuid.v4();
+        userManager.updateUser({
+            id: inserted_users[0],
+            password: new_password
+        }).then(res => {
+            return userManager.userCanLogin(email, new_password)
+        }).then(can => {
+            expect(can).to.equal(true);
+            done();
+        });
+   });
+
+   it('should start user password reset process', function(done) {
+    userManager.startPasswordReset(email)
+        .then(infos => {
+            expect(infos.email).to.equal(email);
+            expect(infos.reset_key).to.be.ok;
+            done();
+        });
+   });
+
    it('should fail to create user bc of invalid email', function(done) {
         let name = uuid.v4();
         let email = uuid.v4() + '@yopmail.com' + '@toto';

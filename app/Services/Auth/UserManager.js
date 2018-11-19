@@ -1,8 +1,10 @@
 const rounds = 10; // salt rounds yarrrrr
+const env = require('../../../env.js');
 module.exports = class UserManager {
-    constructor(knex, bcrypt) {
+    constructor(knex, bcrypt, uuid) {
         this.knex = knex;
         this.bcrypt = bcrypt;
+        this.uuid = uuid;
     }
 
     /**
@@ -58,9 +60,18 @@ module.exports = class UserManager {
 
     updateUser(params = {}) {
         let {id, name, password, groups, permissions} = params;
-        return this.knex('users')
+        let cmds = [];
+        if (password && typeof password === 'string'  && password.length)
+            cmds.push(this._hashPassword(password))
+
+        return Promise.all(cmds)
+        .then(hashed_password => {
+            if (hashed_password) password = hashed_password;
+
+            return this.knex('users')
             .where({id})
             .update({name, password, groups, permissions});
+        });
     }
 
     /**
@@ -85,6 +96,39 @@ module.exports = class UserManager {
                 return resolve(match);
             }).catch(err => reject(err));
         });
+    }
+
+    /**
+     * @public
+     * Start password reset process
+     * by generating a uuid and sending recovery email
+     *
+     * @param {String} email the user email
+     * @return {Promise<Object, Error>} see below
+     */
+    startPasswordReset(email) {
+        let reset_key = this.uuid.v4();
+        let user;
+
+        return this.knex('users')
+            .where({email})
+            .first()
+            .then(_user => {
+                user = _user;
+                return this.knex('users')
+                .where({email})
+                .update({
+                    reset: reset_key,
+                    reset_at: new Date(),
+                });
+            }).then(() => {
+                return {
+                    id: user.id,
+                    email,
+                    reset_key,
+                    name: user.name
+                };
+            });
     }
 
     /**
