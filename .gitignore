@@ -1,2 +1,3 @@
-env.json
+env.js
 node_modules/*
+storage/*

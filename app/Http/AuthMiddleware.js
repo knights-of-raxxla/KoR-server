@@ -8,8 +8,9 @@ const public_endpoints = [
 ];
 /**
  * @class AuthMiddleware
- * filters API requests and makes sure they carry
+ * - filters API requests and makes sure they carry
  * a valid JWT
+ * - let requests that come from public endpoints pass through
  */
 const cookie_key = 'kor';
 module.exports = class AuthMiddleware {

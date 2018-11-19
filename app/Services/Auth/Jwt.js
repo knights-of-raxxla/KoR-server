@@ -1,17 +1,16 @@
-
-'use strict';
-
 /**
  * @class
  * @description classe qui gère les tokens JWT
  * @memberof module:Services/Auth
  */
+
+const env = require('../../../env.js');
 class JWT  {
     constructor(engine, params) {
         this.engine = engine; //jsonwebtoken
 
         this.options;
-        this.salt       = 'we_dont_bask_in_ur_glory';
+        this.salt       = env.salt;
         this.expire     = '9999 days';
         this.hasErrored = false;
         if (typeof params === 'string') {
