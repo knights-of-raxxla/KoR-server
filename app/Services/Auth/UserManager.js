@@ -89,7 +89,7 @@ module.exports = class UserManager {
             .where({email})
             .first()
             .then(user => {
-                if (!user) return reject('UserManager:02:cant find user with id ' + user_id);
+                if (!user) return reject('UserManager:02:cant find user with email ' + email);
                 hashed_password = user.password;
                 return this._passwordMatch(clear_password, hashed_password);
             }).then(match => {

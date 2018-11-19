@@ -21,7 +21,6 @@ app.use((req, res, next) => {
     .then(() => {
         next();
     }).catch(err => {
-        console.log('bye');
         res.send(401);
     });
 });

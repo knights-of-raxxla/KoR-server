@@ -1,4 +1,5 @@
 module.exports = {
+    app_url: 'api.knightsofraxxla.com',
     app: {
     },
     mysql: {

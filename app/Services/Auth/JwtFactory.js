@@ -14,10 +14,9 @@ class JWTFactory {
      * @param {Jsonwebtoken} engine, jsonwebtoken lib
      * @param {SessionException} Exception
      */
-    constructor(engine, sessionException) {
+    constructor(engine) {
         this.engine           = engine; //jsonwebtoken
-        this.sessionException = sessionException;
-        this.JWT              = require("./JWT");
+        this.JWT              = require("./Jwt");
     }
 
 	/**
@@ -27,7 +26,7 @@ class JWTFactory {
 	 * @return {Promise}
 	 */
 	make(params) {
-	    return new this.JWT(this.engine, this.sessionException, params);
+	    return new this.JWT(this.engine, params);
     }
 }
 

@@ -1,3 +1,11 @@
+const err = {
+    no_token: `AuthMiddleware:01:no jwt token`,
+};
+
+const env = require('../../env.js');
+const public_endpoints = [
+    '/api/v1/login'
+];
 /**
  * @class AuthMiddleware
  * filters API requests and makes sure they carry
@@ -9,12 +17,11 @@ module.exports = class AuthMiddleware {
         this.JWT = JWT;
         this.req = req;
         this.res = res;
-        // this.token = token;
     }
 
     auth() {
-        // console.log('http auth');
         return new Promise((resolve, reject) => {
+            if (this._isPublicEndpoint(this.req)) return resolve();
             let token = this.getToken();
             if (!token) return reject(err.no_token);
             this.JWT.make(token)
@@ -34,6 +41,16 @@ module.exports = class AuthMiddleware {
             if (spl[0] === cookie_key) return spl[1];
         }
         if (this.req.query.cookie) return this.req.query.cookie;
+        return false;
+    }
+
+    _isPublicEndpoint(req) {
+        let req_endpoint = req.headers.host + req.url.split('?')[0];
+        for (let public_e of public_endpoints) {
+            let f = env.app_url + public_e;
+            if (f === req_endpoint)
+                return true;
+        }
         return false;
     }
 }
