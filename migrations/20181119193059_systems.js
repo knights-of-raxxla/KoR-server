@@ -3,9 +3,10 @@ exports.up = function(knex, Promise) {
     let ups = [
         knex.schema.createTable('systems', function(table) {
             table.increments();
-            table.string('name').unique().notNullable();
+            table.string('name').notNullable();
             table.string('location');
-
+            table.integer('edsm_id').unsigned();
+            table.integer('eddb_id').unsigned();
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');

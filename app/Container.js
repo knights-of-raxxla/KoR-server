@@ -28,6 +28,8 @@ class Container {
             "uuid"
         ]);
 
+        dipsy.register('StreamReader', require('./Services/Files/StreamReader.js'), []);
+
         return dipsy;
     }
 }
