@@ -31,13 +31,13 @@ module.exports = {
 
 ## Roadmap (API)
 
-**1.0** :
 - [x] Set up mysql tables and auth functionalities
-- [ ] Write seed to populate db with systems
+- [x] Write seed to populate db with systems
 - [ ] Enable the creation of expeditions, pin systems to expeditions and download every system data
 - [ ] Update expeditions status (visitables)
 - [ ] Request status of all expeditions
 - [ ] Request expedition feed
+- **1.0**
 
 
 ## API

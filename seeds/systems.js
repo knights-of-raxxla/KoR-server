@@ -51,7 +51,7 @@ function insertSystemsChunk(systems) {
         let y = system[getColIndex('y')];
         let z = system[getColIndex('z')];
         let location = [x, y, z].join(',');
-        return {name, location, edsm_id, eddb_id};
+        return {name, location, edsm_id, eddb_id, created_at};
     });
     systems.shift(); // remove first row = csv header
     console.log(systems[0])
