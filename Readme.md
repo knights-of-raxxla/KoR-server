@@ -6,13 +6,21 @@ This git repository contains the source code of the API server as well as a Dock
  - Create a file env.js (instructions tbd);
  - Change env.salt into something really hard to guess.
  - Download https://eddb.io/archive/v5/systems.csv and put it in ./storage/
- - Run seed (tbd), it will import all systems
+ - Run inside main docker container :
+ ```bash
+ docker ps
+ # get container id
+ docker exec -it ${container_id} bash
+ # now inside main container
+ knex migrate:latest
+ knex seed:run
+ ```
 
 ## Env file (tbd)
 You will need to create a file called env.json at the root of this project, containing:
 
-```json
-{
+```javascript
+module.exports = {
     "app_url": "https://yourapp.com",
     mysql: {
         "database": "db_name",
