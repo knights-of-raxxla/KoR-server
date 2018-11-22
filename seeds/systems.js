@@ -4,6 +4,10 @@ const reader = container.get('StreamReader');
 const _ = container.get('lodash');
 const systems_csv = './storage/systems.csv';
 let knex;
+let is_first_chunk = true;
+// setInterval(() => {
+//     console.log(`inserted ${inserted_count} systems`);
+// }, 15 * 1000);
 
 let columns = [
     'id',
@@ -50,11 +54,13 @@ function insertSystemsChunk(systems) {
         let x = system[getColIndex('x')];
         let y = system[getColIndex('y')];
         let z = system[getColIndex('z')];
-        let location = [x, y, z].join(',');
-        return {name, location, edsm_id, eddb_id, created_at};
+        return {name, x, y, z, edsm_id, eddb_id, created_at};
     });
-    systems.shift(); // remove first row = csv header
-    console.log(systems[0])
+    if (is_first_chunk) {
+        systems.shift();
+        is_first_chunk = false,
+    }
+    // inserted_count += systems.length;
     return knex('systems').insert(systems);
 }
 

@@ -30,6 +30,8 @@ class Container {
 
         dipsy.register('StreamReader', require('./Services/Files/StreamReader.js'), []);
 
+        dipsy.register('ExpeditionsRepo', require('./Repos/ExpeditionsRepo.js'), ['knex']);
+
         return dipsy;
     }
 }

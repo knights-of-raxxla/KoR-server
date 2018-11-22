@@ -4,7 +4,7 @@ networks:
     driver: bridge
     ipam:
       config:
-       - subnet: 172.121.0.0/24
+       - subnet: 172.111.0.0/24
 services:
       main:
           build: ./main
@@ -13,7 +13,7 @@ services:
             - ~/Documents/projects/perso/KoR-server:/var/www/KoR-server
           networks:
             local:
-              ipv4_address: 172.121.0.110
+              ipv4_address: 172.111.0.110
           ports:
           - "80:80"
           - "443:443"
@@ -22,10 +22,10 @@ services:
       mysql:
           networks:
               local:
-                  ipv4_address: 172.121.0.111
+               ipv4_address: 172.111.0.111
           build: ./mysql
           volumes:
-          - $HOME/docker-data/KoR-server/mysql:/var/lib/mysql/:rw
+          - ~/docker-data/KoR-server/mysql:/var/lib/mysql/:rw
           environment:
           - MYSQL_DATABASE=kor_server
           - MYSQL_ROOT_PASSWORD=poiuyt

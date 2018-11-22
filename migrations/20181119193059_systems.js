@@ -3,10 +3,12 @@ exports.up = function(knex, Promise) {
     let ups = [
         knex.schema.createTable('systems', function(table) {
             table.increments();
-            table.string('name').notNullable();
-            table.string('location');
+            table.string('name').notNullable().index();
             table.integer('edsm_id').unsigned();
             table.integer('eddb_id').unsigned();
+            table.integer('x');
+            table.integer('y');
+            table.integer('z');
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');
@@ -19,7 +21,9 @@ exports.up = function(knex, Promise) {
             table.boolean('is_landable').default(0);
             table.integer('system_id').notNullable().unsigned();
             table.string('type');
-
+            table.integer('x');
+            table.integer('y');
+            table.integer('z');
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');
