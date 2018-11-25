@@ -4,12 +4,12 @@ var chai = require('chai');
 var expect = chai.expect;
 
 describe('Stream Reader Spec', function(){
-    const Reader = require('../../app/Services/Files/StreamReader.js');
+    const Reader = require('../../../app/Services/Files/StreamReader.js');
 
 
     it('should read real long file', function(done) {
         this.timeout(8500);
-        let path = './tests/Services/long-csv.csv';
+        let path = './tests/cases/Services/long-csv.csv';
         let reader= new Reader();
         let last_line;
         let rounds = 0;

@@ -5,7 +5,7 @@ module.exports = class Controller {
         this.bodyParser = bodyParser;
     }
     _parseQueryString(base, str) {
-        let params = decodeURI(base.split('?')[1]);
+        let params = decodeURIComponent(base.split('?')[1]);
         let couples = params.split('&');
         let o = {};
         couples.forEach(couple => {

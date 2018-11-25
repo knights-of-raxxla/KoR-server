@@ -33,6 +33,11 @@ module.exports = class ExpeditionRepo {
             .havingRaw(having_pow);
     }
 
+    createSystem({name, edsm_id, eddb_id, x, y, z}) {
+        let created_at = new Date();
+        return this.knex('systems')
+            .insert({name, edsm_id, eddb_id, x, y, z, created_at});
+    }
 
     /**
      * @param {Object} bag

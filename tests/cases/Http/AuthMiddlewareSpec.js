@@ -2,10 +2,10 @@
 var chai = require('chai');
 var expect = chai.expect;
 
-describe('UserManagerSpec', function(){
-    const container = require('../../app/Container')
+describe('AuthMiddleware soec', function(){
+    const container = require('../../../app/Container')
         .getInstance();
-    const Middleware = require('../../app/Http/AuthMiddleware.js');
+    const Middleware = require('../../../app/Http/AuthMiddleware.js');
     const JwtFactory = container.get('JwtFactory');
     const request =
 
@@ -19,6 +19,7 @@ describe('UserManagerSpec', function(){
                 headers: {
                     cookie
                 },
+                url: 'http://127.0.0.1:3111',
                 query: {
                     cookie
                 }

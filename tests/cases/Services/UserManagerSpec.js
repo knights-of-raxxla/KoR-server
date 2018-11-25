@@ -3,7 +3,7 @@ var chai = require('chai');
 var expect = chai.expect;
 
 describe('UserManagerSpec', function(){
-    const container = require('../../app/Container')
+    const container = require('../../../app/Container')
         .getInstance();
    const uuid = container.get('uuid');
    const userManager = container.get('UserManager');

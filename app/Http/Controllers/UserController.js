@@ -3,16 +3,18 @@ module.exports = class UserController extends Controller {
 
     handleLogin_v1(req, res) {
         let {email, password} = this._parseQueryString(req.url);
-        this.userManager.userCanLogin(email, password)
+        this.container.get('UserManager')
+        .userCanLogin(email, password)
         .then(can => {
-            if (!can) return res.send(401);
-            this.jwtFactory.make({payload: {email}})
+            if (!can) return res.sendStatus(401);
+            this.container.get('JwtFactory')
+            .make({payload: {email}})
             .then(token => {
-                return res.send(200).with({token});
+                return res.status(200).send({token});
             });
         }).catch(err => {
-            if (err.match('02:cant find user with email')) res.send(401);
-            else res.send(501);
+            if (err.match('02:cant find user with email')) res.sendStatus(401);
+            else res.sendStatus(501);
             return;
         });
     }

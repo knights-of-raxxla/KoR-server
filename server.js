@@ -37,7 +37,7 @@ app.use((req, res, next) => {
     .then(() => {
         next();
     }).catch(err => {
-        res.send(401);
+        res.sendStatus(401);
     });
 });
 
