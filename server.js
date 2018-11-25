@@ -7,7 +7,12 @@ const RouteManager = require("./app/Http/RoutesManager.js");
 
 var express = require("express");
 var app     = express();
-var http    = require("http").createServer(app);
+// parse application/x-www-form-urlencoded
+app.use(bodyParser.urlencoded({ extended: false }))
+// // parse application/json
+app.use(bodyParser.json())
+
+var http = require("http").createServer(app);
 
 let port = 80;
 global.express_port = port; // on en a besoin pour dans RedisBaseEvents.js

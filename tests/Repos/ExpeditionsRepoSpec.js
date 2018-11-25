@@ -36,5 +36,8 @@ describe('Expedition Repo Spec', function(){
             });
     });
 
+    // TODO
+    it('should create an expedition', function(done) {
+    });
 });
 

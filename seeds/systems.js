@@ -58,7 +58,7 @@ function insertSystemsChunk(systems) {
     });
     if (is_first_chunk) {
         systems.shift();
-        is_first_chunk = false,
+        is_first_chunk = false;
     }
     // inserted_count += systems.length;
     return knex('systems').insert(systems);
