@@ -36,7 +36,6 @@ module.exports = class AuthMiddleware {
     }
 
     getToken() {
-        console.log(this.req.headers.cookie);
         let cookies = this.req.headers.cookie.split("; ");
         for (let cookie of cookies) {
             let spl = cookie.split("=");

@@ -17,26 +17,22 @@ class RouteManager {
             return this.userController.handleLogin_v1(req, res);
         });
 
-        // // TODO
-        // this.app.get('/api/v1/user/can-login'
-        //     , this.userController.canLogin);
-        //
-        // // TODO
-        // this.app.post('/api/v1/user/create'
-        //     , this.userController.createUser);
-        //
-        // // TODO
-        // this.app.post('/api/v1/user/archive'
-        //     , this.userController.archiveUser);
-        //
-        // // TODO
-        // this.app.post('/api/v1/user/update'
-        //     , this.userController.updateUser);
-        //
-        // // TODO
-        // this.app.get('/api/v1/user/reset-password'
-        //     , this.userController.resetPassword);
-        //
+        this.app.get('/api/v1/user/', (req, res) => {
+            return this.userController.getUser(req, res);
+        });
+
+        this.app.post('/api/v1/user/create', (req, res) => {
+            return this.userController.createUser(req, res);
+        });
+
+        this.app.post('/api/v1/user/archive', (req, res) => {
+            return this.userController.archiveUser(req, res);
+        });
+
+        this.app.post('/api/v1/system/start-password-reset', (req, res) => {
+            return this.userController.resetUserPassword(req, res);
+        });
+
         // // TODO
         // this.app.post('/api/v1/expedition/create'
         //     , this.expeditionsController.createExpedition);
