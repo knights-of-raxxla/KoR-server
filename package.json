@@ -8,7 +8,7 @@
   },
   "scripts": {
       "setup": "knex migrate:latest && knex seed:run",
-      "test":  "mocha tests/ --recursive --exit"
+      "test":  "mocha tests/cases/ --recursive --exit"
   },
   "repository": {
     "type": "git",

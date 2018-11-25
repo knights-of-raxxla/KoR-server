@@ -7,7 +7,7 @@ class MutationReport {
         if (!success && !typeof success === 'string')
             throw new Error($errs[0]);
         if (!event && !typeof event === 'string')
-            throw new Error($errs[1j]);
+            throw new Error($errs[1]);
 
         return {sucess, event, context, __type: 'MutationReport'};
     }

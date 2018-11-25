@@ -16,33 +16,33 @@ class RouteManager {
         this.app.get('/api/v1/user/login/'
             , this.userController.handleLogin_v1);
 
-        // TODO
-        this.app.get('/api/v1/user/can-login'
-            , this.userController.canLogin);
-
-        // TODO
-        this.app.post('/api/v1/user/create'
-            , this.userController.createUser);
-
-        // TODO
-        this.app.post('/api/v1/user/archive'
-            , this.userController.archiveUser);
-
-        // TODO
-        this.app.post('/api/v1/user/update'
-            , this.userController.updateUser);
-
-        // TODO
-        this.app.get('/api/v1/user/reset-password'
-            , this.userController.resetPassword);
-
-        // TODO
-        this.app.post('/api/v1/expedition/create'
-            , this.expeditionsController.createExpedition);
-
-        // TODO
-        this.app.get('/api/v1/system/search'
-            , this.expeditionsController.searchSystem);
+        // // TODO
+        // this.app.get('/api/v1/user/can-login'
+        //     , this.userController.canLogin);
+        //
+        // // TODO
+        // this.app.post('/api/v1/user/create'
+        //     , this.userController.createUser);
+        //
+        // // TODO
+        // this.app.post('/api/v1/user/archive'
+        //     , this.userController.archiveUser);
+        //
+        // // TODO
+        // this.app.post('/api/v1/user/update'
+        //     , this.userController.updateUser);
+        //
+        // // TODO
+        // this.app.get('/api/v1/user/reset-password'
+        //     , this.userController.resetPassword);
+        //
+        // // TODO
+        // this.app.post('/api/v1/expedition/create'
+        //     , this.expeditionsController.createExpedition);
+        //
+        // // TODO
+        // this.app.get('/api/v1/system/search'
+        //     , this.expeditionsController.searchSystem);
 
     }
 
@@ -50,7 +50,7 @@ class RouteManager {
         Object.keys($controllers).forEach(controller_name => {
             if (this.controller_name)
                throw new Error(`RoutesManager:01:cant have 2 controllers with same name (${controller_name})`);
-            this.[controller_name] = new $controllers[controller_name](container);
+            this[controller_name] = new $controllers[controller_name](container);
         });
     }
 }

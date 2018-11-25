@@ -52,7 +52,7 @@ module.exports = class ExpeditionRepo {
                     ins.push({
                         expedition_id,
                         system_id,
-                        created_by
+                        created_by,
                         created_at,
                     });
                 });
