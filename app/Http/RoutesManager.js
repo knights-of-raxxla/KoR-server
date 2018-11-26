@@ -1,37 +1,53 @@
+const $controllers = {
+    'userController': require('./Controllers/UserController.js'),
+    'expeditionsController': require('./Controllers/ExpeditionsController.js')
+};
 class RouteManager {
     constructor(app, container) {
         this.app = app;
         this.userManager = container.get('UserManager');
         this.jwtFactory = container.get('JwtFactory');
+        this._ = container.get('lodash');
+        this._instantiateControllers(container);
         this.make_v1();
     }
 
-    _parseQueryString(base, str) {
-        let params = decodeURI(base.split('?')[1]);
-        let couples = params.split('&');
-        let o = {};
-        couples.forEach(couple => {
-            let spl = couple.split('=');
-            o[spl[0]] = spl[1];
+    make_v1() {
+        this.app.get('/api/v1/user/login/', (req, res) => {
+            return this.userController.handleLogin_v1(req, res);
         });
-        return o;
+
+        this.app.get('/api/v1/user/', (req, res) => {
+            return this.userController.getUser(req, res);
+        });
+
+        this.app.post('/api/v1/user/create', (req, res) => {
+            return this.userController.createUser(req, res);
+        });
+
+        this.app.post('/api/v1/user/archive', (req, res) => {
+            return this.userController.archiveUser(req, res);
+        });
+
+        this.app.post('/api/v1/system/start-password-reset', (req, res) => {
+            return this.userController.resetUserPassword(req, res);
+        });
+
+        // // TODO
+        // this.app.post('/api/v1/expedition/create'
+        //     , this.expeditionsController.createExpedition);
+        //
+        // // TODO
+        // this.app.get('/api/v1/system/search'
+        //     , this.expeditionsController.searchSystem);
+
     }
 
-    make_v1() {
-        this.app.get('/api/v1/login/', (req, res) => {
-            let {email, password} = this._parseQueryString(req.url);
-            this.userManager.userCanLogin(email, password)
-            .then(can => {
-                if (!can) return res.send(401);
-                this.jwtFactory.make({payload: {email}})
-                .then(token => {
-                    return res.send(200).with({token});
-                });
-            }).catch(err => {
-                if (err.match('02:cant find user with email')) res.send(401);
-                else res.send(501);
-                return;
-            });
+    _instantiateControllers(container) {
+        Object.keys($controllers).forEach(controller_name => {
+            if (this.controller_name)
+               throw new Error(`RoutesManager:01:cant have 2 controllers with same name (${controller_name})`);
+            this[controller_name] = new $controllers[controller_name](container);
         });
     }
 }

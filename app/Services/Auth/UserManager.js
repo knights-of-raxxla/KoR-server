@@ -74,6 +74,20 @@ module.exports = class UserManager {
         });
     }
 
+    getUser(id) {
+        return this.knex('users')
+            .where({id})
+            .select([
+                'id',
+                'name',
+                'email',
+                'permissions',
+                'groups',
+                'archive',
+                'created_at'
+            ]).first();
+    }
+
     /**
      * @public
      * Checks if user can login with combo email + clear password
@@ -107,13 +121,15 @@ module.exports = class UserManager {
      * @return {Promise<Object, Error>} see below
      */
     startPasswordReset(email) {
-        let reset_key = this.uuid.v4();
-        let user;
+        return new Promise((resolve, reject) => {
+            let reset_key = this.uuid.v4();
+            let user;
 
-        return this.knex('users')
+            return this.knex('users')
             .where({email})
             .first()
             .then(_user => {
+                if (!_user) return reject('no user found');
                 user = _user;
                 return this.knex('users')
                 .where({email})
@@ -122,13 +138,14 @@ module.exports = class UserManager {
                     reset_at: new Date(),
                 });
             }).then(() => {
-                return {
+                return resolve({
                     id: user.id,
                     email,
                     reset_key,
                     name: user.name
-                };
+                });
             });
+        });
     }
 
     /**

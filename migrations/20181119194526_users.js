@@ -14,7 +14,7 @@ exports.up = function(knex, Promise) {
 
             table.dateTime('created_at');
             table.dateTime('updated_at');
-            table.boolean('archive');
+            table.boolean('archive').default(0);
         }),
         knex.schema.createTable('expeditions', function(table) {
             table.increments();
@@ -22,15 +22,24 @@ exports.up = function(knex, Promise) {
             table.text('description');
             table.string('type');
 
+            table.boolean('complete').default(0);
+
+            table.integer('created_by').unsigned();
+
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');
+
+            table.foreign('created_by')
+                .references('users.id');
+
         }),
+
         knex.schema.createTable('expeditions_systems_users', function(table) {
             table.increments();
             table.integer('system_id').notNullable().unsigned();
             table.integer('expedition_id').notNullable().unsigned();
-            table.integer('user_id').notNullable().unsigned();
+            table.integer('user_id').unsigned();
 
             table.dateTime('created_at');
             table.dateTime('updated_at');
@@ -52,7 +61,6 @@ exports.up = function(knex, Promise) {
             table.integer('visitable_id').notNullable().unsigned();
             table.integer('user_id').notNullable();
             table.datetime('date').notNullable();
-
 
             table.dateTime('created_at');
             table.dateTime('updated_at');

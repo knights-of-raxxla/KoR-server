@@ -18,6 +18,9 @@ class Container {
         dipsy.register("jsonwebtoken", require("jsonwebtoken"), [], false);
         dipsy.register('knex', require('./Framework/Knex.js'), []);
 
+        dipsy.register('MutationReporter',
+            require('./Framework/MutationReport.js'));
+
         dipsy.register('JwtFactory', require('./Services/Auth/JwtFactory.js'), [
             'jsonwebtoken',
         ]);
@@ -28,9 +31,12 @@ class Container {
             "uuid"
         ]);
 
-        dipsy.register('StreamReader', require('./Services/Files/StreamReader.js'), []);
+        dipsy.register('StreamReader'
+            , require('./Services/Files/StreamReader.js'), []);
 
-        dipsy.register('ExpeditionsRepo', require('./Repos/ExpeditionsRepo.js'), ['knex']);
+        dipsy.register('ExpeditionsRepo'
+            , require('./Repos/ExpeditionsRepo.js'), ['knex', 'MutationReporter']);
+
 
         return dipsy;
     }
