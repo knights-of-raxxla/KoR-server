@@ -1,4 +1,5 @@
 
+const $platforms = ['ps4', 'xbox_one', 'pc'];
 exports.up = function(knex, Promise) {
     let ups = [
         knex.schema.createTable('users', function(table) {
@@ -11,6 +12,7 @@ exports.up = function(knex, Promise) {
             table.datetime('reset_at');
             table.text('groups');
             table.text('permissions');
+            table.enum('platform', $platforms);
 
             table.dateTime('created_at');
             table.dateTime('updated_at');
@@ -21,8 +23,8 @@ exports.up = function(knex, Promise) {
             table.string('name').notNullable();
             table.text('description');
             table.string('type');
-
-            table.boolean('complete').default(0);
+            table.string('status'); // 'complete' 'in_progress' 'paused'
+            table.date('ignore_visitables_before');
 
             table.integer('created_by').unsigned();
 
@@ -61,6 +63,8 @@ exports.up = function(knex, Promise) {
             table.integer('visitable_id').notNullable().unsigned();
             table.integer('user_id').notNullable();
             table.datetime('date').notNullable();
+            table.enum('platform', $platforms);
+            table.enum('report_method', ['dump', 'parse', 'manual']);
 
             table.dateTime('created_at');
             table.dateTime('updated_at');

@@ -16,14 +16,10 @@ exports.up = function(knex, Promise) {
         knex.schema.createTable('bodies', function(table) {
             table.increments();
             table.string('name').unique().notNullable();
-            table.string('location').notNullable();
             table.float('distance_from_arrival').notNullable();
             table.boolean('is_landable').default(0);
             table.integer('system_id').notNullable().unsigned();
             table.string('type');
-            table.integer('x');
-            table.integer('y');
-            table.integer('z');
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');
