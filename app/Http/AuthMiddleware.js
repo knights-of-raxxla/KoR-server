@@ -4,7 +4,8 @@ const err = {
 
 const env = require('../../env.js');
 const public_endpoints = [
-    '/api/v1/login'
+    '/api/v1/login',
+    '/api/v1/authenticate'
 ];
 /**
  * @class AuthMiddleware
@@ -12,7 +13,7 @@ const public_endpoints = [
  * a valid JWT
  * - let requests that come from public endpoints pass through
  */
-const cookie_key = 'kor';
+const cookie_key = 'raxxla_auth';
 module.exports = class AuthMiddleware {
     constructor(req, res, JWT) {
         this.JWT = JWT;

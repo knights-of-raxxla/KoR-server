@@ -1,7 +1,24 @@
 const Controller = require('../../Framework/Controller.js');
 module.exports = class UserController extends Controller {
+    authenticate(req, res) {
+        console.log('authenticate ??');
+        let token = req.jwt;
+        console.log(JSON.stringify({token}, null, 4));
+        if (!token) return res.send(false).status(200);
+
+        this.container.get('JwtFactory')
+        .make(token)
+        .then(res => {
+            res.send(true).status(200);
+        }).catch(err => {
+            console.log(JSON.stringify({err}, null, 4));
+            res.send(false).status(200);
+        });
+    }
+
     handleLogin_v1(req, res) {
         let {email, password} = this._parseQueryString(req.url);
+        console.log('coucou', {email, password});
         this.container.get('UserManager')
         .userCanLogin(email, password)
         .then(can => {

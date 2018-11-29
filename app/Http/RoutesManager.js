@@ -13,6 +13,10 @@ class RouteManager {
     }
 
     make_v1() {
+        this.app.get('/api/v1/user/authenticate', (req, res) => {
+            return this.userController.authenticate(req, res);
+        });
+
         this.app.get('/api/v1/user/login/', (req, res) => {
             return this.userController.handleLogin_v1(req, res);
         });
