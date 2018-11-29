@@ -22,7 +22,7 @@ module.exports = class UserManager {
     createUser(params = {}) {
         return new Promise((resolve, reject) => {
             let clear_password = params.password;
-            let {email, name, groups, permissions} = params;
+            let {email, name, groups, permissions, platform} = params;
 
             if (!this._validateEmail(email)) return reject(`UserManager:01:bad email`);
 
@@ -38,7 +38,8 @@ module.exports = class UserManager {
                     name,
                     email,
                     groups,
-                    permissions
+                    permissions,
+                    platform
                 });
             }).then(([id]) => {
                 return resolve(id);
@@ -177,7 +178,7 @@ module.exports = class UserManager {
      *
      * @return {Promise<Integer[], Error>} [pk]
      */
-    _insertUser({password, name, email, groups, permissions}) {
+    _insertUser({password, name, email, groups, permissions, platform}) {
         return this.knex('users')
         .insert({
             password,
@@ -185,7 +186,8 @@ module.exports = class UserManager {
             email,
             created_at: new Date(),
             groups,
-            permissions
+            permissions,
+            platform
         });
     }
 

@@ -19,18 +19,13 @@ command_line_args.forEach(couples => {
 
 var express = require("express");
 var app     = express();
+const cors = require('cors');
 const bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
-app.use(function(req, res, next) {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-    next();
-});
-
+app.use(cors({origin:true,credentials: true}));
 
 var http = require("http").createServer(app);
-
 let port = runtime_args.port || 80;
 global.express_port = port; // on en a besoin pour dans RedisBaseEvents.js
 

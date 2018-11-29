@@ -1,24 +1,29 @@
 const Controller = require('../../Framework/Controller.js');
 module.exports = class UserController extends Controller {
     authenticate(req, res) {
-        console.log('authenticate ??');
-        let token = req.jwt;
-        console.log(JSON.stringify({token}, null, 4));
-        if (!token) return res.send(false).status(200);
-
-        this.container.get('JwtFactory')
-        .make(token)
-        .then(res => {
-            res.send(true).status(200);
-        }).catch(err => {
-            console.log(JSON.stringify({err}, null, 4));
-            res.send(false).status(200);
-        });
+        if (!req.jwt_decoded) {
+            return res.send(false).status(200);
+        } else {
+            let email = req.jwt_decoded.email;
+            if (!email) return res.send(`UserController::authenticate failed, unknown`).status(503);
+            this.container.get('knex')('users')
+                .where({email})
+                .select([
+                    'groups',
+                    'permissions',
+                    'id',
+                    'platform',
+                    'email',
+                    'name'
+                ]).first()
+                .then(data => {
+                    res.send({session: data}).status(200);
+                });
+        }
     }
 
     handleLogin_v1(req, res) {
         let {email, password} = this._parseQueryString(req.url);
-        console.log('coucou', {email, password});
         this.container.get('UserManager')
         .userCanLogin(email, password)
         .then(can => {
@@ -42,6 +47,7 @@ module.exports = class UserController extends Controller {
         .then(out => {
             return res.status(200).send({user_id: out});
         }).catch(err => {
+            console.log({err})
             if (err && err.toString)
                 err = err.toString();
             res.status(501).send(err);
