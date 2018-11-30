@@ -17,6 +17,7 @@ class Container {
         dipsy.register("decimal.js", require("decimal.js"), [], false);
         dipsy.register("jsonwebtoken", require("jsonwebtoken"), [], false);
         dipsy.register('knex', require('./Framework/Knex.js'), []);
+        dipsy.register('nodemailer', require('nodemailer'), [], false);
 
         dipsy.register('MutationReporter',
             require('./Framework/MutationReport.js'));
@@ -36,6 +37,9 @@ class Container {
 
         dipsy.register('ExpeditionsRepo'
             , require('./Repos/ExpeditionsRepo.js'), ['knex', 'MutationReporter']);
+
+         dipsy.register('Mailer'
+         , require('./Services/Email/Mailer.js'), ['nodemailer']);
 
 
         return dipsy;
