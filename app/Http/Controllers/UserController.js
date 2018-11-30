@@ -68,6 +68,8 @@ module.exports = class UserController extends Controller {
     }
 
     getUser(req, res) {
+        // allow if req.jwt_decoded.email = same user
+        // or if has sufficient permissions
         let {user_id} = this._parseQueryString(req.url);
         return this.container.get('UserManager')
         .getUser(user_id)
@@ -79,11 +81,22 @@ module.exports = class UserController extends Controller {
         });
     }
 
-    resetUserPassword(req, res) {
+    /**
+     * 1st step => generate token
+     */
+    startResetUserPassword(req, res) {
         let params = req.body;
+        let {reset_endpoint} = params;
         return this.container.get('UserManager')
         .startPasswordReset(params.email)
         .then(out => {
+            let {id, email, reset_key, name} = out;
+            reset_endpoint = reset_endpoint += '/' + reset_key;
+            let email_opts = this.container.get('MailFactory')
+                .passwordReset({name, email, reset_endpoint});
+            return this.container.get('Mailer')
+                .send(email_opts)
+        }).then(out => {
             return res.status(200).send({out});
         }).catch(err => {
             return res.status(501).send(err);

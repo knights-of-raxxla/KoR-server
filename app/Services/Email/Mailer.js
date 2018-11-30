@@ -7,7 +7,7 @@ module.exports = class Mailer {
     }
 
     createTransport() {
-        return nodemailer.createTransport({
+        return this.nodemailer.createTransport({
             host: $smtp.host,
             port: $smtp.port,
             secure: true, // true for 465, false for other ports

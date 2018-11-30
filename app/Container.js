@@ -40,6 +40,8 @@ class Container {
 
          dipsy.register('Mailer'
          , require('./Services/Email/Mailer.js'), ['nodemailer']);
+         dipsy.register('MailFactory'
+         , require('./Services/Email/MailFactory.js'));
 
 
         return dipsy;

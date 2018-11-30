@@ -33,9 +33,15 @@ class RouteManager {
             return this.userController.archiveUser(req, res);
         });
 
-        this.app.post('/api/v1/system/start-password-reset', (req, res) => {
-            return this.userController.resetUserPassword(req, res);
+        this.app.post('/api/v1/user/start-password-reset', (req, res) => {
+            return this.userController.startResetUserPassword(req, res);
         });
+
+        // TODO
+        // /api/v1/user/reset-password
+        // params : token, new_clear_password
+        // public route
+        //
 
         // // TODO
         // this.app.post('/api/v1/expedition/create'
