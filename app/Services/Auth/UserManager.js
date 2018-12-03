@@ -130,21 +130,53 @@ module.exports = class UserManager {
             .where({email})
             .first()
             .then(_user => {
+                let p = new Promise(resolve => resolve());
                 if (!_user) return reject('no user found');
-                user = _user;
-                return this.knex('users')
-                .where({email})
-                .update({
-                    reset: reset_key,
-                    reset_at: new Date(),
-                });
+                else {
+                    user = _user;
+                    p = this.knex('users')
+                    .where({email})
+                    .update({
+                        reset: reset_key,
+                        reset_at: new Date(),
+                    });
+                }
+                return p;
             }).then(() => {
+                if (!user) return;
                 return resolve({
                     id: user.id,
                     email,
                     reset_key,
                     name: user.name
                 });
+            });
+        });
+    }
+
+    resetPassword(token, new_password) {
+        return new Promise((resolve, reject) => {
+            this.knex('users')
+            .where({
+                reset: token,
+            }).first()
+            .then(user => {
+                if (!user) {
+                    let err = `UserManager:12:cant find user to reset password`;
+                    return reject(err);
+                } else return this._hashPassword(new_password);
+            }).then(hashed_pass => {
+                return this.knex('users')
+                .where({
+                    reset: token,
+                }).update({
+                    password: hashed_pass,
+                    reset: null
+                });
+            }).then(() => {
+                return resolve();
+            }).catch(err => {
+                return reject(err);
             });
         });
     }

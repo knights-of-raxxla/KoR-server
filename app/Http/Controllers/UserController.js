@@ -97,9 +97,28 @@ module.exports = class UserController extends Controller {
             return this.container.get('Mailer')
                 .send(email_opts)
         }).then(out => {
+
             return res.status(200).send({out});
         }).catch(err => {
             return res.status(501).send(err);
         });
     }
+
+    resetPassword(req, res) {
+        let params = req.body;
+        if (!params.password || !params.token)
+            return res.status(501).send(`Insufficient parameters`);
+        return this.container.get('UserManager')
+            .resetPassword(params.token, params.password)
+            .then(out => {
+                return res.sendStatus(200);
+            }).catch(err => {
+                if (err && err.toString)
+                    err = err.toString();
+                return res.status(501).send(err);
+            });
+    }
+
+
+
 };

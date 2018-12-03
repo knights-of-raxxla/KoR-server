@@ -8,7 +8,8 @@ const public_endpoints = [
     '/api/v1/user/login',
     '/api/v1/user/authenticate',
     '/api/v1/user/create',
-    '/api/v1/user/start-password-reset'
+    '/api/v1/user/start-password-reset',
+    '/api/v1/user/reset-password'
 ];
 /**
  * @class AuthMiddleware
