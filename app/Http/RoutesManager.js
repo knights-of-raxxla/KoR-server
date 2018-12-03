@@ -45,26 +45,9 @@ class RouteManager {
             return this.expeditionsController.searchSystem(req, res);
         });
 
-        this.app.post('/api/v1/expeditions/create', (req, res) => {
-            let params = req.params;
-            // createExpedition
-            // fetchSystemsBodiesInfo
+        this.app.post('/api/v1/expeditions', (req, res) => {
+            return this.expeditionsController.manage(req, res);
         });
-
-        // TODO
-        // /api/v1/user/reset-password
-        // params : token, new_clear_password
-        // public route
-        //
-
-        // // TODO
-        // this.app.post('/api/v1/expedition/create'
-        //     , this.expeditionsController.createExpedition);
-        //
-        // // TODO
-        // this.app.get('/api/v1/system/search'
-        //     , this.expeditionsController.searchSystem);
-
     }
 
     _instantiateControllers(container) {

@@ -3,6 +3,7 @@ module.exports = class Controller {
     constructor(container) {
         this.container = container;
         this.bodyParser = bodyParser;
+        this._ = container.get('lodash');
     }
     _parseQueryString(base, str) {
         let params = decodeURIComponent(base.split('?')[1]);
@@ -13,5 +14,13 @@ module.exports = class Controller {
             o[spl[0]] = spl[1];
         });
         return o;
+    }
+
+    getUserEmail(req) {
+        return this._.get(req, 'jwt_decoded.email');
+    }
+
+    getPostMethodParams(req) {
+        return req.body;
     }
 }

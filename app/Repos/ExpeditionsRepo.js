@@ -1,3 +1,4 @@
+const _ = require('lodash');
 module.exports = class ExpeditionRepo {
     constructor(knex, mutationReporter) {
         this.knex = knex;
@@ -7,6 +8,12 @@ module.exports = class ExpeditionRepo {
     getSystem(name) {
         return this.knex('systems')
         .where({name})
+        .first();
+    }
+
+    getSystemById(id) {
+        return this.knex('systems')
+        .where({id})
         .first();
     }
 
@@ -40,35 +47,120 @@ module.exports = class ExpeditionRepo {
     }
 
     /**
-     * @param {Object} bag
-     * @param {String} bag.name
-     * @param {String} bag.description -> should be html
-     * @param {Integer[]} bag.systems_ids id of selected systems
-     * @param {Integer} bag.created_by user id
-     *
+     * Insert or update an expedition
+     * @param {ExpeditionsForm} params
      */
-    createExpedition({name, description, system_ids, created_by}) {
-        let created_at = Date.now();
-        this.knex('expeditions')
-            .insert({name, description, created_at})
-            .then(([expedition_id]) => {
-                let ins = [];
-                system_ids.forEach(system_id => {
-                    ins.push({
-                        expedition_id,
-                        system_id,
-                        created_by,
-                        created_at,
+    manageExpedition(params, creator_email) {
+        let action = 'update';
+        if (params.id) action = 'insert';
+        if (action === 'insert')
+            return this._updateBasicExpeditionInfo(params)
+        else {
+            let expedition_id;
+            return this._findUser(creator_email)
+                .then(user => {
+                    let created_by;
+                    if (user.id) created_by = user.id;
+                    return this._insertBaseExpedition(params, created_by);
+                }).then(res => {
+                    expedition_id = res[0];
+                    return this._findSystemsForCreation(params);
+                }).then(system_ids => {
+                    return this._attachSystemsToExpeditions(system_ids, expedition_id);
+                }).then(res => {
+                    return expedition_id;
+                });
+        }
+    }
+
+    fetchExpedition() {
+        // TODO
+        // rels :
+        // systems
+        // created_by
+        // systems.bodies
+        // systems.bodies.visitables
+        //
+    }
+
+    /**
+     * @param {ExpeditionsForm} params
+     */
+    _findSystemsForCreation(params) {
+        return new Promise((resolve, reject) => {
+            if (params.systems.method === 'manual')  {
+                let system_ids = _.map(params.systems.selected, system => {
+                    return system.id
+                });
+                return resolve(system_ids);
+            } else if (params.systems.method === 'center'){
+                let {radius, center} = params.systems;
+                this.getSystemById(center)
+                .then(system => {
+                    return this.findSystemsAround(system, radius)
+                }).then(systems => {
+                    let system_ids = _.map(systems, system => {
+                        return system.id
                     });
+                    return resolve(system_ids);
                 });
-                return this.knex('expeditions_systems_users')
-                .insert(ins)
-            }).then(() => {
-                return this.mutationReporter.make({
-                    success: 1,
-                    event: 'expedition created',
-                    context: {system_ids, name, description}
-                });
+            } else {
+                return reject(`unknown method ${params.systems.method}`);
+            }
+        });
+    }
+
+    _attachSystemsToExpeditions(system_ids, expedition_id) {
+        let ins = [];
+        let created_at = new Date();
+        system_ids.forEach(system_id => {
+            ins.push({
+                expedition_id,
+                system_id,
+                created_at,
             });
+        });
+        return this.knex('expeditions_systems_users')
+        .insert(ins)
+    }
+
+    _findUser(email) {
+        return this.knex('users')
+        .where({email})
+        .first();
+    }
+
+    /**
+     * @param {ExpeditionsForm} params
+     */
+    _updateBasicExpeditionInfo(params) {
+        let now = new Date();
+        return this.knex('expeditions')
+        .where({id})
+        .update({
+            name: params.name,
+            description: params.description,
+            status: params.status,
+            updated_at: now
+        });
+    }
+
+    /**
+     * @param {ExpeditionsForm} params
+     */
+    _insertBaseExpedition(params, created_by) {
+        let now = new Date();
+        let ignore_visitables_before;
+        if (params.ignore_before_toggle)
+            ignore_visitables_before = params.ignore_before;
+        return this.knex('expeditions')
+        .insert({
+            name: params.name,
+            description: params.description,
+            status: params.status,
+            ignore_visitables_before,
+            created_by,
+            created_at: now
+        });
     }
 }
