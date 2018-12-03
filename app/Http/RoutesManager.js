@@ -41,6 +41,16 @@ class RouteManager {
             return this.userController.resetPassword(req, res);
         });
 
+        this.app.get('/api/v1/systems/search', (req, res) => {
+            return this.expeditionsController.searchSystem(req, res);
+        });
+
+        this.app.post('/api/v1/expeditions/create', (req, res) => {
+            let params = req.params;
+            // createExpedition
+            // fetchSystemsBodiesInfo
+        });
+
         // TODO
         // /api/v1/user/reset-password
         // params : token, new_clear_password

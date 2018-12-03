@@ -12,7 +12,7 @@ module.exports = class ExpeditionRepo {
 
     searchSystemByName(name) {
         return this.knex('systems')
-            .where('name', 'like' `%${name}%`);
+            .where('name', 'like', `%${name}%`);
     }
 
     /**

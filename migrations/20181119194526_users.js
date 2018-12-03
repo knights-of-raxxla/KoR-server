@@ -22,7 +22,7 @@ exports.up = function(knex, Promise) {
             table.increments();
             table.string('name').notNullable();
             table.text('description');
-            table.string('type');
+            table.string('type'); // for later
             table.string('status'); // 'complete' 'in_progress' 'paused'
             table.date('ignore_visitables_before');
 
