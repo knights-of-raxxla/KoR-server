@@ -19,6 +19,14 @@ class Container {
         dipsy.register('knex', require('./Framework/Knex.js'), []);
         dipsy.register('nodemailer', require('nodemailer'), [], false);
 
+         dipsy.register('BodiesModel', require('./Models/BodiesModel.js'));
+         dipsy.register('ExpeditionsSystemsUserModel'
+             , require('./Models/ExpeditionsSystemsUsersModel.js'));
+         dipsy.register('VisitablesModel', require('./Models/VisitablesModel.js'));
+         dipsy.register('UsersModel', require('./Models/UsersModel.js'));
+         dipsy.register('SystemsModel', require('./Models/SystemsModel.js'));
+         dipsy.register('ExpeditionsModel', require('./Models/ExpeditionsModel.js'));
+
         dipsy.register('MutationReporter',
             require('./Framework/MutationReport.js'));
 
@@ -36,12 +44,19 @@ class Container {
             , require('./Services/Files/StreamReader.js'), []);
 
         dipsy.register('ExpeditionsRepo'
-            , require('./Repos/ExpeditionsRepo.js'), ['knex', 'MutationReporter']);
+            , require('./Repos/ExpeditionsRepo.js'), [
+            'knex',
+            'MutationReporter',
+            'ExpeditionsModel',
+            'ExpeditionsSystemsUserModel',
+            'SystemsModel'
+            ]);
 
          dipsy.register('Mailer'
          , require('./Services/Email/Mailer.js'), ['nodemailer']);
          dipsy.register('MailFactory'
          , require('./Services/Email/MailFactory.js'));
+
 
 
         return dipsy;

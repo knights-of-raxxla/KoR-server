@@ -48,6 +48,10 @@ class RouteManager {
         this.app.post('/api/v1/expeditions', (req, res) => {
             return this.expeditionsController.manage(req, res);
         });
+
+        this.app.get('/api/v1/expeditions/:id', (req, res) => {
+            return this.expeditionsController.fetchExpedition(req, res);
+        });
     }
 
     _instantiateControllers(container) {

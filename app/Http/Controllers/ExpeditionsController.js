@@ -1,5 +1,5 @@
 const Controller = require('../../Framework/Controller.js');
-module.exports = class UserController extends Controller {
+module.exports = class ExpeditionsController extends Controller {
     searchSystem(req, res) {
         let {system} = this._parseQueryString(req.url);
         return this.container.get('ExpeditionsRepo')
@@ -37,6 +37,25 @@ module.exports = class UserController extends Controller {
                 return res.status(200).send({expedition_id})
             }).catch(err => {
                 res.status(501).send({err});
+            });
+    }
+
+    fetchExpedition(req, res) {
+        let expedition_id = req.params.id;
+        let {offset, partial} = this._parseQueryString(req.url);
+        offset = parseInt(offset);
+        if (isNaN(offset)) offset = 0;
+
+        if (partial === 'false') partial = false;
+        if (partial === 'true') partial = true;
+
+        return this.container.get('ExpeditionsRepo')
+            .fetchExpedition(expedition_id, offset, partial)
+            .then(data => {
+                return res.status(200).send(data);
+            }).catch(err => {
+                console.log({err});
+                return res.status(501).send({err});
             });
     }
 }

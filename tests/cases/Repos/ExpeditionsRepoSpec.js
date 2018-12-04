@@ -10,6 +10,17 @@ describe('Expedition Repo Spec', function(){
     const async = container.get('async');
     let sol;
 
+    it.only('should query expedition data', function(done) {
+        repo.fetchExpedition(18, 0, false)
+            .then(data => {
+                // console.log(JSON.stringify(data, null, 4));
+                done();
+            }).catch(err => {
+                console.log(err);
+                throw new Error(err);
+            });
+    });
+
     it('should create new system', function(done) {
         let system = {
             name: 'Raxxla X1',
