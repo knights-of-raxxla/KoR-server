@@ -36,6 +36,7 @@ module.exports = class ExpeditionsController extends Controller {
             .then(expedition_id => {
                 return res.status(200).send({expedition_id})
             }).catch(err => {
+                console.log({err});
                 res.status(501).send({err});
             });
     }

@@ -1,8 +1,10 @@
 const _ = require('lodash');
 const async = require('async-q');
 module.exports = class ExpeditionRepo {
-    constructor(knex, mutationReporter, ExpeditionsModel, ExpePivot, SystemsModel) {
+    constructor(knex, async, mutationReporter, ExpeditionsModel, ExpePivot, SystemsModel, BodyRepo) {
         this.knex = knex;
+        this.async = async;
+        this.bodyRepo = BodyRepo;
         this.mutationReporter = mutationReporter;
         this.ExpeditionsModel = ExpeditionsModel;
         this.ExpePivot =  ExpePivot;
@@ -55,6 +57,7 @@ module.exports = class ExpeditionRepo {
      * @param {ExpeditionsForm} params
      */
     manageExpedition(params, creator_email) {
+        let system_ids;
         let action = 'update';
         if (params.id) action = 'insert';
         if (action === 'insert')
@@ -63,18 +66,38 @@ module.exports = class ExpeditionRepo {
             let expedition_id;
             return this._findUser(creator_email)
                 .then(user => {
+                    console.log(1);
                     let created_by;
                     if (user.id) created_by = user.id;
                     return this._insertBaseExpedition(params, created_by);
                 }).then(res => {
+                    console.log(2);
                     expedition_id = res[0];
                     return this._findSystemsForCreation(params);
-                }).then(system_ids => {
+                }).then(_system_ids => {
+                    system_ids = _system_ids;
+                    return this.knex('systems')
+                        .where('id', 'in', system_ids);
+                }).then(systems => {
+                    return this._checkAndFetchAllBodies(systems);
+                }).then(() => {
                     return this._attachSystemsToExpeditions(system_ids, expedition_id);
                 }).then(res => {
                     return expedition_id;
                 });
         }
+    }
+    _checkAndFetchAllBodies(systems) {
+        return this.async.each(systems, system => {
+            return new Promise((resolve, reject) => {
+                this.bodyRepo.checkHasBodies(system.id)
+                .then(has => {
+                    if (has) return;
+                    return this.bodyRepo.getAndInsertBodies(system);
+                }).then(out => resolve(out))
+                .catch(err => reject(err));
+            });
+        })
     }
 
     fetchExpedition(id, offset, partial = false) {

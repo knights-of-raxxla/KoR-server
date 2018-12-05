@@ -18,6 +18,8 @@ class Container {
         dipsy.register("jsonwebtoken", require("jsonwebtoken"), [], false);
         dipsy.register('knex', require('./Framework/Knex.js'), []);
         dipsy.register('nodemailer', require('nodemailer'), [], false);
+        dipsy.register('child_process', require('child_process'), [], false);
+        dipsy.register('cheerio', require('cheerio'), [], false);
 
          dipsy.register('BodiesModel', require('./Models/BodiesModel.js'));
          dipsy.register('ExpeditionsSystemsUserModel'
@@ -43,13 +45,18 @@ class Container {
         dipsy.register('StreamReader'
             , require('./Services/Files/StreamReader.js'), []);
 
+        dipsy.register('BodyRepo'
+            , require('./Repos/BodyRepo.js')
+            , ['request', 'cheerio', 'knex', 'MutationReporter']);
         dipsy.register('ExpeditionsRepo'
             , require('./Repos/ExpeditionsRepo.js'), [
             'knex',
+            'async',
             'MutationReporter',
             'ExpeditionsModel',
             'ExpeditionsSystemsUserModel',
-            'SystemsModel'
+            'SystemsModel',
+            'BodyRepo'
             ]);
 
          dipsy.register('Mailer'
