@@ -58,4 +58,35 @@ module.exports = class ExpeditionsController extends Controller {
                 return res.status(501).send({err});
             });
     }
+
+    fetchCurrentExpeditions(req, res) {
+        return this.container.get('ExpeditionsRepo')
+            .fetchCurrentExpeditions()
+            .then(data => {
+                return res.status(200).send(data);
+            }).catch(err => {
+                console.log({err});
+                return res.status(501).send({err});
+            });
+    }
+
+    insertVisitable(req, res) {
+        let visitable = req.body;
+        let err;
+        if (!visitable.visitable_type)
+            err = `not found visitable_type`;
+        else if (!visitable.visitable_id)
+            err = `not found visitable_id`;
+       else if (!visitable.user_id)
+            err = `not found user_idd`;
+        if (err) return res.status(501).send(err);
+        return this.container.get('ExpeditionsRepo')
+            .insertVisitable(visitable)
+            .then(data => {
+                return res.status(200).send(data);
+            }).catch(err => {
+                console.log({err});
+                return res.status(501).send({err});
+            });
+    }
 }

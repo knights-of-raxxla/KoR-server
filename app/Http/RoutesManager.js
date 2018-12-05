@@ -49,9 +49,18 @@ class RouteManager {
             return this.expeditionsController.manage(req, res);
         });
 
-        this.app.get('/api/v1/expeditions/:id', (req, res) => {
+        this.app.get('/api/v1/expedition/:id', (req, res) => {
             return this.expeditionsController.fetchExpedition(req, res);
         });
+
+        this.app.get('/api/v1/expeditions/current', (req, res) => {
+            return this.expeditionsController.fetchCurrentExpeditions(req, res);
+        });
+
+        this.app.post('/api/v1/visitables', (req, res) => {
+            return this.expeditionsController.insertVisitable(req, res);
+        });
+
     }
 
     _instantiateControllers(container) {

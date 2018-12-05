@@ -30,7 +30,7 @@ exports.up = function(knex, Promise) {
 
             table.dateTime('created_at');
             table.dateTime('updated_at');
-            table.boolean('archive');
+            table.boolean('archive').default(0);
 
             table.foreign('created_by')
                 .references('users.id');

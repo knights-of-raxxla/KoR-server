@@ -9,7 +9,9 @@ const public_endpoints = [
     '/api/v1/user/authenticate',
     '/api/v1/user/create',
     '/api/v1/user/start-password-reset',
-    '/api/v1/user/reset-password'
+    '/api/v1/user/reset-password',
+    '/api/v1/expeditions/current',
+    '/api/v1/expedition/'
 ];
 /**
  * @class AuthMiddleware
@@ -67,6 +69,12 @@ module.exports = class AuthMiddleware {
 
     _isPublicEndpoint(req) {
         let endpoint = req.url.split('?')[0];
-        return public_endpoints.indexOf(endpoint) > -1;
+        for (let public_endpoint of public_endpoints) {
+            let r = `^${public_endpoint}`;
+            let m = endpoint.match(new RegExp(r));
+            if (m && m.length) return true;
+        }
+        return false;
+        // return public_endpoints.indexOf(endpoint) > -1;
     }
 }

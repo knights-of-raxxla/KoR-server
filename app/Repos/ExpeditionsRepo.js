@@ -1,4 +1,5 @@
 const _ = require('lodash');
+const async = require('async-q');
 module.exports = class ExpeditionRepo {
     constructor(knex, mutationReporter, ExpeditionsModel, ExpePivot, SystemsModel) {
         this.knex = knex;
@@ -105,6 +106,42 @@ module.exports = class ExpeditionRepo {
                 o.systems = out[0];
                 return o;
             });
+    }
+
+    fetchCurrentExpeditions() {
+        return this.knex('expeditions')
+            .where('status', 'Active')
+            .where('archive', 0)
+            .then(expeditions => {
+                let ids = _.map(expeditions, ex => ex.id);
+                return async.each(ids, id => {
+                    let cmds = [
+                        this._fetchExpeditionInfo(id),
+                        this._fetchExpeditionTotalBodies(id),
+                        this._fetchExpeditionTotalExplored(id),
+                        this._fetchExpeditionTotalSystems(id)
+                    ];
+                    return Promise.all(cmds)
+                        .then(out => {
+                            let o = out[0];
+                            if (o && o.serialize)
+                                o = o.serialize();
+                            o.stats = {
+                                bodies_count: out[1],
+                                bodies_explored_count: out[2],
+                                systems_count: out[3]
+                            };
+                            return o;
+                        });
+                });
+            });
+    }
+
+    insertVisitable(visitable) {
+        visitable.date = new Date();
+        visitable.created_at = new Date();
+        return this.knex('visitables')
+            .insert(visitable);
     }
 
     _fetchExpeditionInfo(id) {
