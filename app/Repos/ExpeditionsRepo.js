@@ -1,7 +1,10 @@
 const _ = require('lodash');
+
 module.exports = class ExpeditionRepo {
-    constructor(knex, mutationReporter) {
+    constructor(knex, async, mutationReporter, BodyRepo) {
         this.knex = knex;
+        this.async = async;
+        this.bodyRepo = BodyRepo;
         this.mutationReporter = mutationReporter;
     }
 
@@ -73,6 +76,20 @@ module.exports = class ExpeditionRepo {
         }
     }
 
+    /**
+    * create expedition with system in args
+    *
+    * @access public
+    * @param {Systems[]} systems collection of systems
+    * @returns {Promise<?>} /
+    */
+    createExpedition(systems) {
+        this._checkAndFetchAllBodies(systems)
+        .then(out => {
+            // wip @TODO
+        })
+    }
+
     fetchExpedition() {
         // TODO
         // rels :
@@ -81,6 +98,19 @@ module.exports = class ExpeditionRepo {
         // systems.bodies
         // systems.bodies.visitables
         //
+    }
+
+    _checkAndFetchAllBodies(systems) {
+        return this.async.each(systems, system => {
+            return new Promise((resolve, reject) => {
+                this.bodyRepo.CheckHasBodies(system.id)
+                .then(has => {
+                    if (!has) return;
+                    return this.bodyRepo.getAndInsertBodies(system);
+                }).then(out => resolve(out))
+                .catch(err => reject(err));
+            });
+        })
     }
 
     /**
