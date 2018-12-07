@@ -15,7 +15,7 @@ exports.up = function(knex, Promise) {
         }),
         knex.schema.createTable('bodies', function(table) {
             table.increments();
-            table.string('name').unique().notNullable();
+            table.string('name').notNullable();
             table.integer('edsm_id').unsigned();
             table.integer('eddb_id').unsigned();
             table.float('distance_from_arrival').notNullable();

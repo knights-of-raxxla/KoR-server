@@ -25,7 +25,12 @@ module.exports = class ExpeditionRepo {
 
     searchSystemByName(name) {
         return this.knex('systems')
-            .where('name', 'like', `%${name}%`);
+            .where('name', 'like', `${name}%`)
+            .orderBy('name', 'ASC')
+            .limit(10)
+            .then(res => {
+                return res;
+            });
     }
 
     /**
@@ -58,20 +63,18 @@ module.exports = class ExpeditionRepo {
      */
     manageExpedition(params, creator_email) {
         let system_ids;
-        let action = 'update';
-        if (params.id) action = 'insert';
-        if (action === 'insert')
+        let action = 'insert';
+        if (params.id) action = 'update';
+        if (action === 'update')
             return this._updateBasicExpeditionInfo(params)
         else {
             let expedition_id;
             return this._findUser(creator_email)
                 .then(user => {
-                    console.log(1);
                     let created_by;
                     if (user.id) created_by = user.id;
                     return this._insertBaseExpedition(params, created_by);
                 }).then(res => {
-                    console.log(2);
                     expedition_id = res[0];
                     return this._findSystemsForCreation(params);
                 }).then(_system_ids => {

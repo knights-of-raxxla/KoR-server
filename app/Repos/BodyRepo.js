@@ -18,7 +18,6 @@ module.exports = class BodyRepo {
     getAndInsertBodies(system) {
         return this.getBodiesFromEDDB(system)
         .then(bodies => {
-            console.log({bodies});
             return this.insertBodies(bodies);
         });
     }
@@ -89,13 +88,6 @@ module.exports = class BodyRepo {
                             is_landable,
                             distance_from_arrival
                         });
-                        // console.log('id :', id);
-                        // console.log('system_id :', system.id);
-                        // console.log('name :', name);
-                        // console.log('type :', type);
-                        // console.log('is_landable :', is_landable);
-                        // console.log('distance_from_arrival :', distance_from_arrival);
-                        // console.log('--------')
                     }
                 });
                 resolve(bodies);
