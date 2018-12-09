@@ -15,8 +15,7 @@ services:
             local:
               ipv4_address: 172.111.0.110
           ports:
-          - "80:80"
-          - "443:443"
+          - "4000:4000"
           links:
           - mysql
       mysql:
