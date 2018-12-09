@@ -45,6 +45,10 @@ class RouteManager {
             return this.expeditionsController.searchSystem(req, res);
         });
 
+        this.app.get('/api/v1/system/:id', (req, res) => {
+            return this.expeditionsController.getSystemInfo(req, res);
+        })
+
         this.app.post('/api/v1/expeditions', (req, res) => {
             return this.expeditionsController.manage(req, res);
         });
@@ -55,6 +59,10 @@ class RouteManager {
 
         this.app.get('/api/v1/expeditions/current', (req, res) => {
             return this.expeditionsController.fetchCurrentExpeditions(req, res);
+        });
+
+        this.app.get('/api/v1/expeditions/around', (req, res) => {
+            return this.expeditionsController.fetchExpeditionsAround(req, res);
         });
 
         this.app.post('/api/v1/visitables', (req, res) => {

@@ -11,7 +11,10 @@ const public_endpoints = [
     '/api/v1/user/start-password-reset',
     '/api/v1/user/reset-password',
     '/api/v1/expeditions/current',
-    '/api/v1/expedition/'
+    '/api/v1/expedition/',
+    '/api/v1/expeditions/around',
+    '/api/v1/systems/search',
+    '/api/v1/system/'
 ];
 /**
  * @class AuthMiddleware

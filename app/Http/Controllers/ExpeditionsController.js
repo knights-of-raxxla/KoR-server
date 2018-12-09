@@ -1,9 +1,9 @@
 const Controller = require('../../Framework/Controller.js');
 module.exports = class ExpeditionsController extends Controller {
     searchSystem(req, res) {
-        let {system} = this._parseQueryString(req.url);
+        let {system, expedition} = this._parseQueryString(req.url);
         return this.container.get('ExpeditionsRepo')
-            .searchSystemByName(system)
+            .searchSystemByName(system, expedition)
             .then(arr => {
                 return res.status(200).send(arr);
             }).catch(err => {
@@ -71,6 +71,7 @@ module.exports = class ExpeditionsController extends Controller {
             });
     }
 
+
     insertVisitable(req, res) {
         let visitable = req.body;
         let err;
@@ -89,5 +90,30 @@ module.exports = class ExpeditionsController extends Controller {
                 console.log({err});
                 return res.status(501).send({err});
             });
+    }
+
+    fetchExpeditionsAround(req, res) {
+        let {system_id} = this._parseQueryString(req.url);
+        return this.container.get('ExpeditionsRepo')
+            .findExpeditionsAroundRef(system_id)
+            .then(data => {
+                return res.status(200).send(data);
+            }).catch(err => {
+                console.log({err});
+                return res.status(501).send({err});
+            });
+    }
+
+    getSystemInfo(req, res) {
+        let id = req.params.id;
+        return this.container.get('ExpeditionsRepo')
+            .fetchSingleSystemInfo(id)
+            .then(data => {
+                return res.status(200).send(data);
+            }).catch(err => {
+                console.log({err});
+                return res.status(501).send({err});
+            });
+
     }
 }

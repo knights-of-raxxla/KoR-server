@@ -23,14 +23,19 @@ module.exports = class ExpeditionRepo {
         .first();
     }
 
-    searchSystemByName(name) {
-        return this.knex('systems')
-            .where('name', 'like', `${name}%`)
+    searchSystemByName(name, expedition) {
+        if (!expedition)
+            return this.knex('systems')
+                .where('name', 'like', `${name}%`)
+                .orderBy('name', 'ASC')
+                .limit(10);
+         else return this.knex('expeditions_systems_users as pivot')
+            .where('expedition_id', '=', expedition)
+            .leftJoin('systems', 'pivot.system_id', 'systems.id')
+            .where('systems.name', 'like', `${name}%`)
             .orderBy('name', 'ASC')
-            .limit(10)
-            .then(res => {
-                return res;
-            });
+            .limit(10);
+
     }
 
     /**
@@ -170,8 +175,58 @@ module.exports = class ExpeditionRepo {
             .insert(visitable);
     }
 
+    findExpeditionsAroundRef(system_id) {
+        let found_systems = [];
+        let ref_system;
+        return this.knex('systems')
+        .where({id: system_id})
+        .first()
+        .then(_ref_system => {
+            ref_system = _ref_system;
+            let distance = 60;
+            let cy = ref_system.y;
+            let cx = ref_system.x;
+            let cz = ref_system.z;
+            let having_pow = `POW(systems.x - ${cx}, 2) + POW(systems.y - ${cy}, 2) + POW(systems.z - ${cz}, 2) <= POW(${distance}, 2)`;
+
+            return this.knex('expeditions_systems_users as pivot')
+            .leftJoin('systems', 'systems.id', 'pivot.system_id')
+            .leftJoin('expeditions', 'expeditions.id', 'pivot.expedition_id')
+            .select('pivot.expedition_id as expedition_id')
+            .select('pivot.system_id as system_id')
+            .select('expeditions.name as expedition_name')
+            .select('systems.name as system_name')
+            .select('expeditions.status as expedition_status')
+            .select('systems.x')
+            .select('systems.y')
+            .select('systems.z')
+            .havingRaw(having_pow)
+            .limit(75);
+        }).then(rows => {
+            return _.chain(rows)
+                .map(row => {
+                let distance_2 = Math.pow(row.x - ref_system.x, 2) +
+                Math.pow(row.y - ref_system.y, 2) +
+                Math.pow(row.z - ref_system.z, 2);
+                let distance = Math.sqrt(distance_2);
+                row.distance = distance;
+                return row;
+            }).orderBy('distance', 'asc')
+            .value();
+        })
+    }
+
+    fetchSingleSystemInfo(system_id) {
+        return new this.SystemsModel().where({id: system_id})
+        .fetch({withRelated: [
+            'bodies',
+            'bodies.visitables',
+            'bodies.visitables.user'
+        ]});
+    }
+
     _fetchExpeditionInfo(id) {
-        return this.ExpeditionsModel.where({id})
+        return new this.ExpeditionsModel().where({id})
             .fetch({withRelated: [
                 'creator'
             ]});
@@ -224,7 +279,7 @@ module.exports = class ExpeditionRepo {
      * @param {Number} offset query offset
      */
     _fetchSystemsOfExpedition(id, offset) {
-        let limit = 5;
+        let limit = 15;
         let system_ids;
         return this.knex('expeditions_systems_users as pivot')
         .where('expedition_id', id)

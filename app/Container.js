@@ -21,13 +21,13 @@ class Container {
         dipsy.register('child_process', require('child_process'), [], false);
         dipsy.register('cheerio', require('cheerio'), [], false);
 
-         dipsy.register('BodiesModel', require('./Models/BodiesModel.js'));
+         dipsy.register('BodiesModel', require('./Models/BodiesModel.js', [], false));
          dipsy.register('ExpeditionsSystemsUserModel'
-             , require('./Models/ExpeditionsSystemsUsersModel.js'));
-         dipsy.register('VisitablesModel', require('./Models/VisitablesModel.js'));
-         dipsy.register('UsersModel', require('./Models/UsersModel.js'));
-         dipsy.register('SystemsModel', require('./Models/SystemsModel.js'));
-         dipsy.register('ExpeditionsModel', require('./Models/ExpeditionsModel.js'));
+             , require('./Models/ExpeditionsSystemsUsersModel.js'), [], false);
+         dipsy.register('VisitablesModel', require('./Models/VisitablesModel.js'), [], false);
+         dipsy.register('UsersModel', require('./Models/UsersModel.js'), [], false);
+         dipsy.register('SystemsModel', require('./Models/SystemsModel.js'), [], false);
+         dipsy.register('ExpeditionsModel', require('./Models/ExpeditionsModel.js'), [], false);
 
         dipsy.register('MutationReporter',
             require('./Framework/MutationReport.js'));
