@@ -1,6 +1,6 @@
 {
   "name": "kor-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Knights of Raxxla API server",
   "main": "index.js",
   "directories": {
