@@ -14,7 +14,8 @@ const public_endpoints = [
     '/api/v1/expedition/',
     '/api/v1/expeditions/around',
     '/api/v1/systems/search',
-    '/api/v1/system/'
+    '/api/v1/system/',
+    '/api/v1/visitables'
 ];
 /**
  * @class AuthMiddleware

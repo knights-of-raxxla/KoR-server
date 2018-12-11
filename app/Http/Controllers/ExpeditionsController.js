@@ -79,8 +79,8 @@ module.exports = class ExpeditionsController extends Controller {
             err = `not found visitable_type`;
         else if (!visitable.visitable_id)
             err = `not found visitable_id`;
-       else if (!visitable.user_id)
-            err = `not found user_idd`;
+       // else if (!visitable.user_id)
+       //      err = `not found user_idd`;
         if (err) return res.status(501).send(err);
         return this.container.get('ExpeditionsRepo')
             .insertVisitable(visitable)
