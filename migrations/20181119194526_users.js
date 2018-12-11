@@ -61,7 +61,8 @@ exports.up = function(knex, Promise) {
             table.increments();
             table.enum('visitable_type', ['body', 'station'])
             table.integer('visitable_id').notNullable().unsigned();
-            table.integer('user_id').notNullable();
+            table.integer('user_id');
+            table.text('comment');
             table.datetime('date').notNullable();
             table.enum('platform', $platforms);
             table.enum('report_method', ['dump', 'parse', 'manual']);
