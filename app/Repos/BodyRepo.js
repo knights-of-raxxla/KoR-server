@@ -56,9 +56,13 @@ module.exports = class BodyRepo {
 
                     // TYPE
                     let type;
+                    let sub_type;
                     let text_name = $(el_name).find('small').text();
                     if (text_name) {
-                        type = text_name.split('-')[1].trim();
+                        let spl = text_name.split('- ');
+                        type = spl[1].trim();
+                        if (spl[3])
+                            sub_type = spl[3].trim();
                     }
                     // LANDABLE
                     let is_landable = false;
@@ -84,6 +88,7 @@ module.exports = class BodyRepo {
                             eddb_id: id,
                             system_id: system.id,
                             type,
+                            sub_type,
                             name,
                             is_landable,
                             distance_from_arrival

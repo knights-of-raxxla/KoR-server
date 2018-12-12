@@ -95,8 +95,8 @@ module.exports = class ExpeditionRepo {
                 });
         }
     }
-    _checkAndFetchAllBodies(systems) {
-        return this.async.each(systems, system => {
+    _checkAndFetchAllBodies(systems, limit = 5) {
+        return this.async.eachLimit(systems, limit, system => {
             return new Promise((resolve, reject) => {
                 this.bodyRepo.checkHasBodies(system.id)
                 .then(has => {

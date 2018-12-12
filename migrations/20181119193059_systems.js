@@ -22,6 +22,7 @@ exports.up = function(knex, Promise) {
             table.boolean('is_landable').default(0);
             table.integer('system_id').notNullable().unsigned();
             table.string('type');
+            table.string('sub_type');
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');
