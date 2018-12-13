@@ -4,7 +4,7 @@ exports.up = function(knex, Promise) {
         knex.schema.createTable('systems', function(table) {
             table.increments();
             table.string('name').notNullable().index();
-            table.integer('edsm_id').unsigned();
+            table.integer('edsm_id').unsigned().index();
             table.integer('eddb_id').unsigned();
             table.integer('x');
             table.integer('y');
@@ -14,14 +14,48 @@ exports.up = function(knex, Promise) {
             table.boolean('archive');
         }),
         knex.schema.createTable('bodies', function(table) {
+            // common
             table.increments();
-            table.string('name').notNullable();
+            table.string('name').notNullable().index();
             table.integer('edsm_id').unsigned();
             table.integer('eddb_id').unsigned();
-            table.float('distance_from_arrival').notNullable();
+            table.float('distance_from_arrival', 15, 4).notNullable().index().unsigned();
             table.boolean('is_landable').default(0);
             table.integer('system_id').notNullable().unsigned();
-            table.string('type');
+            table.string('type').index();
+            table.string('sub_type').index();
+            table.text('parents');
+            table.float('mass', 15, 4).unsigned();
+            table.float('radius', 15, 4).index().unsigned();
+            table.float('surface_temperature', 15, 4);
+            table.integer('offset');
+            table.float("orbital_period", 40, 4);
+            table.float('semi_major_axis', 15, 4);
+            table.float("orbital_eccentricity", 15, 4);
+            table.float("orbital_inclination", 15, 4);
+            table.float("arg_of_periapsis", 15, 4);
+            table.float("rotational_period", 40, 4);
+            table.boolean("rotational_period_tidally_locked");
+            table.float("axial_tilt", 15, 4);
+
+            // stars
+            table.boolean('is_main_star');
+            table.boolean("is_scoopable");
+            table.integer("age").unsigned();
+            table.text('spectral_class');
+            table.text("luminosity");
+            table.text("absolute_magnitude");
+
+            // planets
+            table.float('gravity', 15, 4).unsigned();
+            table.float('surface_pressure', 15, 4);
+            table.string("volcanism_type");
+            table.text('atmosphere_type');
+            table.text('atmosphere_composition');
+            table.text('solid_composition');
+            table.string("terraforming_state");
+
+            // sql
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');
