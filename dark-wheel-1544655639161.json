@@ -1,0 +1,126 @@
+Etoiles : M/T Tauri / K
+1 Gas giant avec au moins 8 satélittes
+Gas giant à moins de 250ls de l'étoile
+[
+    {
+        "body_id": 437341,
+        "body_name": "Ye'kua'gsa 1",
+        "system_id": 22835319,
+        "system_name": "Ye'kua'gsa",
+        "x": 37,
+        "y": -24,
+        "z": 58,
+        "distance_from_arrival": 117,
+        "distance": 72.86288492778748
+    },
+    {
+        "body_id": 444614,
+        "body_name": "Col 285 Sector QQ-R b19-1 1",
+        "system_id": 22836094,
+        "system_name": "Col 285 Sector QQ-R b19-1",
+        "x": -139,
+        "y": -2,
+        "z": 56,
+        "distance_from_arrival": 118,
+        "distance": 149.86994361779148
+    },
+    {
+        "body_id": 416754,
+        "body_name": "Undines 1",
+        "system_id": 22834043,
+        "system_name": "Undines",
+        "x": -27,
+        "y": -71,
+        "z": 56,
+        "distance_from_arrival": 170,
+        "distance": 94.37160589923221
+    },
+    {
+        "body_id": 331542,
+        "body_name": "LP 861-12 1",
+        "system_id": 22828410,
+        "system_name": "LP 861-12",
+        "x": 12,
+        "y": 23,
+        "z": 61,
+        "distance_from_arrival": 194,
+        "distance": 66.2872536767062
+    },
+    {
+        "body_id": 234495,
+        "body_name": "Hajauja 1",
+        "system_id": 22821992,
+        "system_name": "Hajauja",
+        "x": 149,
+        "y": 53,
+        "z": -6,
+        "distance_from_arrival": 199,
+        "distance": 158.25928092848142
+    },
+    {
+        "body_id": 134702,
+        "body_name": "Capricorni Sector JH-V b2-0 1",
+        "system_id": 1363695,
+        "system_name": "Capricorni Sector JH-V b2-0",
+        "x": -65,
+        "y": -122,
+        "z": 100,
+        "distance_from_arrival": 209,
+        "distance": 170.61359852016486
+    },
+    {
+        "body_id": 144801,
+        "body_name": "Col 285 Sector EF-F b12-4 1",
+        "system_id": 3253832,
+        "system_name": "Col 285 Sector EF-F b12-4",
+        "x": 137,
+        "y": -48,
+        "z": -92,
+        "distance_from_arrival": 219,
+        "distance": 171.86331778480246
+    },
+    {
+        "body_id": 309293,
+        "body_name": "Kwazahui 1",
+        "system_id": 22827269,
+        "system_name": "Kwazahui",
+        "x": 76,
+        "y": 6,
+        "z": 21,
+        "distance_from_arrival": 229,
+        "distance": 79.07591289387686
+    },
+    {
+        "body_id": 342021,
+        "body_name": "Maidareldi 1",
+        "system_id": 22828978,
+        "system_name": "Maidareldi",
+        "x": -41,
+        "y": -22,
+        "z": -141,
+        "distance_from_arrival": 233,
+        "distance": 148.47895473770012
+    },
+    {
+        "body_id": 321028,
+        "body_name": "LHS 28 1",
+        "system_id": 22827880,
+        "system_name": "LHS 28",
+        "x": -18,
+        "y": 6,
+        "z": -40,
+        "distance_from_arrival": 234,
+        "distance": 44.27188724235731
+    },
+    {
+        "body_id": 231046,
+        "body_name": "Gran 1",
+        "system_id": 22821755,
+        "system_name": "Gran",
+        "x": 87,
+        "y": 60,
+        "z": 1,
+        "distance_from_arrival": 244,
+        "distance": 105.6882207249228
+    }
+]

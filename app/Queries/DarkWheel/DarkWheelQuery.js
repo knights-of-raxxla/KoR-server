@@ -6,7 +6,6 @@ const async = container.get('async');
 const _ = container.get('lodash');
 const fs = require('fs');
 
-let systems_around;
 let gas_types = [
     'Class I gas giant',
     'Class II gas giant',
@@ -17,21 +16,25 @@ let gas_types = [
     'Gas giant with water-based life',
     'Hellium-rich gas giant',
 ];
-let star_type = 'M-type star';
+// let star_types = require('./star_types.js');
+let star_types = require('./star_types_2.js');
+
 let sol;
 function findDarkWheelCodexSystems(systems_around) {
+    let systems_around;
     let dw_systems = [];
     return knex('systems')
     .leftJoin('bodies', 'bodies.system_id', 'systems.id')
     .where('bodies.type', 'Planet')
     .where('bodies.sub_type', 'in', gas_types)
-    .where('bodies.distance_from_arrival', '<=', 1000)
+    .where('bodies.distance_from_arrival', '<=', 100)
     .where('systems.id', 'in', systems_around)
-    .whereIn('bodies.system_id', q => {
-        return q.select('bodies.system_id').from('bodies')
-        .where('bodies.sub_type', star_type)
-        .where('bodies.system_id', 'in', systems_around);
-    }).select('bodies.id as body_id')
+    // .whereIn('bodies.system_id', q => {
+    //     return q.select('bodies.system_id').from('bodies')
+    //     .where('bodies.sub_type', 'in', star_types)
+    //     .where('bodies.system_id', 'in', systems_around);
+    // })
+    .select('bodies.id as body_id')
     .select('bodies.name as body_name')
     .select('systems.id as system_id')
     .select('systems.name as system_name')
@@ -57,16 +60,14 @@ function findDarkWheelCodexSystems(systems_around) {
 return expeRepo.getSystem('Sol')
     .then(_sol => {
         sol = _sol;
-        console.log('ok got Sol');
-        return expeRepo.findSystemsAround(sol, 180);
+        return expeRepo.findSystemsAround(sol, 250);
     }).then(systems => {
         console.log(`filtered ${systems.length} systems`)
         console.log(`fetching bodies' data`);
         systems_around = systems.map(sys => sys.id);
-        // systems_around = [22812178];
-    //     return expeRepo._checkAndFetchAllBodies(systems, 12);
-    // }).then(() => {
-        // console.log('bodies fetched');
+        return expeRepo._checkAndFetchAllBodies(systems, 12);
+    }).then(() => {
+        console.log('bodies fetched');
         return findDarkWheelCodexSystems(systems_around);
     }).then(res => {
         console.log(`${res.length} results`);
@@ -78,7 +79,7 @@ return expeRepo.getSystem('Sol')
             let distance = Math.sqrt(distance_2);
             row.distance = distance;
             return row;
-        }).orderBy('distance', 'asc')
+        }).orderBy('distance_from_arrival', 'asc')
         .value();
         let file = 'dark-wheel-' + Date.now() + '.json';
         console.log('writing file ' + file);

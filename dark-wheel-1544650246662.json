@@ -1,0 +1,37 @@
+Etoiles A / B / Wolf Rayet?
+Gaz giant Dark Wheel filtre (moins de 1k ls de l'étoile)
+[
+    {
+        "body_id": 205460,
+        "body_name": "CN Bootis A 1",
+        "system_id": 22820091,
+        "system_name": "CN Bootis",
+        "x": -6,
+        "y": 65,
+        "z": 24,
+        "distance_from_arrival": 263,
+        "distance": 69.54854419756032
+    },
+    {
+        "body_id": 217189,
+        "body_name": "Epsilon Serpentis 1",
+        "system_id": 22820942,
+        "system_name": "Epsilon Serpentis",
+        "x": -12,
+        "y": 46,
+        "z": 52,
+        "distance_from_arrival": 579,
+        "distance": 70.45565981523414
+    },
+    {
+        "body_id": 158243,
+        "body_name": "87 Mu Ceti 3",
+        "system_id": 22810299,
+        "system_name": "87 Mu Ceti",
+        "x": -17,
+        "y": -58,
+        "z": -59,
+        "distance_from_arrival": 790,
+        "distance": 84.4630096551147
+    }
+]

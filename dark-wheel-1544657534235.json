@@ -1,0 +1,293 @@
+Dark wheel étoiles Mx
+distance de Sol moins de 180 ly
+distance de la géante gazeuse moins de 500 ls
+la géante gazeuse a au moins 8 satellites
+classée par distance_from_arrival
+[
+    {
+        "body_id": 437341,
+        "body_name": "Ye'kua'gsa 1",
+        "system_id": 22835319,
+        "system_name": "Ye'kua'gsa",
+        "x": 37,
+        "y": -24,
+        "z": 58,
+        "distance_from_arrival": 117,
+        "distance": 72.86288492778748
+    },
+    {
+        "body_id": 444614,
+        "body_name": "Col 285 Sector QQ-R b19-1 1",
+        "system_id": 22836094,
+        "system_name": "Col 285 Sector QQ-R b19-1",
+        "x": -139,
+        "y": -2,
+        "z": 56,
+        "distance_from_arrival": 118,
+        "distance": 149.86994361779148
+    },
+    {
+        "body_id": 416754,
+        "body_name": "Undines 1",
+        "system_id": 22834043,
+        "system_name": "Undines",
+        "x": -27,
+        "y": -71,
+        "z": 56,
+        "distance_from_arrival": 170,
+        "distance": 94.37160589923221
+    },
+    {
+        "body_id": 331542,
+        "body_name": "LP 861-12 1",
+        "system_id": 22828410,
+        "system_name": "LP 861-12",
+        "x": 12,
+        "y": 23,
+        "z": 61,
+        "distance_from_arrival": 194,
+        "distance": 66.2872536767062
+    },
+    {
+        "body_id": 234495,
+        "body_name": "Hajauja 1",
+        "system_id": 22821992,
+        "system_name": "Hajauja",
+        "x": 149,
+        "y": 53,
+        "z": -6,
+        "distance_from_arrival": 199,
+        "distance": 158.25928092848142
+    },
+    {
+        "body_id": 134702,
+        "body_name": "Capricorni Sector JH-V b2-0 1",
+        "system_id": 1363695,
+        "system_name": "Capricorni Sector JH-V b2-0",
+        "x": -65,
+        "y": -122,
+        "z": 100,
+        "distance_from_arrival": 209,
+        "distance": 170.61359852016486
+    },
+    {
+        "body_id": 144801,
+        "body_name": "Col 285 Sector EF-F b12-4 1",
+        "system_id": 3253832,
+        "system_name": "Col 285 Sector EF-F b12-4",
+        "x": 137,
+        "y": -48,
+        "z": -92,
+        "distance_from_arrival": 219,
+        "distance": 171.86331778480246
+    },
+    {
+        "body_id": 342021,
+        "body_name": "Maidareldi 1",
+        "system_id": 22828978,
+        "system_name": "Maidareldi",
+        "x": -41,
+        "y": -22,
+        "z": -141,
+        "distance_from_arrival": 233,
+        "distance": 148.47895473770012
+    },
+    {
+        "body_id": 321028,
+        "body_name": "LHS 28 1",
+        "system_id": 22827880,
+        "system_name": "LHS 28",
+        "x": -18,
+        "y": 6,
+        "z": -40,
+        "distance_from_arrival": 234,
+        "distance": 44.27188724235731
+    },
+    {
+        "body_id": 231046,
+        "body_name": "Gran 1",
+        "system_id": 22821755,
+        "system_name": "Gran",
+        "x": 87,
+        "y": 60,
+        "z": 1,
+        "distance_from_arrival": 244,
+        "distance": 105.6882207249228
+    },
+    {
+        "body_id": 205460,
+        "body_name": "CN Bootis A 1",
+        "system_id": 22820091,
+        "system_name": "CN Bootis",
+        "x": -6,
+        "y": 65,
+        "z": 24,
+        "distance_from_arrival": 263,
+        "distance": 69.54854419756032
+    },
+    {
+        "body_id": 222201,
+        "body_name": "G 122-60 1",
+        "system_id": 22821251,
+        "system_name": "G 122-60",
+        "x": -11,
+        "y": 73,
+        "z": -23,
+        "distance_from_arrival": 266,
+        "distance": 77.32399368889322
+    },
+    {
+        "body_id": 363470,
+        "body_name": "Njoere 1",
+        "system_id": 22830442,
+        "system_name": "Njoere",
+        "x": -119,
+        "y": 64,
+        "z": -92,
+        "distance_from_arrival": 318,
+        "distance": 163.46559270990332
+    },
+    {
+        "body_id": 337086,
+        "body_name": "LTT 6278 1",
+        "system_id": 22828678,
+        "system_name": "LTT 6278",
+        "x": 25,
+        "y": 26,
+        "z": 73,
+        "distance_from_arrival": 325,
+        "distance": 81.42481194328913
+    },
+    {
+        "body_id": 318599,
+        "body_name": "LHS 1857 2",
+        "system_id": 22827788,
+        "system_name": "LHS 1857",
+        "x": 21,
+        "y": 2,
+        "z": -55,
+        "distance_from_arrival": 353,
+        "distance": 58.90670590009256
+    },
+    {
+        "body_id": 278443,
+        "body_name": "HK Aquarii 1",
+        "system_id": 22825096,
+        "system_name": "HK Aquarii",
+        "x": -26,
+        "y": -65,
+        "z": 18,
+        "distance_from_arrival": 354,
+        "distance": 72.2841614740048
+    },
+    {
+        "body_id": 416207,
+        "body_name": "Umaiali 2",
+        "system_id": 22834006,
+        "system_name": "Umaiali",
+        "x": 130,
+        "y": 55,
+        "z": 107,
+        "distance_from_arrival": 373,
+        "distance": 177.12707302950614
+    },
+    {
+        "body_id": 274812,
+        "body_name": "HIP 90451 A 1",
+        "system_id": 22824861,
+        "system_name": "HIP 90451",
+        "x": -27,
+        "y": -15,
+        "z": 145,
+        "distance_from_arrival": 376,
+        "distance": 148.25316185498372
+    },
+    {
+        "body_id": 66763,
+        "body_name": "Hyades Sector KX-K b8-2 2",
+        "system_id": 37830,
+        "system_name": "Hyades Sector KX-K b8-2",
+        "x": 25,
+        "y": -116,
+        "z": -101,
+        "distance_from_arrival": 419,
+        "distance": 155.82682695864662
+    },
+    {
+        "body_id": 305778,
+        "body_name": "Krataxo A 7",
+        "system_id": 22827017,
+        "system_name": "Krataxo",
+        "x": 50,
+        "y": -133,
+        "z": -67,
+        "distance_from_arrival": 448,
+        "distance": 157.09232953903256
+    },
+    {
+        "body_id": 306047,
+        "body_name": "Krisha 7",
+        "system_id": 22827037,
+        "system_name": "Krisha",
+        "x": -109,
+        "y": -107,
+        "z": 15,
+        "distance_from_arrival": 461,
+        "distance": 153.47638254793472
+    },
+    {
+        "body_id": 337178,
+        "body_name": "LTT 6714 A 2",
+        "system_id": 22828687,
+        "system_name": "LTT 6714",
+        "x": 36,
+        "y": 0,
+        "z": 109,
+        "distance_from_arrival": 461,
+        "distance": 114.79111463872106
+    },
+    {
+        "body_id": 302281,
+        "body_name": "Kisatsya 6",
+        "system_id": 22826766,
+        "system_name": "Kisatsya",
+        "x": -7,
+        "y": -157,
+        "z": 51,
+        "distance_from_arrival": 471,
+        "distance": 165.22409025320732
+    },
+    {
+        "body_id": 203345,
+        "body_name": "Chnouk 2",
+        "system_id": 22813287,
+        "system_name": "Chnouk",
+        "x": -7,
+        "y": -45,
+        "z": 60,
+        "distance_from_arrival": 476,
+        "distance": 75.32595834106593
+    },
+    {
+        "body_id": 322718,
+        "body_name": "LHS 3767 A 2",
+        "system_id": 22827971,
+        "system_name": "LHS 3767",
+        "x": -100,
+        "y": -51,
+        "z": 14,
+        "distance_from_arrival": 476,
+        "distance": 113.1238259607586
+    },
+    {
+        "body_id": 262708,
+        "body_name": "HIP 5443 2",
+        "system_id": 22824075,
+        "system_name": "HIP 5443",
+        "x": -29,
+        "y": -115,
+        "z": -32,
+        "distance_from_arrival": 478,
+        "distance": 122.84136111261549
+    }
+]

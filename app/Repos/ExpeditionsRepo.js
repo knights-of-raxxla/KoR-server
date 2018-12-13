@@ -103,7 +103,10 @@ module.exports = class ExpeditionRepo {
                     if (has) return;
                     return this.bodyRepo.getAndInsertBodies(system);
                 }).then(out => resolve(out))
-                .catch(err => reject(err));
+                .catch(err => {
+                    console.log(JSON.stringify({err}, null, 4));
+                    reject(err)
+                });
             });
         })
     }

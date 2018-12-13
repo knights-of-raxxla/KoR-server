@@ -1,0 +1,68 @@
+[
+    {
+        "body_id": 437341,
+        "body_name": "Ye'kua'gsa 1",
+        "system_id": 22835319,
+        "system_name": "Ye'kua'gsa",
+        "x": 37,
+        "y": -24,
+        "z": 58,
+        "distance_from_arrival": 117,
+        "distance": 72.86288492778748
+    },
+    {
+        "body_id": 444614,
+        "body_name": "Col 285 Sector QQ-R b19-1 1",
+        "system_id": 22836094,
+        "system_name": "Col 285 Sector QQ-R b19-1",
+        "x": -139,
+        "y": -2,
+        "z": 56,
+        "distance_from_arrival": 118,
+        "distance": 149.86994361779148
+    },
+    {
+        "body_id": 416754,
+        "body_name": "Undines 1",
+        "system_id": 22834043,
+        "system_name": "Undines",
+        "x": -27,
+        "y": -71,
+        "z": 56,
+        "distance_from_arrival": 170,
+        "distance": 94.37160589923221
+    },
+    {
+        "body_id": 448252,
+        "body_name": "HIP 42695 1",
+        "system_id": 22836407,
+        "system_name": "HIP 42695",
+        "x": 162,
+        "y": -18,
+        "z": 2,
+        "distance_from_arrival": 178,
+        "distance": 163.00920219423196
+    },
+    {
+        "body_id": 331542,
+        "body_name": "LP 861-12 1",
+        "system_id": 22828410,
+        "system_name": "LP 861-12",
+        "x": 12,
+        "y": 23,
+        "z": 61,
+        "distance_from_arrival": 194,
+        "distance": 66.2872536767062
+    },
+    {
+        "body_id": 234495,
+        "body_name": "Hajauja 1",
+        "system_id": 22821992,
+        "system_name": "Hajauja",
+        "x": 149,
+        "y": 53,
+        "z": -6,
+        "distance_from_arrival": 199,
+        "distance": 158.25928092848142
+    }
+]
