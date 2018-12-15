@@ -1,0 +1,217 @@
+Fetched Sol system coordinates
+502966 systems around Sol within 500 ly
+found 66565 with at least 1 star in filter and 1 gaz giant
+3159 of which have at least 8 moons around found the gaz giant
+filtering distances w/ respective stars in 3349 stars
+260 étoiles dans le filtre avant filtre haute granularité
+[
+    {
+        "body_id": 1328077,
+        "body_name": "HIP 23027 C 5",
+        "bodies_distance": 153658.25,
+        "system_id": 3870787,
+        "system_name": "HIP 23027",
+        "x": -192,
+        "y": -904,
+        "z": -4783,
+        "distance_from_arrival": 153658.25,
+        "star": {
+            "id": 1328062,
+            "system_id": 3870787,
+            "radius": 0.5434,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "HIP 23027 C",
+            "distance_from_arrival": 153655.0938
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.5434,
+        "distance_from_star": 3.156199999997625
+    },
+    {
+        "body_id": 519663,
+        "body_name": "Waikula B 1",
+        "bodies_distance": 426477.375,
+        "system_id": 3092023,
+        "system_name": "Waikula",
+        "x": -4026,
+        "y": 1021,
+        "z": 156,
+        "distance_from_arrival": 426477.375,
+        "star": {
+            "id": 519662,
+            "system_id": 3092023,
+            "radius": 0.6288,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "Waikula B",
+            "distance_from_arrival": 426474.125
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.6288,
+        "distance_from_star": 3.25
+    },
+    {
+        "body_id": 3641282,
+        "body_name": "HIP 22566 B 2",
+        "bodies_distance": 65714.9062,
+        "system_id": 6197182,
+        "system_name": "HIP 22566",
+        "x": 457,
+        "y": -1780,
+        "z": -5689,
+        "distance_from_arrival": 65714.9062,
+        "star": {
+            "id": 3641275,
+            "system_id": 6197182,
+            "radius": 0.5317,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "HIP 22566 B",
+            "distance_from_arrival": 65706.0156
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.5317,
+        "distance_from_star": 8.890599999998813
+    },
+    {
+        "body_id": 2580529,
+        "body_name": "Shi Yu B 2",
+        "bodies_distance": 28039.9375,
+        "system_id": 5078032,
+        "system_name": "Shi Yu",
+        "x": 3253,
+        "y": -2972,
+        "z": 1913,
+        "distance_from_arrival": 28039.9375,
+        "star": {
+            "id": 2580522,
+            "system_id": 5078032,
+            "radius": 0.4309,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "Shi Yu B",
+            "distance_from_arrival": 28051.7012
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.4309,
+        "distance_from_star": 11.763699999999517
+    },
+    {
+        "body_id": 11511461,
+        "body_name": "Wredguia UK-J b50-2 A 1",
+        "bodies_distance": 15.7035,
+        "system_id": 14538773,
+        "system_name": "Wredguia UK-J b50-2",
+        "x": -14776,
+        "y": 1736,
+        "z": 582,
+        "distance_from_arrival": 15.7035,
+        "star": {
+            "id": 11511460,
+            "system_id": 14538773,
+            "radius": 0.4228,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "Wredguia UK-J b50-2 A",
+            "distance_from_arrival": 0
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.4228,
+        "distance_from_star": 15.7035
+    },
+    {
+        "body_id": 3511596,
+        "body_name": "Manarato B 1",
+        "bodies_distance": 22960.6016,
+        "system_id": 6111713,
+        "system_name": "Manarato",
+        "x": -2939,
+        "y": 2078,
+        "z": -1232,
+        "distance_from_arrival": 22960.6016,
+        "star": {
+            "id": 3511595,
+            "system_id": 6111713,
+            "radius": 0.3972,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "Manarato B",
+            "distance_from_arrival": 22927.6426
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.3972,
+        "distance_from_star": 32.95900000000256
+    },
+    {
+        "body_id": 27611,
+        "body_name": "Mel 111 Sector FQ-P b5-0 B 1",
+        "bodies_distance": 28338,
+        "system_id": 411623,
+        "system_name": "Mel 111 Sector FQ-P b5-0",
+        "x": 2579,
+        "y": 6940,
+        "z": -679,
+        "distance_from_arrival": 28338,
+        "star": {
+            "id": 27610,
+            "system_id": 411623,
+            "radius": 0.4672,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "Mel 111 Sector FQ-P b5-0 B",
+            "distance_from_arrival": 28377
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.4672,
+        "distance_from_star": 39
+    },
+    {
+        "body_id": 727251,
+        "body_name": "HR 297 D 1",
+        "bodies_distance": 53039.0664,
+        "system_id": 3328506,
+        "system_name": "HR 297",
+        "x": -6920,
+        "y": -143,
+        "z": -4814,
+        "distance_from_arrival": 53039.0664,
+        "star": {
+            "id": 727250,
+            "system_id": 3328506,
+            "radius": 0.62,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "HR 297 D",
+            "distance_from_arrival": 52994.1602
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.62,
+        "distance_from_star": 44.9062000000049
+    },
+    {
+        "body_id": 13055249,
+        "body_name": "Synuefe XT-N b40-0 1",
+        "bodies_distance": 47.9566,
+        "system_id": 15942461,
+        "system_name": "Synuefe XT-N b40-0",
+        "x": 14038,
+        "y": -2579,
+        "z": -6398,
+        "distance_from_arrival": 47.9566,
+        "star": {
+            "id": 13055248,
+            "system_id": 15942461,
+            "radius": 0.5825,
+            "type": "Star",
+            "sub_type": "M (Red dwarf) Star",
+            "name": "Synuefe XT-N b40-0",
+            "distance_from_arrival": 0
+        },
+        "star_type": "M (Red dwarf) Star",
+        "star_radius": 0.5825,
+        "distance_from_star": 47.9566
+    }
+]
+9 'systems found'
+done
