@@ -105,7 +105,7 @@ expeRepo.getSystem(center_system)
                 console.log(`${results.length} étoiles dans le filtre avant filtre haute granularité`);
                 results = _.chain(results)
                     .filter(res => {
-                        if (res.distance_from_star  < 50) return true;
+                        if (res.distance_from_star  < 100) return true;
                         if (res.star_radius > 2) return true;
                         if (res.star_radius > 1 && res.distance_from_star < 320) return true;
                         return false;

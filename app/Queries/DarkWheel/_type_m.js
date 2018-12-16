@@ -8,7 +8,7 @@ module.exports = [
     // "C Star",
     // "CN Star",
     // "CJ Star",
-    // "T Tauri Star",
+    "T Tauri Star",
     // "Herbig Ae/Be Star"
 
 
