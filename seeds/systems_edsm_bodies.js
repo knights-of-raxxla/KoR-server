@@ -13,6 +13,7 @@ let knex;
 // de EDSM
 let columns = {
     'name': ['name'],
+    'body_id': ['bodyId'],
     'edsm_id': ['id'],
     'distance_from_arrival': ['distanceToArrival'],
     'is_landable': ['isLandable'],

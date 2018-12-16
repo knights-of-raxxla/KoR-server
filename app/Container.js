@@ -27,7 +27,9 @@ class Container {
          dipsy.register('VisitablesModel', require('./Models/VisitablesModel.js'), [], false);
          dipsy.register('UsersModel', require('./Models/UsersModel.js'), [], false);
          dipsy.register('SystemsModel', require('./Models/SystemsModel.js'), [], false);
+         dipsy.register('GeometryRepo', require('./Repos/GeometryRepo.js'), []);
          dipsy.register('ExpeditionsModel', require('./Models/ExpeditionsModel.js'), [], false);
+         dipsy.register('HelperRepo', require('./Repos/HelperRepo.js'), []);
 
         dipsy.register('MutationReporter',
             require('./Framework/MutationReport.js'));

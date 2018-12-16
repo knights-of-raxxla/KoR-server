@@ -2,6 +2,8 @@ let container = require('../../Container.js')
     .getInstance();
 const knex = container.get('knex');
 const expeRepo = container.get('ExpeditionsRepo');
+const geoRepo = container.get('GeometryRepo');
+const helper = container.get('HelperRepo');
 const async = container.get('async');
 const _ = container.get('lodash');
 const fs = require('fs');
@@ -38,6 +40,9 @@ function query(ids) {
         })
         .select('bodies.id as body_id')
         .select('bodies.name as body_name')
+        .select('bodies.semi_major_axis as body_semi_major_axis')
+        .select('bodies.orbital_eccentricity as body_orbital_eccentricity')
+        .select('bodies.parents as body_parents')
         .select('bodies.distance_from_arrival as bodies_distance')
         .select('systems.id as system_id')
         .select('systems.name as system_name')
@@ -53,6 +58,8 @@ function query(ids) {
         //         .where('bodies.system_id', 'in', ids)
         // });
 }
+
+
 let center_system = 'Sol';
 let center_distance = 500;
 expeRepo.getSystem(center_system)
@@ -83,33 +90,42 @@ expeRepo.getSystem(center_system)
         let results = [];
         return knex('bodies')
             .where('system_id', 'in', f_systems)
-            .where('sub_type', 'in', type_m)
-            .select(['id', 'system_id', 'radius', 'type', 'sub_type', 'name', 'distance_from_arrival'])
-            .then(stars => {
-                console.log(`filtering distances w/ respective stars in ${stars.length} stars`);
+            // .where('sub_type', 'in', type_m)
+            .select(['id', 'system_id', 'radius', 'type', 'sub_type', 'name', 'distance_from_arrival', 'semi_major_axis', 'orbital_eccentricity', 'parents'])
+            .then(bodies => {
                 gaz_giants_info.forEach(gaz => {
-                    let needle = {system_id: gaz.system_id};
-                    let system_stars = _.filter(stars, {system_id: gaz.system_id});
-                    system_stars.forEach( star => {
-                        let distance = Math.abs(gaz.distance_from_arrival - star.distance_from_arrival);
-                        if (distance < 600) {
-                            gaz.star = star;
-                            gaz.star_type = star.sub_type;
-                            gaz.star_radius = star.radius;
-                            gaz.distance_from_star = distance;
-                            results.push(gaz);
-                        }
-                    });
-                });
+                    let center = {name: gaz.body_name};
+                    let eight_moon = helper.findNthMoonLike(center, bodies);
+                    // console.log(eight_moon.name + ' is 8th moon');
+                    if (!eight_moon) {
+                        console.log(`no eight moon in ${center.name}`);
+                        return;
+                    }
 
-                console.log(`${results.length} étoiles dans le filtre avant filtre haute granularité`);
+                    // si le parent de la gaz giant est une étoile
+                    // let gaz_parents = JSON.parse(gaz.body_parents);
+                    // if (gaz_parents) {
+                    //     let has_star = _.find(gaz_parents, item => {
+                    //         return item.hasOwnProperty('Star');
+                    //     });
+                    //     has_star = Boolean(has_star);
+                    //     if (!has_star) {
+                    //         console.log(`no star as parent for ${gaz.body_name}`);
+                    //         return;
+                    //     }
+                    // }
+
+                    let gaz_semi_minor_axis = geoRepo.semiMinorAxis(gaz.body_semi_major_axis
+                        , gaz.body_orbital_eccentricity);
+                    if (isNaN(gaz_semi_minor_axis)) throw new Error(2);
+
+                    let min_distance = geoRepo.auToLs(gaz_semi_minor_axis - eight_moon.semi_major_axis);
+                    gaz.eight_moon_min_distance = min_distance;
+                    gaz.eight_moon = eight_moon.name;
+                    if (Math.abs(min_distance < 100)) results.push(gaz);
+                });
                 results = _.chain(results)
-                    .filter(res => {
-                        if (res.distance_from_star  < 100) return true;
-                        if (res.star_radius > 2) return true;
-                        if (res.star_radius > 1 && res.distance_from_star < 320) return true;
-                        return false;
-                    }).orderBy('distance_from_star')
+                    .orderBy('eight_moon_min_distance')
                 .value();
                 return results;
             });
