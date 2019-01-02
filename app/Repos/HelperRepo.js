@@ -31,4 +31,53 @@ module.exports = class HelperRepo {
         .value();
         return _.get(vals, '[7]') || false;
     }
+
+    getBodyInfoByName(body_name, system_name) {
+        let has_multiple_stars = false;
+        let stars = ['$main'];
+        let suffix = body_name.split(system_name)[1] || "";
+        if (suffix === "") {
+            console.log('body suffix empty', {body_name, system_name});
+        }
+        suffix = suffix.trim();
+        let parts = suffix.split(' ');
+
+        if (parts.length >= 2) {
+            let reg = new RegExp(`^[A-Z]+$`);
+            if (reg.test(parts[0])) {
+                stars = parts[0].split('');
+                if (stars.length > 1) has_multiple_stars = true;
+            }
+        }
+        return {
+            has_multiple_stars,
+            stars,
+        };
+    }
+
+    smallestDistance(gaz_s_minor, moon_s_major, gaz_orbital_inclin, moon_orbital_inclin) {
+        let agg_inclin = gaz_orbital_inclin + moon_orbital_inclin;
+        let k = Math.cos(agg_inclin) * moon_s_major;
+        let d = Math.sin(agg_inclin) * moon_s_major;
+
+        let a = gaz_s_minor - k;
+        let h = Math.sqrt(Math.pow(a, 2) + Math.pow(d, 2));
+        return h;
+    }
+
+    getTypeMStarSubClass(temperature) {
+        let sub = 9;
+        if (temperature >= 2400) sub = 8;
+        if (temperature >= 2500) sub = 7;
+        if (temperature >= 2600) sub = 6;
+        if (temperature >= 2800) sub = 5;
+        if (temperature >= 3100) sub = 4;
+        if (temperature >= 3250) sub = 3;
+        if (temperature >= 3400) sub = 2;
+        if (temperature >= 3600) sub = 1;
+        if (temperature >= 3800) sub = 0;
+        return sub;
+    kj}
+
+
 };

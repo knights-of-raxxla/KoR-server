@@ -1,0 +1,2752 @@
+Fetched Sol system coordinates
+502966 systems around Sol within 500 ly
+found 75279 with at least 1 star in filter and 1 gaz giant
+3201 of which have at least 8 moons around found the gaz giant
+Hyades Sector DW-V c2-15 BC 8 has no right star
+Jambo Dadi DE 4 has no right star
+Praea Euq EB-O b6-5 ABCD 5 has no right star
+Pleiades Sector HM-U b3-3 AB 4 has no right star
+no eight moon in Synuefai GK-H b30-0 1
+Shoshonean ABC 3 has no right star
+Col 285 Sector YT-Q c5-12 ABC 3 has no right star
+Pegasi Sector KS-T c3-5 ABC 5 has no right star
+Col 285 Sector EY-F b12-4 ABC 1 has no right star
+Col 285 Sector OS-T d3-143 AB 2 has no right star
+Col 285 Sector OS-T d3-143 AB 1 has no right star
+Col 285 Sector RD-I c10-29 AB 3 has no right star
+Col 285 Sector ZK-O d6-101 CD 8 has no right star
+HIP 45996 ABCD 1 has no right star
+Col 285 Sector NC-M c7-5 AB 2 has no right star
+Tekenatam AB 1 has no right star
+no eight moon in Synuefe AV-W b34-2 1
+Hyades Sector UY-O a7-0 AB 5 has no right star
+Hyades Sector UY-O a7-0 AB 7 has no right star
+Thridan AB 4 has no right star
+Baruga AB 2 has no right star
+Xionaz AB 3 has no right star
+Xionaz AB 4 has no right star
+Pleiades Sector LH-U b3-2 ABCD 3 has no right star
+Col 285 Sector ZL-L c8-26 ABC 1 has no right star
+HIP 90596 ABCD 1 has no right star
+Pleiades Sector LX-U c2-3 ABCD 1 has no right star
+Pleiades Sector LX-U c2-3 ABCD 2 has no right star
+Col 285 Sector CB-O d6-105 AB 1 has no right star
+no eight moon in HIP 63324 BC 1
+Hmontabozho AB 3 has no right star
+Col 285 Sector FM-V d2-48 AB 1 has no right star
+no eight moon in Col 285 Sector QQ-R b19-1 1
+Narbacoch AB 1 has no right star
+Narbacoch AB 3 has no right star
+Col 285 Sector UG-H b25-7 AB 2 has no right star
+Bahinook BC 1 has no right star
+Patora ABC 3 has no right star
+no eight moon in BD+55 3074 A 5
+Hyades Sector QO-I b9-1 BC 1 has no right star
+Col 285 Sector VH-G b25-4 ABC 3 has no right star
+HIP 53321 BC 3 has no right star
+HIP 5574 AB 3 has no right star
+HIP 5574 AB 4 has no right star
+HIP 5574 AB 5 has no right star
+Col 285 Sector IR-V c2-20 AB 1 has no right star
+HIP 115581 AB 2 has no right star
+Col 285 Sector NC-M c7-12 CD 6 has no right star
+HIP 9971 AB 1 has no right star
+Ocainawaka AB 3 has no right star
+Col 285 Sector RY-H c10-23 AB 1 has no right star
+Pleiades Sector JM-V b2-0 AB 1 has no right star
+no eight moon in BD+10 4385 A 1
+Col 285 Sector YL-S b5-4 ABC 2 has no right star
+Lyncis Sector CL-Y c14 ABC 5 has no right star
+Col 285 Sector XC-W b17-5 AB 1 has no right star
+HIP 73094 ABC 2 has no right star
+HIP 73094 ABC 3 has no right star
+Qi Yun Cech AB 1 has no right star
+Pleiades Sector JM-U b3-2 AB 3 has no right star
+HIP 85388 ABCD 2 has no right star
+no eight moon in Struve's Lost Sector ND-J b9-2 1
+Gliese 9547 AB 3 has no right star
+HIP 10945 BC 2 has no right star
+Musca Dark Region JS-S b4-8 ABC 1 has no right star
+HIP 24020 BC 10 has no right star
+no eight moon in Hajauja 1
+no eight moon in Kupalon Hua 1
+HIP 105439 AB 4 has no right star
+Col 285 Sector FX-R b5-3 ABCD 3 has no right star
+Col 285 Sector US-Z b14-5 AB 4 has no right star
+Hyades Sector JM-L b8-0 ABC 6 has no right star
+HR 8718 AB 1 has no right star
+HR 8718 AB 3 has no right star
+Col 285 Sector HK-I b25-2 AB 1 has no right star
+Col 285 Sector ET-D b27-4 ABC 2 has no right star
+Col 285 Sector SH-A b15-1 AB 2 has no right star
+Diousteri AB 2 has no right star
+no eight moon in Synuefe WA-K b42-1 1
+Wregoe MP-E c25-33 AB 2 has no right star
+HIP 1977 ABCD 1 has no right star
+no eight moon in Maidareldi 1
+Hyades Sector CQ-Y d27 BC 1 has no right star
+Synuefe OY-G b30-2 AB 1 has no right star
+Pa Pa Pole ABC 1 has no right star
+Pa Pa Pole ABC 2 has no right star
+HIP 88471 BC 1 has no right star
+HIP 64203 AB 4 has no right star
+HIP 64203 AB 7 has no right star
+HIP 61457 AB 2 has no right star
+HIP 9056 ABC 1 has no right star
+HIP 9056 ABC 2 has no right star
+HIP 91058 ABCD 5 has no right star
+no eight moon in Pipe (stem) Sector CQ-X b1-0 6
+Coastsege AB 1 has no right star
+Col 285 Sector WM-F b26-7 AB 1 has no right star
+LHS 3097 AB 2 has no right star
+LHS 3097 AB 6 has no right star
+Chiburri AB 2 has no right star
+HR 4547 AB 1 has no right star
+Asturindjin ABCD 2 has no right star
+Tchehen ABC 5 has no right star
+Hyades Sector DX-S b4-1 AB 1 has no right star
+Struve's Lost Sector KN-J b9-1 ABC 4 has no right star
+Darian AB 2 has no right star
+Ithurs AB 2 has no right star
+Wregoe JW-P b46-9 AB 1 has no right star
+no eight moon in Pipe (stem) Sector GW-W c1-28 AB 3
+HIP 77179 AB 2 has no right star
+Airs BC 1 has no right star
+HIP 97950 ABC 1 has no right star
+HIP 97950 ABC 2 has no right star
+HIP 108282 ABC 7 has no right star
+no eight moon in Arietis Sector UD-T b3-4 1
+Hyades Sector DB-X c1-4 ABC 1 has no right star
+HIP 101136 CD 2 has no right star
+Asletae AB 1 has no right star
+HIP 110483 ABC 4 has no right star
+Praea Euq IY-X b2-0 AB 1 has no right star
+HIP 7670 BC 1 has no right star
+HIP 19757 AB 4 has no right star
+Meidmarama AB 1 has no right star
+HIP 82060 AB 2 has no right star
+HIP 60831 AB 2 has no right star
+HIP 60831 AB 3 has no right star
+HIP 60831 AB 4 has no right star
+Oicornga AB 1 has no right star
+HIP 9255 AB 1 has no right star
+HIP 44212 AB 5 has no right star
+Wredguia SH-U c16-12 ABC 2 has no right star
+Wredguia IU-O b33-4 ABCD 1 has no right star
+no eight moon in BD+24 2539 ABC 4
+Arietis Sector YJ-A c21 AB 1 has no right star
+Juragura AB 1 has no right star
+HIP 24720 ABC 1 has no right star
+Jawuru AB 7 has no right star
+HIP 75281 BC 1 has no right star
+Col 285 Sector RU-E c12-8 ABC 1 has no right star
+no eight moon in Synuefe NI-R c21-6 A 1
+Carrua AB 1 has no right star
+no eight moon in 2MASS J12174785+2807134 A 3
+HIP 103678 AB 1 has no right star
+HIP 103678 AB 4 has no right star
+no eight moon in Col 285 Sector ZV-D b12-2 1
+Pegasi Sector BL-X c1-25 AB 1 has no right star
+Pegasi Sector BL-X c1-25 AB 2 has no right star
+Pleiades Sector IH-U b3-1 ABC 6 has no right star
+Ugraseno AB 5 has no right star
+Czerni AB 2 has no right star
+HIP 56145 CD 3 has no right star
+no eight moon in BD+47 2267 AB 9
+Col 285 Sector SB-Q b20-0 AB 5 has no right star
+Majhiat AB 2 has no right star
+HR 728 CD 2 has no right star
+60 b Leonis ABC 1 has no right star
+no eight moon in BD+17 4808 A 2
+no eight moon in BD+17 4808 A 4
+HR 8792 AB 1 has no right star
+Arietis Sector ND-S b4-1 AB 4 has no right star
+HIP 20187 AB 3 has no right star
+HIP 7357 AB 2 has no right star
+Col 285 Sector HS-R b18-2 ABC 1 has no right star
+Ross 752 AB 1 has no right star
+no eight moon in Col 285 Sector EF-F b12-4 1
+HIP 3434 AB 1 has no right star
+HIP 33737 AB 2 has no right star
+HIP 52065 AB 1 has no right star
+Kui Xiba ABC 1 has no right star
+Kui Xiba ABC 2 has no right star
+Kanooks BC 4 has no right star
+HIP 16891 AB 3 has no right star
+Bered ABC 1 has no right star
+HIP 59077 AB 1 has no right star
+Mahau AB 1 has no right star
+Mahau AB 2 has no right star
+HIP 69982 BC 3 has no right star
+Coelesi ABCD 1 has no right star
+Col 285 Sector PK-L b9-2 AB 1 has no right star
+Unkuan Di AB 3 has no right star
+HIP 60174 ABC 1 has no right star
+LTT 15449 AB 2 has no right star
+HIP 63920 AB 4 has no right star
+HIP 7823 ABC 1 has no right star
+Skoll AB 5 has no right star
+Saureinja BC 1 has no right star
+60 Tauri AB 5 has no right star
+60 Tauri CD 11 has no right star
+Gliese 550 ABC 1 has no right star
+no eight moon in 2MASS J12260421+2418540 9
+HIP 115181 AB 1 has no right star
+NLTT 9032 AB 4 has no right star
+HIP 28122 ABC 4 has no right star
+Synuefe RK-B b47-5 AB 1 has no right star
+Suyarang AB 1 has no right star
+no eight moon in Pipe (stem) Sector DL-Y d126 AB 1
+Chapo AB 3 has no right star
+Tao Tzaka AB 2 has no right star
+no eight moon in BD+05 2950 AB 1
+Kokong Hsin AB 2 has no right star
+Synuefe QO-Q c21-0 AB 4 has no right star
+Eskimori ABC 1 has no right star
+no eight moon in Col 285 Sector QR-D b12-2 1
+Wika Mu AB 2 has no right star
+Wika Mu AB 1 has no right star
+HIP 54614 AB 4 has no right star
+Col 285 Sector VF-L b9-1 ABC 1 has no right star
+Col 285 Sector VF-L b9-1 ABC 2 has no right star
+Col 285 Sector VF-L b9-1 ABC 4 has no right star
+Col 285 Sector FS-I c10-5 ABC 3 has no right star
+Col 285 Sector FS-I c10-5 ABC 2 has no right star
+Kikab AB 8 has no right star
+Djakah ABC 3 has no right star
+Hotaiko BC 1 has no right star
+Hotaiko BC 2 has no right star
+Hotaiko BC 5 has no right star
+Eta Apodis ABC 1 has no right star
+Ostyat ABC 1 has no right star
+Ostyat ABC 4 has no right star
+HIP 14596 ABCD 2 has no right star
+Crucis Sector TT-R b4-8 BC 9 has no right star
+Pleiades Sector EB-X c1-2 ABC 5 has no right star
+BD-13 6060 BC 5 has no right star
+HIP 95164 AB 1 has no right star
+Kamchandika AB 3 has no right star
+Celer AB 3 has no right star
+Baudu AB 7 has no right star
+Baudu AB 8 has no right star
+Alnath BC 1 has no right star
+Phi Eridani BC 2 has no right star
+Mokoi AB 1 has no right star
+HIP 105388 ABC 1 has no right star
+Trocnades AB 2 has no right star
+no eight moon in BD+29 1754 A 3
+HIP 24947 ABCD 1 has no right star
+95 Tauri ABC 3 has no right star
+HIP 117965 ABCD 1 has no right star
+HIP 117965 ABCD 2 has no right star
+HIP 28452 AB 1 has no right star
+HIP 28452 AB 2 has no right star
+Chaaratisa AB 1 has no right star
+Wisas CD 2 has no right star
+no eight moon in Kwarandji 1
+Arietis Sector EV-Y b3 AB 5 has no right star
+Banekalanec BC 1 has no right star
+Col 285 Sector PV-I b24-2 AB 2 has no right star
+Xiancheim AB 5 has no right star
+Brulidji AB 1 has no right star
+Muthniu ABC 1 has no right star
+Muthniu ABC 2 has no right star
+57 Zeta Serpentis AB 6 has no right star
+57 Zeta Serpentis CD 1 has no right star
+Arietis Sector AF-Z b1 AB 2 has no right star
+Arietis Sector AF-Z b1 AB 3 has no right star
+Kwiamong ABC 4 has no right star
+Kwiamong ABC 5 has no right star
+Du Shas AB 1 has no right star
+Du Shas AB 2 has no right star
+Ross 835 ABCD 2 has no right star
+Toluku AB 3 has no right star
+HIP 54642 AB 2 has no right star
+Balite AB 4 has no right star
+no eight moon in BD+39 876 C 3
+no eight moon in BD+39 876 C 4
+Sambuwa AB 8 has no right star
+Sambuwa AB 9 has no right star
+HR 6999 ABCD 10 has no right star
+HR 6999 ABCD 6 has no right star
+Khasiri BC 5 has no right star
+no eight moon in HIP 90451 A 1
+Kachiri ABCD 1 has no right star
+Anukam AB 3 has no right star
+Varayah BCD 1 has no right star
+HIP 7799 BCD 5 has no right star
+Eseasa AB 1 has no right star
+HIP 66754 BCDE 6 has no right star
+no eight moon in LP 861-12 1
+Buriges ABCD 3 has no right star
+Sowiio ABC 9 has no right star
+Monto ABCD 1 has no right star
+Monto ABCD 4 has no right star
+Praecipua AB 3 has no right star
+Aries Dark Region VZ-O b6-3 AB 2 has no right star
+HIP 117493 BC 3 has no right star
+HIP 87414 AB 7 has no right star
+HIP 87414 CD 2 has no right star
+HIP 87414 CD 3 has no right star
+no eight moon in CN Bootis A 1
+CN Bootis BC 1 has no right star
+CN Bootis BC 2 has no right star
+Ross 41 AB 7 has no right star
+HIP 56092 AB 1 has no right star
+Hyades Sector SY-R b4-0 AB 1 has no right star
+Pleiades Sector TO-Q b5-3 AB 1 has no right star
+Concantae AB 6 has no right star
+no eight moon in BD+37 2625 A 2
+Hyades Sector VT-R b4-3 BCD 2 has no right star
+Li Tzicnii BC 5 has no right star
+CD-36 12714 AB 1 has no right star
+Siliwuarisu ABC 4 has no right star
+Ross 263 BC 4 has no right star
+no eight moon in AC +40 428-42 A 3
+Semayah AB 5 has no right star
+Nyamari AB 5 has no right star
+Laukese AB 1 has no right star
+LTT 8001 AB 1 has no right star
+Ngugira ABC 1 has no right star
+Lugger AB 1 has no right star
+Daramo ABCD 2 has no right star
+Mutujiali AB 1 has no right star
+Col 285 Sector CY-N b21-0 ABC 1 has no right star
+Horagalles AB 5 has no right star
+HIP 6178 ABC 1 has no right star
+Wolf 1414 AB 1 has no right star
+Col 285 Sector FI-Q b6-3 ABCD 3 has no right star
+EP Eridani AB 1 has no right star
+Ross 340 ABC 1 has no right star
+LHS 528 CD 1 has no right star
+HIP 36512 ABCDE 2 has no right star
+CPD-28 332 ABC 1 has no right star
+Bardgri CD 1 has no right star
+Inheretii BCDE 3 has no right star
+Zeta Leporis ABC 1 has no right star
+HIP 10050 BC 1 has no right star
+no eight moon in BD+08 642 C 3
+Kuwan Slavs AB 1 has no right star
+HIP 60953 ABC 10 has no right star
+Ngeri AB 3 has no right star
+LHS 1122 ABC 2 has no right star
+Kumui ABC 2 has no right star
+Hyades Sector DB-X c1-20 AB 3 has no right star
+61 Ursae Majoris AB 5 has no right star
+HIP 19786 BCD 2 has no right star
+Ngarans AB 5 has no right star
+Lalande 10797 ABCD 1 has no right star
+HR 913 ABC 7 has no right star
+Sivas AB 8 has no right star
+no eight moon in NLTT 44219 A 1
+G 97-54 AB 10 has no right star
+LTT 5212 ABC 5 has no right star
+Sosong ABC 1 has no right star
+V2213 Ophiuchii ABC 3 has no right star
+Iah Lanitei ABC 3 has no right star
+LP 798-44 AB 1 has no right star
+no eight moon in Ye'kua'gsa 1
+Vellamo ABC 2 has no right star
+HIP 7564 AB 1 has no right star
+HR 3316 CD 3 has no right star
+HR 3316 CD 4 has no right star
+Tiapalan ABC 7 has no right star
+Timbalderis AB 4 has no right star
+no eight moon in 63 chi Leonis BC 1
+Quikil ABC 3 has no right star
+LFT 1442 ABC 1 has no right star
+T'u Tu AB 1 has no right star
+Mombaluma ABC 2 has no right star
+Mombaluma ABC 3 has no right star
+Volsung AB 1 has no right star
+Eleumo AB 1 has no right star
+no eight moon in BD+52 3410 ABCD 3
+HIP 31332 AB 1 has no right star
+LTT 7138 AB 9 has no right star
+no eight moon in BD+09 1105 6
+Col 285 Sector FH-I b11-2 BC 1 has no right star
+Mirdhing ABCDE 1 has no right star
+no eight moon in Undines 1
+Col 285 Sector GX-K d8-142 CD 2 has no right star
+Antliae Sector YJ-A b6 AB 1 has no right star
+Col 285 Sector FJ-D b27-0 ABC 5 has no right star
+Malsungga AB 2 has no right star
+Mokobidji ABC 1 has no right star
+no eight moon in HIP 106700 AB 1
+HIP 22650 ABC 1 has no right star
+Col 285 Sector CQ-N c7-22 AB 1 has no right star
+Lyncis Sector GW-W c1-10 AB 1 has no right star
+Lyncis Sector GW-W c1-10 AB 2 has no right star
+Tucanae Sector IS-S b4-0 AB 1 has no right star
+Bhumliauri AB 5 has no right star
+no eight moon in IQ Aurigae 1
+Col 285 Sector WO-E b13-1 AB 2 has no right star
+Veroandi AB 3 has no right star
+no eight moon in Col 285 Sector TW-F b26-1 AB 1
+no eight moon in Praea Euq CA-A d157 EF 1
+Col 285 Sector WV-C c13-15 AB 2 has no right star
+Yum Cimil AB 1 has no right star
+Lupus Dark Region B Sector OS-U c2-8 AB 2 has no right star
+Lupus Dark Region B Sector OS-U c2-8 AB 3 has no right star
+Col 285 Sector EV-O c6-14 DE 1 has no right star
+Col 285 Sector EV-O c6-14 DE 2 has no right star
+HIP 111808 ABC 8 has no right star
+Pleiades Sector LC-V c2-7 AB 3 has no right star
+Pleiades Sector IR-W d1-61 BC 5 has no right star
+Equalkuni ABC 2 has no right star
+Col 285 Sector XF-O d6-37 AB 3 has no right star
+HIP 4251 AB 4 has no right star
+Hyades Sector CR-U b3-3 AB 1 has no right star
+no eight moon in 2MASS J12241087+2359362 A 5
+Ross 209 AB 2 has no right star
+HIP 11706 BC 1 has no right star
+Khaima ABC 1 has no right star
+Khaima ABC 6 has no right star
+no eight moon in Col 285 Sector BX-H b11-0 1
+LP Draconis AB 1 has no right star
+LP Draconis AB 3 has no right star
+HR 244 ABC 4 has no right star
+HR 244 ABC 3 has no right star
+Valhoujem AB 5 has no right star
+Kuwemaki ABC 2 has no right star
+LTT 9299 ABC 1 has no right star
+LTT 9299 ABC 2 has no right star
+LHS 3877 ABCD 2 has no right star
+Col 285 Sector CS-A c14-15 ABC 2 has no right star
+Apurusia AB 1 has no right star
+Kim 2-17 DE 1 has no right star
+HIP 70142 AB 1 has no right star
+Synuefe UO-P c22-15 BCD 1 has no right star
+Hyades Sector IR-V b2-2 ABC 1 has no right star
+Synuefe RY-E b45-6 BC 7 has no right star
+Daha ABC 6 has no right star
+Wregoe BX-J c22-17 AB 2 has no right star
+Ntumusho AB 2 has no right star
+Synuefe FR-Z b47-5 ABC 6 has no right star
+Col 285 Sector IN-A c14-29 ABC 3 has no right star
+Ross 528 CDE 3 has no right star
+Synuefe BR-L c24-5 ABCD 4 has no right star
+Col 285 Sector RN-T d3-68 ABC 1 has no right star
+Col 285 Sector XF-E c12-15 ABC 1 has no right star
+Col 285 Sector XF-E c12-15 ABC 4 has no right star
+Pleiades Sector VK-O b6-0 AB 4 has no right star
+Antliae Sector IR-W c1-10 ABCD 2 has no right star
+Hyades Sector DV-Y c16 AB 3 has no right star
+Col 285 Sector UE-G c11-20 ABC 3 has no right star
+Col 285 Sector HJ-T b19-0 AB 1 has no right star
+HIP 38690 ABC 1 has no right star
+HIP 21280 AB 1 has no right star
+2 Lyncis BC 5 has no right star
+no eight moon in Lupus Dark Region B Sector CV-P b5-3 1
+Praea Euq QP-U b4-1 BC 3 has no right star
+Lyncis Sector EG-Y d124 CD 1 has no right star
+Trocmii ABC 4 has no right star
+Shui Wei Sector FC-U b3-3 BCD 1 has no right star
+LHS 480 AB 3 has no right star
+no eight moon in Gran 1
+Sumod AB 4 has no right star
+HIP 75024 AB 2 has no right star
+HIP 50352 AB 1 has no right star
+Kirrae ABC 3 has no right star
+Khonti AB 1 has no right star
+no eight moon in BD+26 2723 A 6
+Wi ABC 1 has no right star
+LTT 15461 AB 1 has no right star
+Tote ABC 4 has no right star
+Nervir BC 6 has no right star
+Ngadji AB 1 has no right star
+Wredguia AR-Q b46-3 BC 7 has no right star
+Col 285 Sector IX-T d3-43 ABC 3 has no right star
+no eight moon in BD+22 2632 A 1
+Nox ABCD 7 has no right star
+Tsohoda AB 3 has no right star
+Gliese 1272 AB 1 has no right star
+no eight moon in BD+22 2742 BC 1
+HIP 14370 AB 1 has no right star
+no eight moon in Wredguia ZM-J b36-0 1
+Kalak ABC 1 has no right star
+CD-58 538 AB 4 has no right star
+Ao AB 7 has no right star
+Ao AB 8 has no right star
+Kakas ABC 3 has no right star
+no eight moon in G 122-60 1
+LTT 1289 AB 1 has no right star
+Dvorsi BC 3 has no right star
+Olgrea ABC 1 has no right star
+no eight moon in LHS 28 1
+Lak AB 1 has no right star
+HIP 43845 BC 5 has no right star
+Eotienses ABC 1 has no right star
+Shinrarta Dezhra AB 2 has no right star
+Shinrarta Dezhra AB 3 has no right star
+Col 285 Sector ZQ-G b13-1 AB 1 has no right star
+Col 285 Sector MG-H b25-5 AB 2 has no right star
+Antliae Sector UY-S b3-1 AB 1 has no right star
+Col 285 Sector TE-O c7-10 AB 1 has no right star
+Synuefe HK-C d14-98 AB 1 has no right star
+no eight moon in Synuefe CR-L c24-20 1
+Synuefai MS-J b42-2 ABCD 1 has no right star
+Synuefe MY-H b42-0 AB 1 has no right star
+no eight moon in Pipe (stem) Sector PN-T b3-1 7
+no eight moon in 2MASS J12274113+2614303 AB 1
+no eight moon in 2MASS J12274113+2614303 AB 2
+Col 359 Sector MJ-O b8-3 ABC 1 has no right star
+Synuefe ZJ-Z c16-5 AB 1 has no right star
+Col 285 Sector DB-X d1-73 ABC 4 has no right star
+Synuefe KR-E b59-3 ABCD 1 has no right star
+Hyades Sector FW-V c2-6 ABC 6 has no right star
+no eight moon in 2MASS J12182193+2744423 AB 5
+no eight moon in 2MASS J12182193+2744423 AB 8
+Synuefe NO-H c26-2 BC 8 has no right star
+Synuefe CB-B b47-7 ABC 2 has no right star
+Pegasi Sector ZE-Z b5 AB 1 has no right star
+Col 285 Sector WP-E c12-2 AB 1 has no right star
+Bhilonggam ABC 1 has no right star
+Bhilonggam ABC 2 has no right star
+Bhilonggam ABC 5 has no right star
+Wregoe FL-Q b46-8 BC 1 has no right star
+Hyades Sector KX-S b4-1 ABC 2 has no right star
+Hyades Sector KX-S b4-1 ABC 1 has no right star
+no eight moon in Mel 22 Sector IO-G b11-1 1
+Wregoe RL-K c22-3 ABC 1 has no right star
+Col 285 Sector WQ-J b23-6 ABC 1 has no right star
+Hyades Sector UU-W b2-2 ABC 1 has no right star
+no eight moon in Synuefai XF-L d9-45 1
+Col 285 Sector BW-M d7-56 AB 1 has no right star
+HR 4502 ABCDE 6 has no right star
+Col 285 Sector OS-J c9-32 AB 3 has no right star
+Synuefe VJ-P c22-29 AB 3 has no right star
+Col 285 Sector WA-E c12-27 BCD 1 has no right star
+Synuefe EW-L c24-2 ABC 5 has no right star
+HIP 116017 ABC 2 has no right star
+Synuefe HI-X b48-6 AB 2 has no right star
+Synuefe HI-X b48-6 AB 4 has no right star
+Synuefe ZZ-C b46-6 AB 5 has no right star
+Wregoe AM-W b56-3 AB 4 has no right star
+no eight moon in 2MASS J12223895+2746432 A 7
+Synuefe UL-J d10-79 AB 1 has no right star
+Wregoe GY-S b58-10 AB 3 has no right star
+Synuefe IN-G b44-0 ABC 3 has no right star
+Synuefe IN-G b44-0 ABC 4 has no right star
+HIP 52500 AB 3 has no right star
+no eight moon in Pipe (stem) Sector DL-Y c28 9
+Col 285 Sector XP-E c12-32 ABC 1 has no right star
+Col 285 Sector XP-E c12-32 ABC 2 has no right star
+no eight moon in Pipe (stem) Sector IX-T b3-3 2
+no eight moon in Capricorni Sector JH-V b2-0 1
+Synuefe TR-Q b51-2 AB 2 has no right star
+Col 285 Sector HN-S c4-17 AB 2 has no right star
+Col 285 Sector DI-G b25-2 AB 1 has no right star
+Wregoe TQ-D b41-1 AB 3 has no right star
+Col 359 Sector HF-P c6-15 AB 1 has no right star
+Wregoe PD-C b54-10 ABC 3 has no right star
+HIP 76379 ABC 1 has no right star
+no eight moon in 2MASS J12163730+2653582 A 11
+HIP 79238 ABC 6 has no right star
+HIP 79238 ABC 5 has no right star
+HD 93098 ABC 2 has no right star
+Col 359 Sector AI-A b2-6 AB 3 has no right star
+no eight moon in Wredguia UK-J b50-2 A 1
+Wregoe AJ-N b34-4 AB 7 has no right star
+HIP 64901 AB 1 has no right star
+Antliae Sector VO-R b4-2 ABC 2 has no right star
+HIP 78758 ABC 1 has no right star
+Praea Euq SA-A b13 AB 1 has no right star
+Praea Euq SA-A b13 AB 2 has no right star
+no eight moon in Synuefe XT-N b40-0 1
+Swoilz CC-G b3-3 AB 1 has no right star
+Wregoe AJ-X c28-29 AB 2 has no right star
+no eight moon in Pipe (stem) Sector GQ-Y b5 5
+no eight moon in Pipe (stem) Sector GQ-Y b5 8
+Hyades Sector GL-W b2-4 AB 1 has no right star
+Col 285 Sector DM-C c13-17 AB 1 has no right star
+Wregoe RD-K b50-4 AB 3 has no right star
+Col 285 Sector ZO-E b13-0 AB 4 has no right star
+Col 285 Sector LG-Z b15-3 AB 1 has no right star
+no eight moon in 2MASS J12303491+2525312 ABC 5
+no eight moon in Col 285 Sector GN-V b18-1 1
+no eight moon in Mel 111 Sector PN-S b4-1 ABC 1
+Synuefai TQ-F c27-11 AB 4 has no right star
+no eight moon in Synuefe KX-Q b38-2 1
+Col 285 Sector IR-V d2-78 BC 4 has no right star
+HIP 78419 CDE 1 has no right star
+Synuefe AF-E b45-1 BC 1 has no right star
+Synuefe AF-E b45-1 BC 2 has no right star
+Wredguia FC-B c27-17 AB 3 has no right star
+Wregoe TM-Y c28-12 AB 1 has no right star
+Wredguia SO-G c24-12 ABC 1 has no right star
+Col 285 Sector DM-T c4-2 AB 3 has no right star
+Col 285 Sector GX-R c5-3 ABC 2 has no right star
+Synuefe NN-P b39-0 AB 1 has no right star
+Wregoe IE-Y b56-3 AB 2 has no right star
+IC 2602 Sector RO-Y b1-4 AB 5 has no right star
+Wregoe SB-B c27-29 DE 2 has no right star
+Synuefe GX-R b50-2 AB 1 has no right star
+HIP 110422 BC 4 has no right star
+Wregoe XW-B b42-0 AB 5 has no right star
+HIP 32643 CD 5 has no right star
+no eight moon in Pipe (stem) Sector YU-X b1-2 ABC 1
+Synuefai RR-V b35-1 BC 1 has no right star
+Praea Euq UI-Z b1-2 AB 2 has no right star
+Praea Euq UI-Z b1-2 AB 4 has no right star
+Wregoe FC-D d12-47 ABC 3 has no right star
+Synuefe VW-P b52-3 AB 2 has no right star
+Musca Dark Region OI-T b3-0 AB 1 has no right star
+no eight moon in Wregoe PZ-F b53-0 1
+Synuefe JB-W c18-9 ABC 2 has no right star
+Wregoe GC-D d12-79 AB 5 has no right star
+Wregoe MD-K d8-119 ABC 3 has no right star
+Synuefai LF-H c26-2 AB 1 has no right star
+Synuefai YT-G c27-13 AB 4 has no right star
+Wredguia TG-W c15-8 AB 2 has no right star
+Wregoe DJ-X c28-21 BC 2 has no right star
+Col 359 Sector IE-P b7-0 ABC 1 has no right star
+Wregoe LM-N b48-3 BC 8 has no right star
+Swoilz WA-I b2-5 AB 1 has no right star
+Swoilz WA-I b2-5 AB 4 has no right star
+[
+    {
+        "body_id": 304074,
+        "body_name": "Col 285 Sector RZ-V b3-0 A 1",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 915.1841,
+        "system_id": 2708417,
+        "system_name": "Col 285 Sector RZ-V b3-0",
+        "x": -7696,
+        "y": 1241,
+        "z": -9037,
+        "distance_from_arrival": 915.1841,
+        "eight_moon_min_distance": -28.5929865,
+        "eight_moon": "Col 285 Sector RZ-V b3-0 A 1 g"
+    },
+    {
+        "body_id": 1801238,
+        "body_name": "Zelada 10",
+        "body_semi_major_axis": 0.0017,
+        "body_orbital_eccentricity": 0.119,
+        "body_parents": "[{\"Null\":57},{\"Star\":0}]",
+        "body_body_id": 58,
+        "bodies_distance": 2186.2981,
+        "system_id": 4167063,
+        "system_name": "Zelada",
+        "x": -1884,
+        "y": -689,
+        "z": -1755,
+        "distance_from_arrival": 2186.2981,
+        "eight_moon_min_distance": -25.205780364570966,
+        "eight_moon": "Zelada 10 h"
+    },
+    {
+        "body_id": 1517444,
+        "body_name": "Arietis Sector VO-R b4-3 9",
+        "body_semi_major_axis": 0.0048,
+        "body_orbital_eccentricity": 0.1243,
+        "body_parents": "[{\"Null\":37},{\"Star\":0}]",
+        "body_body_id": 38,
+        "bodies_distance": 2661.1814,
+        "system_id": 4012732,
+        "system_name": "Arietis Sector VO-R b4-3",
+        "x": -1966,
+        "y": -3807,
+        "z": -3794,
+        "distance_from_arrival": 2661.1814,
+        "eight_moon_min_distance": -21.4757907225427,
+        "eight_moon": "Arietis Sector VO-R b4-3 9 h"
+    },
+    {
+        "body_id": 1155398,
+        "body_name": "HIP 69446 AB 2",
+        "body_semi_major_axis": 0.0022,
+        "body_orbital_eccentricity": 0.0957,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2834,
+        "system_id": 3740963,
+        "system_name": "HIP 69446",
+        "x": -3562,
+        "y": 5283,
+        "z": -898,
+        "distance_from_arrival": 2834,
+        "eight_moon_min_distance": -18.468223708810193,
+        "eight_moon": "HIP 69446 AB 2 h"
+    },
+    {
+        "body_id": 20282629,
+        "body_name": "Wregoe KA-L c22-4 1",
+        "body_semi_major_axis": 0.0004,
+        "body_orbital_eccentricity": 0.0445,
+        "body_parents": "[{\"Null\":7},{\"Star\":0}]",
+        "body_body_id": 8,
+        "bodies_distance": 663.0916,
+        "system_id": 22518799,
+        "system_name": "Wregoe KA-L c22-4",
+        "x": 6444,
+        "y": 8357,
+        "z": -3171,
+        "distance_from_arrival": 663.0916,
+        "eight_moon_min_distance": -18.11407922886691,
+        "eight_moon": "Wregoe KA-L c22-4 1 f"
+    },
+    {
+        "body_id": 3229574,
+        "body_name": "Malanquiya 2",
+        "body_semi_major_axis": 0.0009,
+        "body_orbital_eccentricity": 0.0918,
+        "body_parents": "[{\"Null\":27},{\"Star\":0}]",
+        "body_body_id": 28,
+        "bodies_distance": 2682.8774,
+        "system_id": 5832794,
+        "system_name": "Malanquiya",
+        "x": -4807,
+        "y": 963,
+        "z": -502,
+        "distance_from_arrival": 2682.8774,
+        "eight_moon_min_distance": -17.86627535942522,
+        "eight_moon": "Malanquiya 2 g"
+    },
+    {
+        "body_id": 1264659,
+        "body_name": "HIP 1274 A 6",
+        "body_semi_major_axis": 0.0065,
+        "body_orbital_eccentricity": 0.1036,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 4373.2803,
+        "system_id": 3823739,
+        "system_name": "HIP 1274",
+        "x": -2242,
+        "y": -6379,
+        "z": -314,
+        "distance_from_arrival": 4373.2803,
+        "eight_moon_min_distance": -16.933722810049105,
+        "eight_moon": "HIP 1274 A 6 g"
+    },
+    {
+        "body_id": 7132068,
+        "body_name": "Musca Dark Region HR-W d1-104 C 8",
+        "body_semi_major_axis": 0.0017,
+        "body_orbital_eccentricity": 0.0588,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 286869,
+        "system_id": 10017909,
+        "system_name": "Musca Dark Region HR-W d1-104",
+        "x": 11499,
+        "y": -3134,
+        "z": 9680,
+        "distance_from_arrival": 286869,
+        "eight_moon_min_distance": -16.8678367576396,
+        "eight_moon": "Musca Dark Region HR-W d1-104 C 8 g"
+    },
+    {
+        "body_id": 15807826,
+        "body_name": "Swoiwns KR-C d68 6",
+        "body_semi_major_axis": 0.0037,
+        "body_orbital_eccentricity": 0.133,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1201.2448,
+        "system_id": 18596269,
+        "system_name": "Swoiwns KR-C d68",
+        "x": -12059,
+        "y": -5464,
+        "z": 7448,
+        "distance_from_arrival": 1201.2448,
+        "eight_moon_min_distance": -14.986552624121178,
+        "eight_moon": "Swoiwns KR-C d68 6 h"
+    },
+    {
+        "body_id": 3657243,
+        "body_name": "LHS 5072 B 6",
+        "body_semi_major_axis": 0.0022,
+        "body_orbital_eccentricity": 0.0015,
+        "body_parents": "[{\"Null\":40},{\"Star\":2},{\"Null\":0}]",
+        "body_body_id": 41,
+        "bodies_distance": 25488.1934,
+        "system_id": 6209840,
+        "system_name": "LHS 5072",
+        "x": -1067,
+        "y": 485,
+        "z": -881,
+        "distance_from_arrival": 25488.1934,
+        "eight_moon_min_distance": -14.121842735038069,
+        "eight_moon": "LHS 5072 B 6 h"
+    },
+    {
+        "body_id": 181447,
+        "body_name": "HIP 15372 ABCDE 4",
+        "body_semi_major_axis": 0.0082,
+        "body_orbital_eccentricity": 0.1475,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 4060.085,
+        "system_id": 2065298,
+        "system_name": "HIP 15372",
+        "x": -6565,
+        "y": 2149,
+        "z": -6256,
+        "distance_from_arrival": 4060.085,
+        "eight_moon_min_distance": -14.016896328995227,
+        "eight_moon": "HIP 15372 ABCDE 4 h"
+    },
+    {
+        "body_id": 5152295,
+        "body_name": "Wredguia FA-P c19-3 A 4",
+        "body_semi_major_axis": 0.0058,
+        "body_orbital_eccentricity": 0.1336,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2877.0181,
+        "system_id": 7885533,
+        "system_name": "Wredguia FA-P c19-3",
+        "x": -10686,
+        "y": -698,
+        "z": -6404,
+        "distance_from_arrival": 2877.0181,
+        "eight_moon_min_distance": -13.848384286436408,
+        "eight_moon": "Wredguia FA-P c19-3 A 4 g"
+    },
+    {
+        "body_id": 11405466,
+        "body_name": "Col 359 Sector VD-S d4-9 CD 5",
+        "body_semi_major_axis": 0.0007,
+        "body_orbital_eccentricity": 0.1059,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 23556,
+        "system_id": 14430080,
+        "system_name": "Col 359 Sector VD-S d4-9",
+        "x": -3087,
+        "y": -751,
+        "z": 14837,
+        "distance_from_arrival": 23556,
+        "eight_moon_min_distance": -13.624800708776815,
+        "eight_moon": "Col 359 Sector VD-S d4-9 CD 5 h"
+    },
+    {
+        "body_id": 3319236,
+        "body_name": "Synuefe XJ-P c22-2 ABC 5",
+        "body_semi_major_axis": 0.0018,
+        "body_orbital_eccentricity": 0.1684,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 4197.1523,
+        "system_id": 5921974,
+        "system_name": "Synuefe XJ-P c22-2",
+        "x": 15102,
+        "y": -3035,
+        "z": -2726,
+        "distance_from_arrival": 4197.1523,
+        "eight_moon_min_distance": -11.14063905370608,
+        "eight_moon": "Synuefe XJ-P c22-2 ABC 5 g"
+    },
+    {
+        "body_id": 3133801,
+        "body_name": "Aries Dark Region ID-R b5-0 7",
+        "body_semi_major_axis": 0.0003,
+        "body_orbital_eccentricity": 0.0315,
+        "body_parents": "[{\"Null\":47},{\"Star\":0}]",
+        "body_body_id": 48,
+        "bodies_distance": 994.8112,
+        "system_id": 5717369,
+        "system_name": "Aries Dark Region ID-R b5-0",
+        "x": -4717,
+        "y": -3344,
+        "z": -7460,
+        "distance_from_arrival": 994.8112,
+        "eight_moon_min_distance": -10.928283789089598,
+        "eight_moon": "Aries Dark Region ID-R b5-0 7 g"
+    },
+    {
+        "body_id": 1666693,
+        "body_name": "Pleiades Sector ZF-N b7-3 5",
+        "body_semi_major_axis": 0.0112,
+        "body_orbital_eccentricity": 0.0086,
+        "body_parents": "[{\"Null\":47},{\"Star\":0}]",
+        "body_body_id": 48,
+        "bodies_distance": 1714.3478,
+        "system_id": 4109188,
+        "system_name": "Pleiades Sector ZF-N b7-3",
+        "x": -1297,
+        "y": -3515,
+        "z": -8604,
+        "distance_from_arrival": 1714.3478,
+        "eight_moon_min_distance": -10.678913679716457,
+        "eight_moon": "Pleiades Sector ZF-N b7-3 5 g"
+    },
+    {
+        "body_id": 4900322,
+        "body_name": "Wregoe XG-K c22-8 ABC 2",
+        "body_semi_major_axis": 0.0002,
+        "body_orbital_eccentricity": 0.0114,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1578,
+        "system_id": 7590886,
+        "system_name": "Wregoe XG-K c22-8",
+        "x": 12055,
+        "y": 3849,
+        "z": -2468,
+        "distance_from_arrival": 1578,
+        "eight_moon_min_distance": -10.628812985279692,
+        "eight_moon": "Wregoe XG-K c22-8 ABC 2 h"
+    },
+    {
+        "body_id": 2239857,
+        "body_name": "Praea Euq NG-Y b4 8",
+        "body_semi_major_axis": 0.0032,
+        "body_orbital_eccentricity": 0.1793,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1893.8794,
+        "system_id": 4671493,
+        "system_name": "Praea Euq NG-Y b4",
+        "x": 3846,
+        "y": -745,
+        "z": 8020,
+        "distance_from_arrival": 1893.8794,
+        "eight_moon_min_distance": -10.504982289523314,
+        "eight_moon": "Praea Euq NG-Y b4 8 g"
+    },
+    {
+        "body_id": 936448,
+        "body_name": "Musca Dark Region YZ-Y c26 A 1",
+        "body_semi_major_axis": 0.0009,
+        "body_orbital_eccentricity": 0.1864,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2066,
+        "system_id": 3554930,
+        "system_name": "Musca Dark Region YZ-Y c26",
+        "x": 13000,
+        "y": 312,
+        "z": 6354,
+        "distance_from_arrival": 2066,
+        "eight_moon_min_distance": -10.43707553304846,
+        "eight_moon": "Musca Dark Region YZ-Y c26 A 1 h"
+    },
+    {
+        "body_id": 18915768,
+        "body_name": "Swoilz GG-I b2-1 2",
+        "body_semi_major_axis": 0.0004,
+        "body_orbital_eccentricity": 0.1478,
+        "body_parents": "[{\"Null\":23},{\"Star\":0}]",
+        "body_body_id": 24,
+        "bodies_distance": 1310.7023,
+        "system_id": 21334330,
+        "system_name": "Swoilz GG-I b2-1",
+        "x": 9934,
+        "y": -1954,
+        "z": 8639,
+        "distance_from_arrival": 1310.7023,
+        "eight_moon_min_distance": -10.331595674909613,
+        "eight_moon": "Swoilz GG-I b2-1 2 h"
+    },
+    {
+        "body_id": 3487653,
+        "body_name": "Susa 1",
+        "body_semi_major_axis": 0.0054,
+        "body_orbital_eccentricity": 0.1741,
+        "body_parents": "[{\"Null\":17},{\"Star\":0}]",
+        "body_body_id": 18,
+        "bodies_distance": 2520.8796,
+        "system_id": 6087212,
+        "system_name": "Susa",
+        "x": -734,
+        "y": 2308,
+        "z": -3643,
+        "distance_from_arrival": 2520.8796,
+        "eight_moon_min_distance": -10.170953903723296,
+        "eight_moon": "Susa 1 f"
+    },
+    {
+        "body_id": 3285823,
+        "body_name": "Musca Dark Region JD-R b5-7 5",
+        "body_semi_major_axis": 0.0001,
+        "body_orbital_eccentricity": 0.0413,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1009.3633,
+        "system_id": 5889211,
+        "system_name": "Musca Dark Region JD-R b5-7",
+        "x": 12446,
+        "y": 433,
+        "z": 8259,
+        "distance_from_arrival": 1009.3633,
+        "eight_moon_min_distance": -9.980142575554845,
+        "eight_moon": "Musca Dark Region JD-R b5-7 5 g"
+    },
+    {
+        "body_id": 882684,
+        "body_name": "Col 285 Sector WS-D b27-3 3",
+        "body_semi_major_axis": 0,
+        "body_orbital_eccentricity": 0.0006,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1214,
+        "system_id": 3509570,
+        "system_name": "Col 285 Sector WS-D b27-3",
+        "x": -3289,
+        "y": 618,
+        "z": 7492,
+        "distance_from_arrival": 1214,
+        "eight_moon_min_distance": -9.9801,
+        "eight_moon": "Col 285 Sector WS-D b27-3 3 h"
+    },
+    {
+        "body_id": 1761640,
+        "body_name": "HIP 794 A 4",
+        "body_semi_major_axis": 0.0006,
+        "body_orbital_eccentricity": 0.1788,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2333.1233,
+        "system_id": 4152719,
+        "system_name": "HIP 794",
+        "x": 121,
+        "y": -5675,
+        "z": 1051,
+        "distance_from_arrival": 2333.1233,
+        "eight_moon_min_distance": -9.83522324746222,
+        "eight_moon": "HIP 794 A 4 g"
+    },
+    {
+        "body_id": 1870619,
+        "body_name": "LP 48-567 4",
+        "body_semi_major_axis": 0.0001,
+        "body_orbital_eccentricity": 0.145,
+        "body_parents": "[{\"Null\":31},{\"Star\":0}]",
+        "body_body_id": 32,
+        "bodies_distance": 795.6967,
+        "system_id": 4180154,
+        "system_name": "LP 48-567",
+        "x": -2146,
+        "y": 479,
+        "z": -818,
+        "distance_from_arrival": 795.6967,
+        "eight_moon_min_distance": -9.830925865697555,
+        "eight_moon": "LP 48-567 4 h"
+    },
+    {
+        "body_id": 5788231,
+        "body_name": "Mel 22 Sector IO-G b11-1 8",
+        "body_semi_major_axis": 0.0054,
+        "body_orbital_eccentricity": 0.0573,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1263,
+        "system_id": 8596116,
+        "system_name": "Mel 22 Sector IO-G b11-1",
+        "x": -6339,
+        "y": -6475,
+        "z": -12221,
+        "distance_from_arrival": 1263,
+        "eight_moon_min_distance": -9.6352237579221,
+        "eight_moon": "Mel 22 Sector IO-G b11-1 8 g"
+    },
+    {
+        "body_id": 497317,
+        "body_name": "Col 285 Sector TG-G b26-2 AB 1",
+        "body_semi_major_axis": 0.0012,
+        "body_orbital_eccentricity": 0.0085,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2304.8008,
+        "system_id": 3067689,
+        "system_name": "Col 285 Sector TG-G b26-2",
+        "x": 2713,
+        "y": 3057,
+        "z": 6577,
+        "distance_from_arrival": 2304.8008,
+        "eight_moon_min_distance": -8.23360413225749,
+        "eight_moon": "Col 285 Sector TG-G b26-2 AB 1 h"
+    },
+    {
+        "body_id": 7972305,
+        "body_name": "Taurus Dark Region PX-T b3-1 1",
+        "body_semi_major_axis": 0.0002,
+        "body_orbital_eccentricity": 0.1421,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 490,
+        "system_id": 10913850,
+        "system_name": "Taurus Dark Region PX-T b3-1",
+        "x": 530,
+        "y": -3072,
+        "z": -14397,
+        "distance_from_arrival": 490,
+        "eight_moon_min_distance": -8.13479424989262,
+        "eight_moon": "Taurus Dark Region PX-T b3-1 1 f"
+    },
+    {
+        "body_id": 2273434,
+        "body_name": "Col 285 Sector SJ-O c7-7 5",
+        "body_semi_major_axis": 0.0075,
+        "body_orbital_eccentricity": 0.0229,
+        "body_parents": "[{\"Null\":37},{\"Star\":0}]",
+        "body_body_id": 38,
+        "bodies_distance": 1714.0001,
+        "system_id": 4721805,
+        "system_name": "Col 285 Sector SJ-O c7-7",
+        "x": 4183,
+        "y": 6983,
+        "z": -928,
+        "distance_from_arrival": 1714.0001,
+        "eight_moon_min_distance": -7.985061440731395,
+        "eight_moon": "Col 285 Sector SJ-O c7-7 5 g"
+    },
+    {
+        "body_id": 2570209,
+        "body_name": "Nilfheim A 1",
+        "body_semi_major_axis": 0.0015,
+        "body_orbital_eccentricity": 0.0296,
+        "body_parents": "[{\"Null\":19},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 20,
+        "bodies_distance": 1431.9877,
+        "system_id": 5070273,
+        "system_name": "Nilfheim",
+        "x": 1413,
+        "y": -232,
+        "z": 2957,
+        "distance_from_arrival": 1431.9877,
+        "eight_moon_min_distance": -7.784805978021649,
+        "eight_moon": "Nilfheim A 1 h"
+    },
+    {
+        "body_id": 1299534,
+        "body_name": "Cherang 3",
+        "body_semi_major_axis": 0.0053,
+        "body_orbital_eccentricity": 0.1254,
+        "body_parents": "[{\"Null\":33},{\"Star\":0}]",
+        "body_body_id": 34,
+        "bodies_distance": 1921.819,
+        "system_id": 3850697,
+        "system_name": "Cherang",
+        "x": -1403,
+        "y": -4688,
+        "z": -1124,
+        "distance_from_arrival": 1921.819,
+        "eight_moon_min_distance": -7.605752771541006,
+        "eight_moon": "Cherang 3 f"
+    },
+    {
+        "body_id": 16705,
+        "body_name": "Col 285 Sector MV-H b25-2 3",
+        "body_semi_major_axis": 0.0017,
+        "body_orbital_eccentricity": 0.0697,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 856,
+        "system_id": 292713,
+        "system_name": "Col 285 Sector MV-H b25-2",
+        "x": -192,
+        "y": 2550,
+        "z": 6206,
+        "distance_from_arrival": 856,
+        "eight_moon_min_distance": -7.337436588238071,
+        "eight_moon": "Col 285 Sector MV-H b25-2 3 g"
+    },
+    {
+        "body_id": 2826999,
+        "body_name": "Col 285 Sector DV-F b27-0 AB 2",
+        "body_semi_major_axis": 0.0032,
+        "body_orbital_eccentricity": 0.024,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1604,
+        "system_id": 5349163,
+        "system_name": "Col 285 Sector DV-F b27-0",
+        "x": -1206,
+        "y": 7557,
+        "z": 7072,
+        "distance_from_arrival": 1604,
+        "eight_moon_min_distance": -7.036430449250232,
+        "eight_moon": "Col 285 Sector DV-F b27-0 AB 2 h"
+    },
+    {
+        "body_id": 3661480,
+        "body_name": "HIP 33654 9",
+        "body_semi_major_axis": 0.0004,
+        "body_orbital_eccentricity": 0.0421,
+        "body_parents": "[{\"Null\":25},{\"Star\":0}]",
+        "body_body_id": 26,
+        "bodies_distance": 1188.573,
+        "system_id": 6211294,
+        "system_name": "HIP 33654",
+        "x": 3647,
+        "y": -471,
+        "z": -3110,
+        "distance_from_arrival": 1188.573,
+        "eight_moon_min_distance": -7.036147466739592,
+        "eight_moon": "HIP 33654 9 h"
+    },
+    {
+        "body_id": 1692755,
+        "body_name": "Samenses 10",
+        "body_semi_major_axis": 0.0033,
+        "body_orbital_eccentricity": 0.1751,
+        "body_parents": "[{\"Null\":19},{\"Star\":0}]",
+        "body_body_id": 20,
+        "bodies_distance": 859.4218,
+        "system_id": 4121070,
+        "system_name": "Samenses",
+        "x": 4365,
+        "y": -1533,
+        "z": -2508,
+        "distance_from_arrival": 859.4218,
+        "eight_moon_min_distance": -6.861809193216459,
+        "eight_moon": "Samenses 10 h"
+    },
+    {
+        "body_id": 2924280,
+        "body_name": "HIP 55288 AB 3",
+        "body_semi_major_axis": 0.004,
+        "body_orbital_eccentricity": 0.1571,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 6870.7856,
+        "system_id": 5455833,
+        "system_name": "HIP 55288",
+        "x": 2941,
+        "y": 4054,
+        "z": -372,
+        "distance_from_arrival": 6870.7856,
+        "eight_moon_min_distance": -6.511850178478314,
+        "eight_moon": "HIP 55288 AB 3 f"
+    },
+    {
+        "body_id": 11154857,
+        "body_name": "Swoilz LT-T b9-7 6",
+        "body_semi_major_axis": 0.0024,
+        "body_orbital_eccentricity": 0.1305,
+        "body_parents": "[{\"Null\":51},{\"Star\":0}]",
+        "body_body_id": 52,
+        "bodies_distance": 1560.2605,
+        "system_id": 14182815,
+        "system_name": "Swoilz LT-T b9-7",
+        "x": 6731,
+        "y": -3207,
+        "z": 13362,
+        "distance_from_arrival": 1560.2605,
+        "eight_moon_min_distance": -6.44740610741096,
+        "eight_moon": "Swoilz LT-T b9-7 6 g"
+    },
+    {
+        "body_id": 577135,
+        "body_name": "Col 285 Sector CP-Y b1-2 5",
+        "body_semi_major_axis": 0.0005,
+        "body_orbital_eccentricity": 0.1641,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1088.7006,
+        "system_id": 3157870,
+        "system_name": "Col 285 Sector CP-Y b1-2",
+        "x": -1928,
+        "y": -1705,
+        "z": -10271,
+        "distance_from_arrival": 1088.7006,
+        "eight_moon_min_distance": -6.141143828624941,
+        "eight_moon": "Col 285 Sector CP-Y b1-2 5 h"
+    },
+    {
+        "body_id": 1608042,
+        "body_name": "Carnutet 2",
+        "body_semi_major_axis": 0.0019,
+        "body_orbital_eccentricity": 0.1412,
+        "body_parents": "[{\"Null\":23},{\"Star\":0}]",
+        "body_body_id": 24,
+        "bodies_distance": 1354.9514,
+        "system_id": 4073845,
+        "system_name": "Carnutet",
+        "x": 3878,
+        "y": -3304,
+        "z": -1242,
+        "distance_from_arrival": 1354.9514,
+        "eight_moon_min_distance": -5.997559023059941,
+        "eight_moon": "Carnutet 2 h"
+    },
+    {
+        "body_id": 8648387,
+        "body_name": "Synuefe FO-M b54-5 6",
+        "body_semi_major_axis": 0.0071,
+        "body_orbital_eccentricity": 0.0898,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1129,
+        "system_id": 11557009,
+        "system_name": "Synuefe FO-M b54-5",
+        "x": 8970,
+        "y": -5176,
+        "z": 3186,
+        "distance_from_arrival": 1129,
+        "eight_moon_min_distance": -5.653070602581168,
+        "eight_moon": "Synuefe FO-M b54-5 6 g"
+    },
+    {
+        "body_id": 3488280,
+        "body_name": "Posh A 13",
+        "body_semi_major_axis": 0.0009,
+        "body_orbital_eccentricity": 0.1092,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1667.08,
+        "system_id": 6087560,
+        "system_name": "Posh",
+        "x": 1786,
+        "y": -5353,
+        "z": -2554,
+        "distance_from_arrival": 1667.08,
+        "eight_moon_min_distance": -5.441840235361631,
+        "eight_moon": "Posh A 13 g"
+    },
+    {
+        "body_id": 23298134,
+        "body_name": "IC 2602 Sector FW-V b2-13 A 7",
+        "body_semi_major_axis": 0.0008,
+        "body_orbital_eccentricity": 0.1269,
+        "body_parents": "[{\"Null\":18},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 19,
+        "bodies_distance": 7298.9331,
+        "system_id": 25123429,
+        "system_name": "IC 2602 Sector FW-V b2-13",
+        "x": 14350,
+        "y": -2505,
+        "z": 2593,
+        "distance_from_arrival": 7298.9331,
+        "eight_moon_min_distance": -5.292680358528129,
+        "eight_moon": "IC 2602 Sector FW-V b2-13 A 7 h"
+    },
+    {
+        "body_id": 4954133,
+        "body_name": "Synuefe VZ-E b31-1 A 1",
+        "body_semi_major_axis": 0.001,
+        "body_orbital_eccentricity": 0.1266,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 919.5174,
+        "system_id": 7638785,
+        "system_name": "Synuefe VZ-E b31-1",
+        "x": 2824,
+        "y": -3787,
+        "z": -12431,
+        "distance_from_arrival": 919.5174,
+        "eight_moon_min_distance": -5.143766569214014,
+        "eight_moon": "Synuefe VZ-E b31-1 A 1 h"
+    },
+    {
+        "body_id": 1841539,
+        "body_name": "LP 320-359 A 9",
+        "body_semi_major_axis": 0.0112,
+        "body_orbital_eccentricity": 0.1158,
+        "body_parents": "[{\"Null\":51},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 52,
+        "bodies_distance": 1544.0118,
+        "system_id": 4174952,
+        "system_name": "LP 320-359",
+        "x": 40,
+        "y": 1591,
+        "z": -210,
+        "distance_from_arrival": 1544.0118,
+        "eight_moon_min_distance": -5.07754924531209,
+        "eight_moon": "LP 320-359 A 9 g"
+    },
+    {
+        "body_id": 18201783,
+        "body_name": "Praea Euq WD-B c3 10",
+        "body_semi_major_axis": 0.0026,
+        "body_orbital_eccentricity": 0.1239,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1126.0785,
+        "system_id": 20698682,
+        "system_name": "Praea Euq WD-B c3",
+        "x": 8192,
+        "y": 7825,
+        "z": 7339,
+        "distance_from_arrival": 1126.0785,
+        "eight_moon_min_distance": -5.000046944391452,
+        "eight_moon": "Praea Euq WD-B c3 10 g"
+    },
+    {
+        "body_id": 1685935,
+        "body_name": "LHS 351 5",
+        "body_semi_major_axis": 0.0063,
+        "body_orbital_eccentricity": 0.1016,
+        "body_parents": "[{\"Null\":55},{\"Star\":0}]",
+        "body_body_id": 56,
+        "bodies_distance": 1264.9098,
+        "system_id": 4117738,
+        "system_name": "LHS 351",
+        "x": 269,
+        "y": 1916,
+        "z": 562,
+        "distance_from_arrival": 1264.9098,
+        "eight_moon_min_distance": -4.956417268672169,
+        "eight_moon": "LHS 351 5 h"
+    },
+    {
+        "body_id": 1762563,
+        "body_name": "Yalung Ti 10",
+        "body_semi_major_axis": 0.0005,
+        "body_orbital_eccentricity": 0.052,
+        "body_parents": "[{\"Null\":17},{\"Star\":0}]",
+        "body_body_id": 18,
+        "bodies_distance": 1075.8947,
+        "system_id": 4152926,
+        "system_name": "Yalung Ti",
+        "x": -207,
+        "y": -5294,
+        "z": 1305,
+        "distance_from_arrival": 1075.8947,
+        "eight_moon_min_distance": -4.391581555722132,
+        "eight_moon": "Yalung Ti 10 h"
+    },
+    {
+        "body_id": 2329485,
+        "body_name": "Synuefe WC-P b52-1 A 10",
+        "body_semi_major_axis": 0.0049,
+        "body_orbital_eccentricity": 0.0505,
+        "body_parents": "[{\"Null\":47},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 48,
+        "bodies_distance": 1500.7362,
+        "system_id": 4781716,
+        "system_name": "Synuefe WC-P b52-1",
+        "x": 1846,
+        "y": -8220,
+        "z": 1950,
+        "distance_from_arrival": 1500.7362,
+        "eight_moon_min_distance": -4.244662329734294,
+        "eight_moon": "Synuefe WC-P b52-1 A 10 h"
+    },
+    {
+        "body_id": 1792096,
+        "body_name": "Wredguia RG-L b35-3 14",
+        "body_semi_major_axis": 0.0045,
+        "body_orbital_eccentricity": 0.0147,
+        "body_parents": "[{\"Null\":58},{\"Star\":0}]",
+        "body_body_id": 59,
+        "bodies_distance": 1973.3564,
+        "system_id": 4163058,
+        "system_name": "Wredguia RG-L b35-3",
+        "x": -11113,
+        "y": 219,
+        "z": -9401,
+        "distance_from_arrival": 1973.3564,
+        "eight_moon_min_distance": -4.241785130586732,
+        "eight_moon": "Wredguia RG-L b35-3 14 h"
+    },
+    {
+        "body_id": 1524313,
+        "body_name": "Col 285 Sector NQ-A b15-7 11",
+        "body_semi_major_axis": 0.0049,
+        "body_orbital_eccentricity": 0.1796,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2073,
+        "system_id": 4018010,
+        "system_name": "Col 285 Sector NQ-A b15-7",
+        "x": -8515,
+        "y": 1079,
+        "z": -810,
+        "distance_from_arrival": 2073,
+        "eight_moon_min_distance": -4.181499904910775,
+        "eight_moon": "Col 285 Sector NQ-A b15-7 11 h"
+    },
+    {
+        "body_id": 1506431,
+        "body_name": "LP 802-69 4",
+        "body_semi_major_axis": 0.0002,
+        "body_orbital_eccentricity": 0.0012,
+        "body_parents": "[{\"Null\":21},{\"Star\":0}]",
+        "body_body_id": 22,
+        "bodies_distance": 1555.3505,
+        "system_id": 4005304,
+        "system_name": "LP 802-69",
+        "x": 442,
+        "y": 1328,
+        "z": 2188,
+        "distance_from_arrival": 1555.3505,
+        "eight_moon_min_distance": -4.1417415718567465,
+        "eight_moon": "LP 802-69 4 h"
+    },
+    {
+        "body_id": 7635219,
+        "body_name": "Col 285 Sector KV-G b13-0 8",
+        "body_semi_major_axis": 0.0061,
+        "body_orbital_eccentricity": 0.0093,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1674.9772,
+        "system_id": 10557079,
+        "system_name": "Col 285 Sector KV-G b13-0",
+        "x": -4075,
+        "y": 10079,
+        "z": -2545,
+        "distance_from_arrival": 1674.9772,
+        "eight_moon_min_distance": -4.091972637620868,
+        "eight_moon": "Col 285 Sector KV-G b13-0 8 h"
+    },
+    {
+        "body_id": 1687037,
+        "body_name": "Krisha 12",
+        "body_semi_major_axis": 0.0024,
+        "body_orbital_eccentricity": 0.1877,
+        "body_parents": "[{\"Null\":41},{\"Star\":0}]",
+        "body_body_id": 42,
+        "bodies_distance": 1588.9519,
+        "system_id": 4118238,
+        "system_name": "Krisha",
+        "x": -3476,
+        "y": -3431,
+        "z": 469,
+        "distance_from_arrival": 1588.9519,
+        "eight_moon_min_distance": -4.0632263710692245,
+        "eight_moon": "Krisha 12 h"
+    },
+    {
+        "body_id": 3941724,
+        "body_name": "Synuefe LD-P b39-1 5",
+        "body_semi_major_axis": 0.0079,
+        "body_orbital_eccentricity": 0.1081,
+        "body_parents": "[{\"Null\":47},{\"Star\":0}]",
+        "body_body_id": 48,
+        "bodies_distance": 2958.3569,
+        "system_id": 6501675,
+        "system_name": "Synuefe LD-P b39-1",
+        "x": 6319,
+        "y": -3802,
+        "z": -7175,
+        "distance_from_arrival": 2958.3569,
+        "eight_moon_min_distance": -3.71573783754251,
+        "eight_moon": "Synuefe LD-P b39-1 5 h"
+    },
+    {
+        "body_id": 3644280,
+        "body_name": "HIP 1885 A 1",
+        "body_semi_major_axis": 0.003,
+        "body_orbital_eccentricity": 0.0556,
+        "body_parents": "[{\"Null\":8},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 9,
+        "bodies_distance": 1261.5863,
+        "system_id": 6197559,
+        "system_name": "HIP 1885",
+        "x": 385,
+        "y": -4119,
+        "z": 689,
+        "distance_from_arrival": 1261.5863,
+        "eight_moon_min_distance": -3.5452511971938847,
+        "eight_moon": "HIP 1885 A 1 h"
+    },
+    {
+        "body_id": 241903,
+        "body_name": "Synuefe CS-G b44-1 8",
+        "body_semi_major_axis": 0.0056,
+        "body_orbital_eccentricity": 0.0083,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1452.892,
+        "system_id": 2416988,
+        "system_name": "Synuefe CS-G b44-1",
+        "x": 7359,
+        "y": -2415,
+        "z": -3747,
+        "distance_from_arrival": 1452.892,
+        "eight_moon_min_distance": -3.4931312557302525,
+        "eight_moon": "Synuefe CS-G b44-1 8 h"
+    },
+    {
+        "body_id": 7318629,
+        "body_name": "Col 285 Sector GU-A b16-1 A 13",
+        "body_semi_major_axis": 0.0024,
+        "body_orbital_eccentricity": 0.0251,
+        "body_parents": "[{\"Null\":36},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 37,
+        "bodies_distance": 1406.3348,
+        "system_id": 10219826,
+        "system_name": "Col 285 Sector GU-A b16-1",
+        "x": -3005,
+        "y": 6914,
+        "z": -520,
+        "distance_from_arrival": 1406.3348,
+        "eight_moon_min_distance": -3.094208313205196,
+        "eight_moon": "Col 285 Sector GU-A b16-1 A 13 h"
+    },
+    {
+        "body_id": 3696949,
+        "body_name": "HIP 11613 B 6",
+        "body_semi_major_axis": 0.0046,
+        "body_orbital_eccentricity": 0.1699,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 25173,
+        "system_id": 6245502,
+        "system_name": "HIP 11613",
+        "x": -1538,
+        "y": -10406,
+        "z": -7580,
+        "distance_from_arrival": 25173,
+        "eight_moon_min_distance": -2.927601447500178,
+        "eight_moon": "HIP 11613 B 6 h"
+    },
+    {
+        "body_id": 1835483,
+        "body_name": "G 188-9 7",
+        "body_semi_major_axis": 0.0026,
+        "body_orbital_eccentricity": 0.1555,
+        "body_parents": "[{\"Null\":70},{\"Star\":0}]",
+        "body_body_id": 71,
+        "bodies_distance": 2057.4702,
+        "system_id": 4173832,
+        "system_name": "G 188-9",
+        "x": -1297,
+        "y": -437,
+        "z": 243,
+        "distance_from_arrival": 2057.4702,
+        "eight_moon_min_distance": -2.7104088715396473,
+        "eight_moon": "G 188-9 7 h"
+    },
+    {
+        "body_id": 923202,
+        "body_name": "Hyades Sector OX-U c2-5 A 11",
+        "body_semi_major_axis": 0.0042,
+        "body_orbital_eccentricity": 0.1667,
+        "body_parents": "[{\"Null\":35},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 36,
+        "bodies_distance": 1715.4811,
+        "system_id": 3551627,
+        "system_name": "Hyades Sector OX-U c2-5",
+        "x": 1700,
+        "y": -5913,
+        "z": -5676,
+        "distance_from_arrival": 1715.4811,
+        "eight_moon_min_distance": -2.424549435312239,
+        "eight_moon": "Hyades Sector OX-U c2-5 A 11 h"
+    },
+    {
+        "body_id": 420186,
+        "body_name": "Col 285 Sector FL-W b15-0 11",
+        "body_semi_major_axis": 0.0065,
+        "body_orbital_eccentricity": 0.0114,
+        "body_parents": "[{\"Null\":35},{\"Star\":0}]",
+        "body_body_id": 36,
+        "bodies_distance": 1250.984,
+        "system_id": 2968137,
+        "system_name": "Col 285 Sector FL-W b15-0",
+        "x": -14,
+        "y": -7640,
+        "z": -632,
+        "distance_from_arrival": 1250.984,
+        "eight_moon_min_distance": -2.195832771590042,
+        "eight_moon": "Col 285 Sector FL-W b15-0 11 h"
+    },
+    {
+        "body_id": 156640,
+        "body_name": "Col 285 Sector IK-R b20-1 10",
+        "body_semi_major_axis": 0.0033,
+        "body_orbital_eccentricity": 0.0955,
+        "body_parents": "[{\"Null\":35},{\"Star\":0}]",
+        "body_body_id": 36,
+        "bodies_distance": 1446.2708,
+        "system_id": 1870344,
+        "system_name": "Col 285 Sector IK-R b20-1",
+        "x": -1830,
+        "y": 4987,
+        "z": 2836,
+        "distance_from_arrival": 1446.2708,
+        "eight_moon_min_distance": -2.153247933124493,
+        "eight_moon": "Col 285 Sector IK-R b20-1 10 h"
+    },
+    {
+        "body_id": 11911476,
+        "body_name": "Musca Dark Region ER-V c2-34 A 12",
+        "body_semi_major_axis": 0.0048,
+        "body_orbital_eccentricity": 0.0316,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2163.4631,
+        "system_id": 14892865,
+        "system_name": "Musca Dark Region ER-V c2-34",
+        "x": 12982,
+        "y": 910,
+        "z": 8378,
+        "distance_from_arrival": 2163.4631,
+        "eight_moon_min_distance": -2.0471166861292094,
+        "eight_moon": "Musca Dark Region ER-V c2-34 A 12 g"
+    },
+    {
+        "body_id": 1799495,
+        "body_name": "Ahmetes 2",
+        "body_semi_major_axis": 0.0044,
+        "body_orbital_eccentricity": 0.1089,
+        "body_parents": "[{\"Null\":24},{\"Star\":0}]",
+        "body_body_id": 25,
+        "bodies_distance": 3614.9373,
+        "system_id": 4166814,
+        "system_name": "Ahmetes",
+        "x": 3730,
+        "y": -3095,
+        "z": 2868,
+        "distance_from_arrival": 3614.9373,
+        "eight_moon_min_distance": -1.7096750010496895,
+        "eight_moon": "Ahmetes 2 h"
+    },
+    {
+        "body_id": 1837489,
+        "body_name": "Napia 11",
+        "body_semi_major_axis": 0.0162,
+        "body_orbital_eccentricity": 0.009,
+        "body_parents": "[{\"Null\":47},{\"Star\":0}]",
+        "body_body_id": 48,
+        "bodies_distance": 1477.1676,
+        "system_id": 4174162,
+        "system_name": "Napia",
+        "x": 3275,
+        "y": -3982,
+        "z": 2374,
+        "distance_from_arrival": 1477.1676,
+        "eight_moon_min_distance": -1.2977404038105618,
+        "eight_moon": "Napia 11 h"
+    },
+    {
+        "body_id": 14880323,
+        "body_name": "Col 359 Sector GQ-A b3-2 10",
+        "body_semi_major_axis": 0.0042,
+        "body_orbital_eccentricity": 0.1518,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2116.7708,
+        "system_id": 17701401,
+        "system_name": "Col 359 Sector GQ-A b3-2",
+        "x": -11376,
+        "y": 7180,
+        "z": 5681,
+        "distance_from_arrival": 2116.7708,
+        "eight_moon_min_distance": -0.9723974870956094,
+        "eight_moon": "Col 359 Sector GQ-A b3-2 10 h"
+    },
+    {
+        "body_id": 306999,
+        "body_name": "Synuefe IH-T b36-2 A 18",
+        "body_semi_major_axis": 0.0074,
+        "body_orbital_eccentricity": 0.1665,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1988.5448,
+        "system_id": 2722394,
+        "system_name": "Synuefe IH-T b36-2",
+        "x": 4843,
+        "y": -7482,
+        "z": -8976,
+        "distance_from_arrival": 1988.5448,
+        "eight_moon_min_distance": -0.8499518415653938,
+        "eight_moon": "Synuefe IH-T b36-2 A 18 h"
+    },
+    {
+        "body_id": 1019656,
+        "body_name": "HIP 87168 B 1",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": "[{\"Star\":2},{\"Null\":0}]",
+        "body_body_id": 23,
+        "bodies_distance": 35075.043,
+        "system_id": 3618599,
+        "system_name": "HIP 87168",
+        "x": -5273,
+        "y": 3097,
+        "z": 2443,
+        "distance_from_arrival": 35075.043,
+        "eight_moon_min_distance": 0,
+        "eight_moon": "HIP 87168 B 1 h"
+    },
+    {
+        "body_id": 3741068,
+        "body_name": "Synuefe UT-E b45-7 C 12",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 150676.8594,
+        "system_id": 6293345,
+        "system_name": "Synuefe UT-E b45-7",
+        "x": 14561,
+        "y": -3117,
+        "z": -2746,
+        "distance_from_arrival": 150676.8594,
+        "eight_moon_min_distance": 0,
+        "eight_moon": "Synuefe UT-E b45-7 C 12 h"
+    },
+    {
+        "body_id": 7005630,
+        "body_name": "Synuefe YE-M b41-4 9",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": "[{\"Star\":0}]",
+        "body_body_id": 34,
+        "bodies_distance": 1346.4264,
+        "system_id": 9878022,
+        "system_name": "Synuefe YE-M b41-4",
+        "x": 13858,
+        "y": -1613,
+        "z": -5446,
+        "distance_from_arrival": 1346.4264,
+        "eight_moon_min_distance": 0,
+        "eight_moon": "Synuefe YE-M b41-4 9 h"
+    },
+    {
+        "body_id": 14198671,
+        "body_name": "Col 359 Sector YB-J b11-0 C 1",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 510934.3438,
+        "system_id": 17045975,
+        "system_name": "Col 359 Sector YB-J b11-0",
+        "x": -1412,
+        "y": 1196,
+        "z": 11471,
+        "distance_from_arrival": 510934.3438,
+        "eight_moon_min_distance": 0,
+        "eight_moon": "Col 359 Sector YB-J b11-0 C 1 f a"
+    },
+    {
+        "body_id": 16679034,
+        "body_name": "Mel 22 Sector IE-F b12-2 8",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": "[{\"Star\":0}]",
+        "body_body_id": 12,
+        "bodies_distance": 726.527,
+        "system_id": 19392102,
+        "system_name": "Mel 22 Sector IE-F b12-2",
+        "x": -5974,
+        "y": -5216,
+        "z": -11590,
+        "distance_from_arrival": 726.527,
+        "eight_moon_min_distance": 0,
+        "eight_moon": "Mel 22 Sector IE-F b12-2 8 h"
+    },
+    {
+        "body_id": 16715640,
+        "body_name": "Swoilz WR-J b0 A 1",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": "[{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 20,
+        "bodies_distance": 1393.6025,
+        "system_id": 19424347,
+        "system_name": "Swoilz WR-J b0",
+        "x": 10760,
+        "y": -8930,
+        "z": 6903,
+        "distance_from_arrival": 1393.6025,
+        "eight_moon_min_distance": 0,
+        "eight_moon": "Swoilz WR-J b0 A 1 h"
+    },
+    {
+        "body_id": 16726646,
+        "body_name": "HIP 48031 B 2",
+        "body_semi_major_axis": null,
+        "body_orbital_eccentricity": null,
+        "body_parents": "[{\"Star\":2},{\"Null\":0}]",
+        "body_body_id": 24,
+        "bodies_distance": 261161.4062,
+        "system_id": 19432851,
+        "system_name": "HIP 48031",
+        "x": 9643,
+        "y": 2090,
+        "z": -366,
+        "distance_from_arrival": 261161.4062,
+        "eight_moon_min_distance": 0,
+        "eight_moon": "HIP 48031 B 2 g"
+    },
+    {
+        "body_id": 693930,
+        "body_name": "Hyades Sector OT-P b6-1 5",
+        "body_semi_major_axis": 0.0002,
+        "body_orbital_eccentricity": 0.1225,
+        "body_parents": "[{\"Null\":26},{\"Star\":0}]",
+        "body_body_id": 27,
+        "bodies_distance": 1195.1628,
+        "system_id": 3294072,
+        "system_name": "Hyades Sector OT-P b6-1",
+        "x": 526,
+        "y": 1054,
+        "z": -4470,
+        "distance_from_arrival": 1195.1628,
+        "eight_moon_min_distance": 0.049148850101287854,
+        "eight_moon": "Hyades Sector OT-P b6-1 5 g"
+    },
+    {
+        "body_id": 506931,
+        "body_name": "Col 285 Sector GF-F b12-1 8",
+        "body_semi_major_axis": 0.0003,
+        "body_orbital_eccentricity": 0.1491,
+        "body_parents": "[{\"Null\":23},{\"Star\":0}]",
+        "body_body_id": 24,
+        "bodies_distance": 1006.3188,
+        "system_id": 3077748,
+        "system_name": "Col 285 Sector GF-F b12-1",
+        "x": 5704,
+        "y": -1721,
+        "z": -2761,
+        "distance_from_arrival": 1006.3188,
+        "eight_moon_min_distance": 0.09812765497556641,
+        "eight_moon": "Col 285 Sector GF-F b12-1 8 f"
+    },
+    {
+        "body_id": 18018206,
+        "body_name": "Wregoe CK-J b50-2 9",
+        "body_semi_major_axis": 0.0005,
+        "body_orbital_eccentricity": 0.1873,
+        "body_parents": "[{\"Null\":34},{\"Star\":0}]",
+        "body_body_id": 35,
+        "bodies_distance": 1792.3702,
+        "system_id": 20546924,
+        "system_name": "Wregoe CK-J b50-2",
+        "x": 14622,
+        "y": 1524,
+        "z": 523,
+        "distance_from_arrival": 1792.3702,
+        "eight_moon_min_distance": 0.19518649408434338,
+        "eight_moon": "Wregoe CK-J b50-2 9 g a"
+    },
+    {
+        "body_id": 24939079,
+        "body_name": "Ophiuchus Dark Region B Sector AF-A d41 A 7",
+        "body_semi_major_axis": 0.0005,
+        "body_orbital_eccentricity": 0.0632,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1758,
+        "system_id": 26454822,
+        "system_name": "Ophiuchus Dark Region B Sector AF-A d41",
+        "x": 678,
+        "y": 6087,
+        "z": 14045,
+        "distance_from_arrival": 1758,
+        "eight_moon_min_distance": 0.24900371500210722,
+        "eight_moon": "Ophiuchus Dark Region B Sector AF-A d41 A 7 g"
+    },
+    {
+        "body_id": 1701830,
+        "body_name": "Nagaybaks 7",
+        "body_semi_major_axis": 0.0007,
+        "body_orbital_eccentricity": 0.1576,
+        "body_parents": "[{\"Null\":39},{\"Star\":0}]",
+        "body_body_id": 40,
+        "bodies_distance": 1736.7086,
+        "system_id": 4125923,
+        "system_name": "Nagaybaks",
+        "x": 1122,
+        "y": -1536,
+        "z": 2264,
+        "distance_from_arrival": 1736.7086,
+        "eight_moon_min_distance": 0.29503776565493767,
+        "eight_moon": "Nagaybaks 7 f a"
+    },
+    {
+        "body_id": 994407,
+        "body_name": "Col 359 Sector WH-T c4-22 AB 1",
+        "body_semi_major_axis": 0.0008,
+        "body_orbital_eccentricity": 0.1161,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1689,
+        "system_id": 3594443,
+        "system_name": "Col 359 Sector WH-T c4-22",
+        "x": 120,
+        "y": 540,
+        "z": 10543,
+        "distance_from_arrival": 1689,
+        "eight_moon_min_distance": 0.3466038947250583,
+        "eight_moon": "Col 359 Sector WH-T c4-22 AB 1 h"
+    },
+    {
+        "body_id": 3711150,
+        "body_name": "Lyncis Sector FM-V b2-0 5",
+        "body_semi_major_axis": 0.0009,
+        "body_orbital_eccentricity": 0.186,
+        "body_parents": "[{\"Null\":37},{\"Star\":0}]",
+        "body_body_id": 38,
+        "bodies_distance": 3028.9851,
+        "system_id": 6260512,
+        "system_name": "Lyncis Sector FM-V b2-0",
+        "x": -3725,
+        "y": 2746,
+        "z": -4752,
+        "distance_from_arrival": 3028.9851,
+        "eight_moon_min_distance": 0.3913670116334954,
+        "eight_moon": "Lyncis Sector FM-V b2-0 5 g a"
+    },
+    {
+        "body_id": 2613962,
+        "body_name": "Taurus Dark Region BV-Y c11 13",
+        "body_semi_major_axis": 0.0012,
+        "body_orbital_eccentricity": 0.1073,
+        "body_parents": "[{\"Null\":47},{\"Star\":0}]",
+        "body_body_id": 48,
+        "bodies_distance": 2767.1099,
+        "system_id": 5111782,
+        "system_name": "Taurus Dark Region BV-Y c11",
+        "x": -1105,
+        "y": -3351,
+        "z": -15003,
+        "distance_from_arrival": 2767.1099,
+        "eight_moon_min_distance": 0.4456474069983679,
+        "eight_moon": "Taurus Dark Region BV-Y c11 13 g a"
+    },
+    {
+        "body_id": 463484,
+        "body_name": "HIP 111783 C 6",
+        "body_semi_major_axis": 0.0109,
+        "body_orbital_eccentricity": 0.0309,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 22175.2695,
+        "system_id": 3020394,
+        "system_name": "HIP 111783",
+        "x": -4937,
+        "y": -4317,
+        "z": 984,
+        "distance_from_arrival": 22175.2695,
+        "eight_moon_min_distance": 0.4465072003159375,
+        "eight_moon": "HIP 111783 C 6 h"
+    },
+    {
+        "body_id": 1553992,
+        "body_name": "MCC 818 C 2",
+        "body_semi_major_axis": 0.0009,
+        "body_orbital_eccentricity": 0.0058,
+        "body_parents": "[{\"Null\":20},{\"Star\":4},{\"Null\":0}]",
+        "body_body_id": 21,
+        "bodies_distance": 26599.7715,
+        "system_id": 4038929,
+        "system_name": "MCC 818",
+        "x": -2527,
+        "y": 188,
+        "z": 443,
+        "distance_from_arrival": 26599.7715,
+        "eight_moon_min_distance": 0.4490969459987803,
+        "eight_moon": "MCC 818 C 2 e a"
+    },
+    {
+        "body_id": 1403167,
+        "body_name": "Vitri A 8",
+        "body_semi_major_axis": 0.0012,
+        "body_orbital_eccentricity": 0.0011,
+        "body_parents": "[{\"Null\":24},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 25,
+        "bodies_distance": 2579.3064,
+        "system_id": 3934483,
+        "system_name": "Vitri",
+        "x": -652,
+        "y": -185,
+        "z": -5490,
+        "distance_from_arrival": 2579.3064,
+        "eight_moon_min_distance": 0.5489051377222604,
+        "eight_moon": "Vitri A 8 g a"
+    },
+    {
+        "body_id": 4896588,
+        "body_name": "HIP 19113 A 5",
+        "body_semi_major_axis": 0.0014,
+        "body_orbital_eccentricity": 0.1447,
+        "body_parents": "[{\"Null\":34},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 35,
+        "bodies_distance": 1933.2172,
+        "system_id": 7587340,
+        "system_name": "HIP 19113",
+        "x": 4317,
+        "y": -6555,
+        "z": -4495,
+        "distance_from_arrival": 1933.2172,
+        "eight_moon_min_distance": 0.6413540617808408,
+        "eight_moon": "HIP 19113 A 5 f a"
+    },
+    {
+        "body_id": 1590763,
+        "body_name": "CPO 24 4",
+        "body_semi_major_axis": 0.0014,
+        "body_orbital_eccentricity": 0.1116,
+        "body_parents": "[{\"Null\":39},{\"Star\":0}]",
+        "body_body_id": 40,
+        "bodies_distance": 2669.6211,
+        "system_id": 4062822,
+        "system_name": "CPO 24",
+        "x": 521,
+        "y": -2430,
+        "z": 295,
+        "distance_from_arrival": 2669.6211,
+        "eight_moon_min_distance": 0.6443424479400374,
+        "eight_moon": "CPO 24 4 g"
+    },
+    {
+        "body_id": 2580360,
+        "body_name": "Igoria 2",
+        "body_semi_major_axis": 0.0017,
+        "body_orbital_eccentricity": 0.0261,
+        "body_parents": "[{\"Null\":38},{\"Star\":0}]",
+        "body_body_id": 39,
+        "bodies_distance": 1700.8224,
+        "system_id": 5078014,
+        "system_name": "Igoria",
+        "x": 3800,
+        "y": -6355,
+        "z": 636,
+        "distance_from_arrival": 1700.8224,
+        "eight_moon_min_distance": 0.7981190126597066,
+        "eight_moon": "Igoria 2 g a"
+    },
+    {
+        "body_id": 336996,
+        "body_name": "HIP 97449 AB 4",
+        "body_semi_major_axis": 0.002,
+        "body_orbital_eccentricity": 0.0991,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 2170.7197,
+        "system_id": 2826450,
+        "system_name": "HIP 97449",
+        "x": 332,
+        "y": -3546,
+        "z": 6483,
+        "distance_from_arrival": 2170.7197,
+        "eight_moon_min_distance": 0.943196775211452,
+        "eight_moon": "HIP 97449 AB 4 h"
+    },
+    {
+        "body_id": 2326799,
+        "body_name": "Synuefe YZ-X c17-15 ABCD 6",
+        "body_semi_major_axis": 0.0025,
+        "body_orbital_eccentricity": 0.1423,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 3840,
+        "system_id": 4778956,
+        "system_name": "Synuefe YZ-X c17-15",
+        "x": 6183,
+        "y": -3871,
+        "z": -9494,
+        "distance_from_arrival": 3840,
+        "eight_moon_min_distance": 1.1849167828430092,
+        "eight_moon": "Synuefe YZ-X c17-15 ABCD 6 g a"
+    },
+    {
+        "body_id": 2911196,
+        "body_name": "Synuefe BK-Z c16-2 A 12",
+        "body_semi_major_axis": 0.0025,
+        "body_orbital_eccentricity": 0.1331,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1791,
+        "system_id": 5438714,
+        "system_name": "Synuefe BK-Z c16-2",
+        "x": 9857,
+        "y": -6718,
+        "z": -10320,
+        "distance_from_arrival": 1791,
+        "eight_moon_min_distance": 1.186512398817718,
+        "eight_moon": "Synuefe BK-Z c16-2 A 12 h"
+    },
+    {
+        "body_id": 1385631,
+        "body_name": "Col 285 Sector EF-F b12-4 9",
+        "body_semi_major_axis": 0.0029,
+        "body_orbital_eccentricity": 0.081,
+        "body_parents": "[{\"Null\":50},{\"Star\":0}]",
+        "body_body_id": 51,
+        "bodies_distance": 1521.1466,
+        "system_id": 3918011,
+        "system_name": "Col 285 Sector EF-F b12-4",
+        "x": 4374,
+        "y": -1533,
+        "z": -2930,
+        "distance_from_arrival": 1521.1466,
+        "eight_moon_min_distance": 1.3924589285415097,
+        "eight_moon": "Col 285 Sector EF-F b12-4 9 g a"
+    },
+    {
+        "body_id": 1349271,
+        "body_name": "Col 285 Sector UF-M c8-10 AB 11",
+        "body_semi_major_axis": 0.0103,
+        "body_orbital_eccentricity": 0.1812,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 3968.1589,
+        "system_id": 3888792,
+        "system_name": "Col 285 Sector UF-M c8-10",
+        "x": -4440,
+        "y": 4638,
+        "z": 410,
+        "distance_from_arrival": 3968.1589,
+        "eight_moon_min_distance": 1.7113359257834375,
+        "eight_moon": "Col 285 Sector UF-M c8-10 AB 11 h"
+    },
+    {
+        "body_id": 1846780,
+        "body_name": "RBS 742 4",
+        "body_semi_major_axis": 0.0037,
+        "body_orbital_eccentricity": 0.1875,
+        "body_parents": "[{\"Null\":39},{\"Star\":0}]",
+        "body_body_id": 40,
+        "bodies_distance": 1226.7439,
+        "system_id": 4175367,
+        "system_name": "RBS 742",
+        "x": 224,
+        "y": -1091,
+        "z": -1263,
+        "distance_from_arrival": 1226.7439,
+        "eight_moon_min_distance": 1.763672808125766,
+        "eight_moon": "RBS 742 4 g a"
+    },
+    {
+        "body_id": 1767914,
+        "body_name": "Col 285 Sector FX-R b5-7 ABC 6",
+        "body_semi_major_axis": 0.0269,
+        "body_orbital_eccentricity": 0.1147,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 3091.4514,
+        "system_id": 4153684,
+        "system_name": "Col 285 Sector FX-R b5-7",
+        "x": -7265,
+        "y": -586,
+        "z": -7643,
+        "distance_from_arrival": 3091.4514,
+        "eight_moon_min_distance": 2.25673251697267,
+        "eight_moon": "Col 285 Sector FX-R b5-7 ABC 6 h"
+    },
+    {
+        "body_id": 1435359,
+        "body_name": "LFT 300 6",
+        "body_semi_major_axis": 0.0049,
+        "body_orbital_eccentricity": 0.1101,
+        "body_parents": "[{\"Null\":30},{\"Star\":0}]",
+        "body_body_id": 31,
+        "bodies_distance": 1560.4775,
+        "system_id": 3959369,
+        "system_name": "LFT 300",
+        "x": -542,
+        "y": -871,
+        "z": -1918,
+        "distance_from_arrival": 1560.4775,
+        "eight_moon_min_distance": 2.380358902109537,
+        "eight_moon": "LFT 300 6 g a"
+    },
+    {
+        "body_id": 1491031,
+        "body_name": "HIP 71050 A 1",
+        "body_semi_major_axis": 0.0199,
+        "body_orbital_eccentricity": 0.0491,
+        "body_parents": "[{\"Null\":13},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 14,
+        "bodies_distance": 2123.6831,
+        "system_id": 3995863,
+        "system_name": "HIP 71050",
+        "x": 3162,
+        "y": -297,
+        "z": 3040,
+        "distance_from_arrival": 2123.6831,
+        "eight_moon_min_distance": 2.4331473648664654,
+        "eight_moon": "HIP 71050 A 1 h"
+    },
+    {
+        "body_id": 22904377,
+        "body_name": "Col 359 Sector PL-Q b8-0 AB 2",
+        "body_semi_major_axis": 0.0102,
+        "body_orbital_eccentricity": 0.014,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 3309.1819,
+        "system_id": 24734610,
+        "system_name": "Col 359 Sector PL-Q b8-0",
+        "x": -1545,
+        "y": 8336,
+        "z": 9456,
+        "distance_from_arrival": 3309.1819,
+        "eight_moon_min_distance": 2.6442276701581404,
+        "eight_moon": "Col 359 Sector PL-Q b8-0 AB 2 h"
+    },
+    {
+        "body_id": 4529031,
+        "body_name": "Synuefe MK-M d8-20 A 2",
+        "body_semi_major_axis": 0.0285,
+        "body_orbital_eccentricity": 0.093,
+        "body_parents": "[{\"Null\":15},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 16,
+        "bodies_distance": 2057.3582,
+        "system_id": 7207277,
+        "system_name": "Synuefe MK-M d8-20",
+        "x": 81,
+        "y": -8542,
+        "z": -9837,
+        "distance_from_arrival": 2057.3582,
+        "eight_moon_min_distance": 3.082096447198981,
+        "eight_moon": "Synuefe MK-M d8-20 A 2 h"
+    },
+    {
+        "body_id": 10873018,
+        "body_name": "Synuefe HW-M c23-11 AB 4",
+        "body_semi_major_axis": 0.0071,
+        "body_orbital_eccentricity": 0.145,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1920.3287,
+        "system_id": 13898602,
+        "system_name": "Synuefe HW-M c23-11",
+        "x": 12390,
+        "y": -8247,
+        "z": -1531,
+        "distance_from_arrival": 1920.3287,
+        "eight_moon_min_distance": 3.4555920354735754,
+        "eight_moon": "Synuefe HW-M c23-11 AB 4 h"
+    },
+    {
+        "body_id": 9692445,
+        "body_name": "Synuefai PA-L b55-4 11",
+        "body_semi_major_axis": 0.0077,
+        "body_orbital_eccentricity": 0.0608,
+        "body_parents": "[{\"Null\":81},{\"Star\":0}]",
+        "body_body_id": 82,
+        "bodies_distance": 3257.1765,
+        "system_id": 12595908,
+        "system_name": "Synuefai PA-L b55-4",
+        "x": -10017,
+        "y": -4633,
+        "z": 3921,
+        "distance_from_arrival": 3257.1765,
+        "eight_moon_min_distance": 3.785329553479373,
+        "eight_moon": "Synuefai PA-L b55-4 11 g a"
+    },
+    {
+        "body_id": 191053,
+        "body_name": "HIP 99940 ABCD 1",
+        "body_semi_major_axis": 0.0092,
+        "body_orbital_eccentricity": 0.1279,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 5424,
+        "system_id": 2120086,
+        "system_name": "HIP 99940",
+        "x": -487,
+        "y": -2504,
+        "z": 3919,
+        "distance_from_arrival": 5424,
+        "eight_moon_min_distance": 4.503241198025069,
+        "eight_moon": "HIP 99940 ABCD 1 g a"
+    },
+    {
+        "body_id": 10389865,
+        "body_name": "Synuefai BY-X b48-7 3",
+        "body_semi_major_axis": 0.0101,
+        "body_orbital_eccentricity": 0.0701,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1539.9985,
+        "system_id": 13373316,
+        "system_name": "Synuefai BY-X b48-7",
+        "x": -13778,
+        "y": -2084,
+        "z": -777,
+        "distance_from_arrival": 1539.9985,
+        "eight_moon_min_distance": 5.027552066156713,
+        "eight_moon": "Synuefai BY-X b48-7 3 h"
+    },
+    {
+        "body_id": 3394061,
+        "body_name": "Bhrites A 2",
+        "body_semi_major_axis": 0.0266,
+        "body_orbital_eccentricity": 0.1685,
+        "body_parents": "[{\"Null\":14},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 15,
+        "bodies_distance": 627.0413,
+        "system_id": 5993719,
+        "system_name": "Bhrites",
+        "x": 3843,
+        "y": -6228,
+        "z": 2260,
+        "distance_from_arrival": 627.0413,
+        "eight_moon_min_distance": 5.69846942782166,
+        "eight_moon": "Bhrites A 2 h"
+    },
+    {
+        "body_id": 654434,
+        "body_name": "Col 285 Sector XK-O d6-117 A 2",
+        "body_semi_major_axis": 0.0304,
+        "body_orbital_eccentricity": 0.053,
+        "body_parents": "[{\"Null\":11},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 12,
+        "bodies_distance": 1516.4633,
+        "system_id": 3248584,
+        "system_name": "Col 285 Sector XK-O d6-117",
+        "x": -3055,
+        "y": 62,
+        "z": 4684,
+        "distance_from_arrival": 1516.4633,
+        "eight_moon_min_distance": 5.767137100184802,
+        "eight_moon": "Col 285 Sector XK-O d6-117 A 2 g"
+    },
+    {
+        "body_id": 1802494,
+        "body_name": "KP Tauri 4",
+        "body_semi_major_axis": 0.0129,
+        "body_orbital_eccentricity": 0.1975,
+        "body_parents": "[{\"Null\":30},{\"Star\":0}]",
+        "body_body_id": 31,
+        "bodies_distance": 1955.3376,
+        "system_id": 4167252,
+        "system_name": "KP Tauri",
+        "x": -431,
+        "y": -721,
+        "z": -1558,
+        "distance_from_arrival": 1955.3376,
+        "eight_moon_min_distance": 6.26047044258851,
+        "eight_moon": "KP Tauri 4 e a"
+    },
+    {
+        "body_id": 1789008,
+        "body_name": "Qarato 9",
+        "body_semi_major_axis": 0.0218,
+        "body_orbital_eccentricity": 0.0152,
+        "body_parents": "[{\"Null\":25},{\"Star\":0}]",
+        "body_body_id": 26,
+        "bodies_distance": 1824.4813,
+        "system_id": 4161838,
+        "system_name": "Qarato",
+        "x": 240,
+        "y": -1881,
+        "z": 576,
+        "distance_from_arrival": 1824.4813,
+        "eight_moon_min_distance": 7.483818265151121,
+        "eight_moon": "Qarato 9 h"
+    },
+    {
+        "body_id": 1643762,
+        "body_name": "Synuefe XK-N c23-7 A 2",
+        "body_semi_major_axis": 0.018,
+        "body_orbital_eccentricity": 0.106,
+        "body_parents": "[{\"Null\":18},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 19,
+        "bodies_distance": 1324.1091,
+        "system_id": 4093634,
+        "system_name": "Synuefe XK-N c23-7",
+        "x": 8110,
+        "y": -3638,
+        "z": -1366,
+        "distance_from_arrival": 1324.1091,
+        "eight_moon_min_distance": 8.881585570393304,
+        "eight_moon": "Synuefe XK-N c23-7 A 2 h"
+    },
+    {
+        "body_id": 117339,
+        "body_name": "Capricorni Sector IR-W c1-5 5",
+        "body_semi_major_axis": 0.0197,
+        "body_orbital_eccentricity": 0.1946,
+        "body_parents": "[{\"Null\":34},{\"Star\":0}]",
+        "body_body_id": 35,
+        "bodies_distance": 2033.406,
+        "system_id": 1521937,
+        "system_name": "Capricorni Sector IR-W c1-5",
+        "x": -1476,
+        "y": -4410,
+        "z": 3665,
+        "distance_from_arrival": 2033.406,
+        "eight_moon_min_distance": 9.542666666616872,
+        "eight_moon": "Capricorni Sector IR-W c1-5 5 f a"
+    },
+    {
+        "body_id": 13404703,
+        "body_name": "Col 285 Sector UW-H b11-1 7",
+        "body_semi_major_axis": 0.028,
+        "body_orbital_eccentricity": 0.0121,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1919.8713,
+        "system_id": 16281179,
+        "system_name": "Col 285 Sector UW-H b11-1",
+        "x": -9710,
+        "y": 1423,
+        "z": -3892,
+        "distance_from_arrival": 1919.8713,
+        "eight_moon_min_distance": 10.278480132050404,
+        "eight_moon": "Col 285 Sector UW-H b11-1 7 h"
+    },
+    {
+        "body_id": 3696911,
+        "body_name": "HIP 11613 A 4",
+        "body_semi_major_axis": 0.0495,
+        "body_orbital_eccentricity": 0.1686,
+        "body_parents": "[{\"Null\":23},{\"Star\":1},{\"Null\":0}]",
+        "body_body_id": 24,
+        "bodies_distance": 2600.2124,
+        "system_id": 6245502,
+        "system_name": "HIP 11613",
+        "x": -1538,
+        "y": -10406,
+        "z": -7580,
+        "distance_from_arrival": 2600.2124,
+        "eight_moon_min_distance": 11.622517783077056,
+        "eight_moon": "HIP 11613 A 4 f"
+    },
+    {
+        "body_id": 25788532,
+        "body_name": "Synuefai JU-D b59-2 8",
+        "body_semi_major_axis": 0.0331,
+        "body_orbital_eccentricity": 0.0306,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1566.1509,
+        "system_id": 27135224,
+        "system_name": "Synuefai JU-D b59-2",
+        "x": -9116,
+        "y": -5060,
+        "z": 6395,
+        "distance_from_arrival": 1566.1509,
+        "eight_moon_min_distance": 12.267788229217665,
+        "eight_moon": "Synuefai JU-D b59-2 8 h"
+    },
+    {
+        "body_id": 19174539,
+        "body_name": "IC 2602 Sector ZF-V b3-8 3",
+        "body_semi_major_axis": 0.0459,
+        "body_orbital_eccentricity": 0.0194,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 783.5873,
+        "system_id": 21575036,
+        "system_name": "IC 2602 Sector ZF-V b3-8",
+        "x": 15420,
+        "y": 1742,
+        "z": 3366,
+        "distance_from_arrival": 783.5873,
+        "eight_moon_min_distance": 13.818127957657593,
+        "eight_moon": "IC 2602 Sector ZF-V b3-8 3 g"
+    },
+    {
+        "body_id": 514625,
+        "body_name": "Wredguia MA-N b34-2 11",
+        "body_semi_major_axis": 0.0379,
+        "body_orbital_eccentricity": 0.0095,
+        "body_parents": "[{\"Null\":50},{\"Star\":0}]",
+        "body_body_id": 51,
+        "bodies_distance": 1397.1761,
+        "system_id": 3086140,
+        "system_name": "Wredguia MA-N b34-2",
+        "x": -12320,
+        "y": 39,
+        "z": -10061,
+        "distance_from_arrival": 1397.1761,
+        "eight_moon_min_distance": 15.767704563680223,
+        "eight_moon": "Wredguia MA-N b34-2 11 h"
+    },
+    {
+        "body_id": 3655999,
+        "body_name": "G 122-60 9",
+        "body_semi_major_axis": 0.0453,
+        "body_orbital_eccentricity": 0.1076,
+        "body_parents": "[{\"Null\":58},{\"Star\":0}]",
+        "body_body_id": 59,
+        "bodies_distance": 1644.2865,
+        "system_id": 6209460,
+        "system_name": "G 122-60",
+        "x": -352,
+        "y": 2351,
+        "z": -722,
+        "distance_from_arrival": 1644.2865,
+        "eight_moon_min_distance": 16.18622532616666,
+        "eight_moon": "G 122-60 9 h"
+    },
+    {
+        "body_id": 1141522,
+        "body_name": "HIP 7338 6",
+        "body_semi_major_axis": 0.0547,
+        "body_orbital_eccentricity": 0.0888,
+        "body_parents": "[{\"Null\":53},{\"Star\":0}]",
+        "body_body_id": 54,
+        "bodies_distance": 2395.6228,
+        "system_id": 3730198,
+        "system_name": "HIP 7338",
+        "x": -3088,
+        "y": 1063,
+        "z": -2197,
+        "distance_from_arrival": 2395.6228,
+        "eight_moon_min_distance": 18.70465670043081,
+        "eight_moon": "HIP 7338 6 h"
+    },
+    {
+        "body_id": 19174561,
+        "body_name": "IC 2602 Sector ZF-V b3-8 6",
+        "body_semi_major_axis": 0.0468,
+        "body_orbital_eccentricity": 0.1921,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1520.0502,
+        "system_id": 21575036,
+        "system_name": "IC 2602 Sector ZF-V b3-8",
+        "x": 15420,
+        "y": 1742,
+        "z": 3366,
+        "distance_from_arrival": 1520.0502,
+        "eight_moon_min_distance": 18.876544113138333,
+        "eight_moon": "IC 2602 Sector ZF-V b3-8 6 h"
+    },
+    {
+        "body_id": 13663468,
+        "body_name": "Synuefe GO-D b59-2 8",
+        "body_semi_major_axis": 0.0622,
+        "body_orbital_eccentricity": 0.0806,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1964.2432,
+        "system_id": 16556466,
+        "system_name": "Synuefe GO-D b59-2",
+        "x": 12262,
+        "y": -5695,
+        "z": 6877,
+        "distance_from_arrival": 1964.2432,
+        "eight_moon_min_distance": 19.010909858112466,
+        "eight_moon": "Synuefe GO-D b59-2 8 g"
+    },
+    {
+        "body_id": 1208364,
+        "body_name": "Tonessmeta 4",
+        "body_semi_major_axis": 0.0472,
+        "body_orbital_eccentricity": 0.1278,
+        "body_parents": "[{\"Null\":9},{\"Star\":0}]",
+        "body_body_id": 10,
+        "bodies_distance": 1193.4821,
+        "system_id": 3780088,
+        "system_name": "Tonessmeta",
+        "x": 4138,
+        "y": 699,
+        "z": 1402,
+        "distance_from_arrival": 1193.4821,
+        "eight_moon_min_distance": 23.30999965488927,
+        "eight_moon": "Tonessmeta 4 f a"
+    },
+    {
+        "body_id": 5133004,
+        "body_name": "HIP 52554 10",
+        "body_semi_major_axis": 0.0639,
+        "body_orbital_eccentricity": 0.1139,
+        "body_parents": "[{\"Null\":29},{\"Star\":0}]",
+        "body_body_id": 30,
+        "bodies_distance": 1701.0966,
+        "system_id": 7862684,
+        "system_name": "HIP 52554",
+        "x": 3299,
+        "y": 5689,
+        "z": -2036,
+        "distance_from_arrival": 1701.0966,
+        "eight_moon_min_distance": 31.678909677640636,
+        "eight_moon": "HIP 52554 10 g"
+    },
+    {
+        "body_id": 7376389,
+        "body_name": "Pegasi Sector NS-T b3-0 4",
+        "body_semi_major_axis": 0.1039,
+        "body_orbital_eccentricity": 0.0199,
+        "body_parents": "[{\"Null\":31},{\"Star\":0}]",
+        "body_body_id": 32,
+        "bodies_distance": 3347.1934,
+        "system_id": 10276602,
+        "system_name": "Pegasi Sector NS-T b3-0",
+        "x": -5729,
+        "y": -3963,
+        "z": -1255,
+        "distance_from_arrival": 3347.1934,
+        "eight_moon_min_distance": 37.61471009355585,
+        "eight_moon": "Pegasi Sector NS-T b3-0 4 f"
+    },
+    {
+        "body_id": 3539249,
+        "body_name": "Gran 10",
+        "body_semi_major_axis": 0.0902,
+        "body_orbital_eccentricity": 0.0529,
+        "body_parents": "[{\"Null\":74},{\"Star\":0}]",
+        "body_body_id": 81,
+        "bodies_distance": 2001.6598,
+        "system_id": 6133271,
+        "system_name": "Gran",
+        "x": 2770,
+        "y": 1914,
+        "z": 19,
+        "distance_from_arrival": 2001.6598,
+        "eight_moon_min_distance": 40.55598431002879,
+        "eight_moon": "Gran 10 h"
+    },
+    {
+        "body_id": 9030639,
+        "body_name": "Praea Euq PS-T b3-2 AB 5",
+        "body_semi_major_axis": 0.0947,
+        "body_orbital_eccentricity": 0.0854,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 3323,
+        "system_id": 11979282,
+        "system_name": "Praea Euq PS-T b3-2",
+        "x": 2611,
+        "y": 2278,
+        "z": 9731,
+        "distance_from_arrival": 3323,
+        "eight_moon_min_distance": 43.68990219758775,
+        "eight_moon": "Praea Euq PS-T b3-2 AB 5 h"
+    },
+    {
+        "body_id": 395570,
+        "body_name": "HIP 5574 C 10",
+        "body_semi_major_axis": 0.1192,
+        "body_orbital_eccentricity": 0.1084,
+        "body_parents": "[{\"Null\":133},{\"Star\":4},{\"Null\":0}]",
+        "body_body_id": 134,
+        "bodies_distance": 125776.0312,
+        "system_id": 2924897,
+        "system_name": "HIP 5574",
+        "x": 3534,
+        "y": -12266,
+        "z": 1213,
+        "distance_from_arrival": 125776.0312,
+        "eight_moon_min_distance": 59.13089345075563,
+        "eight_moon": "HIP 5574 C 10 h"
+    },
+    {
+        "body_id": 13663477,
+        "body_name": "Synuefe GO-D b59-2 9",
+        "body_semi_major_axis": 0.1328,
+        "body_orbital_eccentricity": 0.0806,
+        "body_parents": null,
+        "body_body_id": null,
+        "bodies_distance": 1978.021,
+        "system_id": 16556466,
+        "system_name": "Synuefe GO-D b59-2",
+        "x": 12262,
+        "y": -5695,
+        "z": 6877,
+        "distance_from_arrival": 1978.021,
+        "eight_moon_min_distance": 60.56320832407293,
+        "eight_moon": "Synuefe GO-D b59-2 9 g"
+    },
+    {
+        "body_id": 1703698,
+        "body_name": "Tyche 8",
+        "body_semi_major_axis": 0.1389,
+        "body_orbital_eccentricity": 0.0964,
+        "body_parents": "[{\"Null\":28},{\"Star\":0}]",
+        "body_body_id": 29,
+        "bodies_distance": 1845.826,
+        "system_id": 4126934,
+        "system_name": "Tyche",
+        "x": 807,
+        "y": 1407,
+        "z": -918,
+        "distance_from_arrival": 1845.826,
+        "eight_moon_min_distance": 68.93908642313788,
+        "eight_moon": "Tyche 8 f a"
+    }
+]
+126 'systems found'
+done
