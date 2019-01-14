@@ -57,7 +57,7 @@ function p1() {
                         if (fifth) {
                             moons = _.find(bodies, b => {
                                 let spl = b.body_name.split(fifth.body_name);
-                                return spl.length > 0
+                                return spl.length > 1;
                             });
                         }
 

@@ -128,7 +128,7 @@ getSystemsAroundAlioth()
             if (first_planet) {
                 let moons = _.filter(bodies, b => {
                     let spl = b.body_name.split(first_planet.body_name);
-                    return spl.length > 0;
+                    return spl.length > 1;
                 });
                 first_planet_moons_count = moons.length;
                 first_planet_moons_names += _.map(moons, m => m.body_name).join(' ** ');
