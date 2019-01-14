@@ -40,9 +40,9 @@ function p1() {
         .select('bodies.id as body_id')
         .select('bodies.name as body_name')
         .select('systems.name as system_name')
-        .select('systems.x as system_x)
-        .select('systems.y as system_y)
-        .select('systems.z as system_z)
+        .select('systems.x as system_x')
+        .select('systems.y as system_y')
+        .select('systems.z as system_z')
         .select('rings.name as ring_name')
         .then(rings => {
             return async.eachLimit(rings, 10, ring => {
