@@ -3,6 +3,50 @@ Knights of Raxxla main API server
 This git repository contains the source code of the API server as well as a Docker swarm setup in order to deploy it.
 
 ## Set up
+
+You'll need :
+- nodejs v9 at least
+- a mysql database
+
+Create a file called "env.js" at the root of this folder such as :
+
+```
+module.exports = {
+    app_url: 'api.raxxlaresearchprogram.com',
+    salt: "some salt",
+    mysql: {
+        host: 'localhost',
+        database: 'kor_server',
+        user: 'root',
+        password: '42'
+    },
+    smtp: {
+        host: "smtp.gmail.com",
+        port: 465,
+        login: "blabla@gmail.com",
+        password: 'blabla',
+        auth: ['TLS/SSL']
+    }
+}
+```
+
+Then you need to download nightly dumps from edsm  and put them in ./storage/
+
+```
+mkdir storage && cd storage
+wget https://www.edsm.net/dump/systemsWithCoordinates.json
+wget https://www.edsm.net/dump/systemsPopulated.json
+wget https://www.edsm.net/dump/bodies.json
+```
+
+Then populate the database
+
+```
+knex migrate:latest
+knex seed:run
+```
+
+
  - Create a file env.js (instructions tbd);
  - Change env.salt into something really hard to guess.
  - Download https://eddb.io/archive/v5/systems.csv and put it in ./storage/
@@ -16,43 +60,13 @@ This git repository contains the source code of the API server as well as a Dock
  knex seed:run
  ```
 
-## Env file (tbd)
-You will need to create a file called env.json at the root of this project, containing:
+## Queries
+Queries are located in app/Queries
 
-```javascript
-module.exports = {
-    "app_url": "https://yourapp.com",
-    mysql: {
-        "database": "db_name",
-        "host": "127.0.0.1"
-    }
-}
+Run as such :
 ```
-
-## Roadmap (API)
-
-- [x] Set up mysql tables and auth functionalities
-- [x] Write seed to populate db with systems
-- [ ] Enable the creation of expeditions, pin systems to expeditions and download every system data
-- [ ] Update expeditions status (visitables)
-- [ ] Request status of all expeditions
-- [ ] Request expedition feed
-- **1.0**
-
-
-## API
-
-### Sign (in)
-
-- Authenticate on endpoint /api/v1/login (get with query string parameters 'password' and 'email'), the response will be in JSON : {token: 'your_auth_token'}
-- Pass this token to any subsequent request as a cookie : `kor=your_token`
- exemple in curl :
- ```
- curl -XGET -H "Content-type: application/json" 'api.knightsofraxxla.com/api/v1/login?email=toto@yopmail.com&password=pass'
- ```
-
-
-### Endpoints (tbd)
-
+node app/Queries/DarkWheel/q1.js
+```
+a csv should have been created at the root of this folder.
 
 

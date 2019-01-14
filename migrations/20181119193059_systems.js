@@ -91,6 +91,7 @@ exports.up = function(knex, Promise) {
             table.foreign('system_id')
                 .references('systems.id');
         }),
+
         knex.schema.createTable('factions_systems', function(table) {
             table.increments();
             table.integer('system_id').unsigned().notNullable();

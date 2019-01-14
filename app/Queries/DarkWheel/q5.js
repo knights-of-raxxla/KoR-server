@@ -123,16 +123,19 @@ expeRepo.getSystem(center_system)
                     let star_types = "-";
                     let m_or_tt = false;
                     let coldest_possible_star_temp = null;
+                    let coldest_possible_star_luminosity = null;
                     let possible_stars = _.filter(bodies, b => {
                         if (b.system_id !== gaz.system_id) return false;
                         if (b.type !== 'Star') return false;
                         star_types += b.sub_type;
                         system_stars_count ++;
-                        if (type_m.indexOf(b.sub_type) === -1 || b.sub_type == t_tauri_name) {
+                        if (type_m.indexOf(b.sub_type) > -1 || b.sub_type === t_tauri_name) {
                             m_or_tt = true;
                             let temp = b.surface_temperature;
-                            if (coldest_possible_star_temp === null || temp < coldest_possible_star_temp)
+                            if (coldest_possible_star_temp === null || temp < coldest_possible_star_temp) {
                                 coldest_possible_star_temp = temp;
+                                coldest_possible_star_luminosity = b.luminosity;
+                            }
                         }
                         return true;
                     });
@@ -179,6 +182,7 @@ expeRepo.getSystem(center_system)
                     gaz.star_types = star_types;
                     gaz.m_or_tt = m_or_tt;
                     gaz.coldest_possible_star_temp = coldest_possible_star_temp;
+                    gaz.coldest_possible_star_luminosity = coldest_possible_star_luminosity;
                     res_a.push(gaz);
                 });
 
@@ -232,8 +236,9 @@ function toCsv(data, file) {
         // `8th Moon Radius`,
         `Star Types`,
         `Is populated`,
-        `Has M or TT Star ?`
+        `Has M or TT Star ?`,
         `Coldest M or TT Star temp.`,
+        `Coldest M or TT Star lum.`,
     ].join(',') + os.EOL;
     data.forEach(row => {
         str += [
@@ -269,6 +274,7 @@ function toCsv(data, file) {
             row.is_populated,
             row.m_or_tt,
             row.coldest_possible_star_temp,
+            row.coldest_possible_star_luminosity,
 
         ].join(',') + os.EOL;
     })
