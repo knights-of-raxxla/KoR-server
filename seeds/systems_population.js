@@ -16,7 +16,7 @@ function insertSystemsChunk(systems) {
             if (!isData(_system)) return;
             if (_.last(_system) === ",") _system = _system.slice(0, -1);
             else {
-                console.log('Dernière ligne o/')
+                console.log('Dernière ligne population o/')
             }
             let system;
             try {
@@ -31,13 +31,6 @@ function insertSystemsChunk(systems) {
             return system.id;
         }).compact().uniq().value();
     all_count += systems.length;
-    let curr_count = all_count - last_displayed_count;
-    // if (curr_count > 1000000) {
-    //     last_displayed_count = all_count;
-    //     let pourcent = (all_count / theo_tot_systems) * 100;
-    //     let ecoule = (Date.now()  - start) / 1000 /  60;
-    //     console.log(`Progression : ${pourcent.toFixed()} % | Temps écoulé : ${ecoule.toFixed(2)} minutes`);
-    // }
     return async.eachLimit(systems, 15, edsm_id => {
         return knex('systems')
             .where({

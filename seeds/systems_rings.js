@@ -16,16 +16,30 @@ let knex;
 
 function insertRings(bodiesInfo){
     let rings_insert = [];
-    rings = _.map(bodiesInfo, data => {
-        if (data.rings && data.rings.length) {
+    bodiesInfo.forEach(_data => {
+        if (!isData(_data)) return;
+        if (_.last(_data) === ",") _data = _data.slice(0, -1);
+        else {
+            console.log('Dernière ligne population o/')
+        }
+        let data;
+        try {
+            data = JSON.parse(_data);
+        } catch (e) {
+            console.log("======== Debut d'erreur de parse =========")
+            console.log(_data);
+            console.log("======== Fin d'erreur de parse =========")
+        }
+        if (!data) return;
+        if (data && data.rings && data.rings.length) {
             rings_insert.push({
                 edsm_id: data.id,
                 rings: _.map(data.rings, r => {
                     return {
                         name: r.name,
-                        mass: r.mass,
-                        outer_radius: r.outerRadius,
-                        inner_radius: r.innerRadius,
+                        // mass: r.mass,
+                        // outer_radius: r.outerRadius,
+                        // inner_radius: r.innerRadius,
                         type: r.type,
                         created_at: new Date()
                     };
@@ -33,6 +47,7 @@ function insertRings(bodiesInfo){
             });
         }
     });
+
 
     return async.eachLimit(rings_insert, 10, data => {
         return knex('bodies')
@@ -43,17 +58,15 @@ function insertRings(bodiesInfo){
                     r.body_id = body.id;
                     return r;
                 });
+                console.log('N');
                 return knex('rings')
                     .insert(rings);
-            })
+            }).catch(err  => {
+                console.log('oops');
+                console.log({err});
+                throw new Error(err);
+            });
     });
-}
-
-function insertSystemsChunk(bodies) {
-    return fetchSystemsIn(systems_edsm_ids)
-        .then(rows => {
-            return insertRings(rows);
-        });
 }
 
 function isData(line) {
@@ -62,11 +75,7 @@ function isData(line) {
 
 exports.seed = function(_knex, Promise) {
     knex = _knex;
-  // Deletes ALL existing entries
-  return knex('bodies').del()
-    .then(function () {
-        console.log('==== Seed des bodies de EDSM ====');
-        return reader.readFileLinesByChunk(bodie_json_edsm
-            , 5000, insertSystemsChunk);
-    });
+    console.log('==== Seed des rings de EDSM ====');
+    return reader.readFileLinesByChunk(bodie_json_edsm
+        , 5000, insertRings);
 };

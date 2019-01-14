@@ -53,11 +53,7 @@ function isData(line) {
 
 exports.seed = function(_knex, Promise) {
     knex = _knex;
-    // Deletes ALL existing entries
-    return knex('systems').del()
-        .then(function () {
-            console.log('==== Seed des systèmes de EDSM ====');
-            return reader.readFileLinesByChunk(systems_json_edsm
-                , 20000, insertSystemsChunk);
-        });
+    console.log('==== Seed des systèmes de EDSM ====');
+    return reader.readFileLinesByChunk(systems_json_edsm
+        , 20000, insertSystemsChunk);
 };
