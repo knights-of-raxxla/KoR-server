@@ -46,19 +46,7 @@ knex migrate:latest
 knex seed:run
 ```
 
-
- - Create a file env.js (instructions tbd);
- - Change env.salt into something really hard to guess.
- - Download https://eddb.io/archive/v5/systems.csv and put it in ./storage/
- - Run inside main docker container :
- ```bash
- docker ps
- # get container id
- docker exec -it ${container_id} bash
- # now inside main container
- knex migrate:latest
- knex seed:run
- ```
+Voila!
 
 ## Queries
 Queries are located in app/Queries
