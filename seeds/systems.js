@@ -65,12 +65,12 @@ function insertSystemsChunk(systems) {
 }
 
 exports.seed = function(_knex, Promise) {
-    return new Promise(resolve => resolve(1));
-  //   knex = _knex;
-  // // Deletes ALL existing entries
-  // return knex('systems').del()
-  //   .then(function () {
-  //       return reader.readFileLinesByChunk(systems_csv
-  //           , 1, insertSystemsChunk);
-  //   });
+    return Promise.all([]);
+    knex = _knex;
+  // Deletes ALL existing entries
+  return knex('systems').del()
+    .then(function () {
+        return reader.readFileLinesByChunk(systems_csv
+            , 1, insertSystemsChunk);
+    });
 };

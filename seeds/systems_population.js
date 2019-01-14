@@ -1,12 +1,58 @@
+const container = require('../app/Container.js')
+    .getInstance();
+const async = container.get('async');
+const reader = container.get('StreamReader');
+const _ = container.get('lodash');
+const population_json_edsm = './storage/systemsPopulated.json';
+let knex;
+let theo_tot_systems = Math.pow(10, 6) * 30;
+let all_count = 0;
+let last_displayed_count = 0;
+let start = Date.now();
+
+function insertSystemsChunk(systems) {
+    systems = _.chain(systems)
+        .map(_system => {
+            if (!isData(_system)) return;
+            if (_.last(_system) === ",") _system = _system.slice(0, -1);
+            else {
+                console.log('Dernière ligne o/')
+            }
+            let system;
+            try {
+                system = JSON.parse(_system);
+            } catch (e) {
+                console.log("======== Debut d'erreur de parse =========")
+                console.log(_system);
+                console.log("======== Fin d'erreur de parse =========")
+            }
+            if (!system) return;
+
+            return system.id;
+        }).compact().uniq().value();
+    all_count += systems.length;
+    let curr_count = all_count - last_displayed_count;
+    // if (curr_count > 1000000) {
+    //     last_displayed_count = all_count;
+    //     let pourcent = (all_count / theo_tot_systems) * 100;
+    //     let ecoule = (Date.now()  - start) / 1000 /  60;
+    //     console.log(`Progression : ${pourcent.toFixed()} % | Temps écoulé : ${ecoule.toFixed(2)} minutes`);
+    // }
+    return async.eachLimit(systems, 15, edsm_id => {
+        return knex('systems')
+            .where({
+                edsm_id,
+            }).update({is_populated: 1})
+    });
+}
+
+function isData(line) {
+    return line.length > 1;
+}
 
 exports.seed = function(_knex, Promise) {
-    return Promise.all([]);
     knex = _knex;
-  // Deletes ALL existing entries
-  return knex('bodies').del()
-    .then(function () {
-        console.log('==== Seed des bodies de EDSM ====');
-        return reader.readFileLinesByChunk(bodie_json_edsm
-            , 5000, insertSystemsChunk);
-    });
+    console.log('==== Seed des populations de EDSM ====');
+    return reader.readFileLinesByChunk(population_json_edsm
+        , 20000, insertSystemsChunk);
 };

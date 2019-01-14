@@ -9,6 +9,7 @@ exports.up = function(knex, Promise) {
             table.integer('x');
             table.integer('y');
             table.integer('z');
+            table.boolean('is_populated').default(0);
             table.dateTime('created_at');
             table.dateTime('updated_at');
             table.boolean('archive');
