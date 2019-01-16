@@ -82,7 +82,7 @@ function p1() {
             for (let i = 0; i < l; i++) {
                 if (i % 800 === 0) {
                     let prct = i/l * 100;
-                    console.log(`${prct.toFixed(1)} % scanned || found: ${suitables.length} || last: ${_.get(_.last(suitables), 'system_name')}`);
+                    console.log(`${prct.tofixed(1)} % scanned || found: ${suitables.length} || last: ${_.get(_.last(suitables), 'system_name')}`);
                 }
                 let key = Object.keys(systems)[i];
                 let bodies = systems[key];
@@ -97,13 +97,13 @@ function p1() {
                 // let ringed = _.find(bodies, b => b.ring_name);
 
                 let bodies_meta = _.map(bodies, b => {
-                    let meta = helper.getBodyPosition(system_name, b.body_name)
+                    let meta = helper.getbodyposition(system_name, b.body_name)
                     meta.body_name = b.body_name;
                     meta.ring_name = b.ring_name;
                     return meta;
                 });
 
-                let bodies_by_name = _.orderBy(bodies_meta, ['ref_stars', 'ref_stars_pos', 'rest'], ['asc', 'asc', 'asc']);
+                let bodies_by_name = _.orderby(bodies_meta, ['ref_stars', 'ref_stars_pos', 'rest'], ['asc', 'asc', 'asc']);
 
                 let snd_ringed = bodies_by_name[2].ring_name &&
                     bodies_by_name[2].ring_name.length > 0;

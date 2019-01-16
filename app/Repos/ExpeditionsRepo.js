@@ -47,17 +47,19 @@ module.exports = class ExpeditionRepo {
      * @param {Integer} center.z
      * @param {Float} distance
      */
-    findSystemsAround(center, distance) {
+    findSystemsAround(center, distance, not_in = []) {
         distance = distance * 32;
         let cy = center.y ; //la ?
         let cx = center.x;
         let cz = center.z;
         let having_pow = `POW(systems.x - ${cx}, 2) + POW(systems.y - ${cy}, 2) + POW(systems.z - ${cz}, 2) <= POW(${distance}, 2)`;
-        return this.knex('systems')
+        let q = this.knex('systems')
             .whereNotNull('x')
             .whereNotNull('y')
             .whereNotNull('z')
             .havingRaw(having_pow);
+        if (not_in.length) q = q.whereNotIn('id', not_in);
+        return q;
     }
 
     createSystem({name, edsm_id, eddb_id, x, y, z}) {
