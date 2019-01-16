@@ -77,7 +77,73 @@ module.exports = class HelperRepo {
         if (temperature >= 3600) sub = 1;
         if (temperature >= 3800) sub = 0;
         return sub;
-    kj}
+    }
 
+    getBodyPosition(system_name, body_name) {
+        let ref_stars = '0', ref_stars_pos = 0, rest = '';
+        let suffix = body_name.replace(system_name, '');
+        suffix = suffix.trim();
+        let parts = suffix.split(' ');
 
+        if (parts.length > 0) {
+            // une lettre ou un nombre
+            if (parts.length === 1) {
+                if (parts[0].match(/[A-Z]/)) {
+                    ref_stars = parts[0];
+                } else if (parts[0].match(/[0-9]/))
+                    ref_stars_pos = parseInt(parts[0]);
+            } else if (parts.length === 2) {
+                // A 1
+                // 1 a
+                if (parts[0].match(/[A-Z]/)) {
+                    ref_stars = parts[0];
+                    ref_stars_pos = parseInt(parts[1])
+                } else if (parts[0].match(/[0-9]/)) {
+                    ref_stars_pos = parseInt(parts[0])
+                    rest = parts[1];
+                }
+
+            } else if (parts.length >= 3) {
+                // AB 1 a
+                // 1 a a
+                // 1 a a a
+                if (parts[0].match(/[A-Z]/)) {
+                    ref_stars = parts[0]
+                    ref_stars_pos = parseInt(parts[1]);
+                    rest = parts.slice(2).join(' ');
+                } else if (parts[0].match(/[0-9]/)) {
+                    ref_stars_pos = parseInt(parts[0]);
+                    rest = parts.slice(1).join(' ');
+                }
+            } else throw new Error(`cant deal with ${body_name}`);
+        }
+
+        if (isNaN(ref_stars_pos))
+            throw new Error(`pos is NaN ${body_name}`);
+        //
+        // if (parts.length === 0)
+        //
+        //
+        //
+        //
+        // if (parts.length === 1) {
+        //     ref_stars = parts[0];
+        // } else {
+        //     if (parts[0].match(/[A-Z]/)) {
+        //         ref_stars = parts[0];
+        //         ref_stars_pos = parseInt(parts[1]);
+        //     } else if (parts[0].match(/[1-9]/)) {
+        //         ref_stars_pos = parseInt(parts[0]);
+        //     }
+        // }
+        //
+        // if (isNaN(ref_stars_pos))
+        //     ref_stars_pos = 0;
+        //
+        // if (parts.length > 2) {
+        //     rest = parts.slice(2).join(' ');
+        // }
+
+        return {ref_stars, ref_stars_pos, rest};
+}
 };

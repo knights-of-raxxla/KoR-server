@@ -5,6 +5,7 @@ var expect = chai.expect;
 describe('Helper Repo Spec', function(){
     const container = require('../../../app/Container.js')
         .getInstance();
+    const _ = container.get('lodash');
     const repo = container.get('HelperRepo');
 
     it('get 8th moon - ez', function() {
@@ -157,4 +158,97 @@ describe('Helper Repo Spec', function(){
         let distance = repo.smallestDistance(gaz_s_minor, moon_s_major, gaz_orbital_inclin, moon_orbital_inclin);
         expect(distance).to.be.above(47-18);
     });
+
+    it.only('should find out body position based on name', function() {
+        let sys = 'System';
+        let a = 'System 1';
+        let b = 'System ABC 1';
+        let c = 'System ABC 1 a'
+        let d = 'System ABC 10';
+
+        // let a_meta = repo.getBodyPosition(sys, a);
+        // expect(a_meta.ref_stars).to.equal(undefined);
+        // expect(a_meta.ref_stars_pos).to.equal(1);
+        //
+        // let b_meta = repo.getBodyPosition(sys, b);
+        // expect(b_meta.ref_stars).to.equal('ABC');
+        // expect(b_meta.ref_stars_pos).to.equal(1);
+        //
+        // let c_meta = repo.getBodyPosition(sys, c);
+        // expect(c_meta.ref_stars).to.equal('ABC');
+        // expect(c_meta.ref_stars_pos).to.equal(1);
+        //
+        // let d_meta = repo.getBodyPosition(sys, d);
+        // expect(d_meta.ref_stars).to.equal('ABC');
+        // expect(d_meta.ref_stars_pos).to.equal(10);
+
+        let bodies = [
+            'System A',
+            'System A 1',
+            'System A 2 b',
+            'System A 2',
+            'System A 12',
+            'System A 2 a',
+            'System B',
+            'System B 1',
+            'System B 2',
+            'System B 3'
+        ];
+
+        let m= repo.getBodyPosition(sys, bodies[0]);
+
+        let meta_l = _.map(bodies, b => {
+            let meta = repo.getBodyPosition(sys, b);
+            console.log(meta.rest);
+            meta.body_name = b;
+            return meta;
+        });
+
+        let ordered = _.orderBy(meta_l, ['ref_stars', 'ref_stars_pos', 'rest'], ['asc', 'asc', 'asc']);
+        console.log(_.map(ordered, o => o.body_name));
+
+        sys = 'Agnairt TA-U d4-1448';
+        bodies = [ 'Agnairt TA-U d4-1448',
+            'Agnairt TA-U d4-1448 2 a',
+            'Agnairt TA-U d4-1448 2 b',
+            'Agnairt TA-U d4-1448 2 c',
+            'Agnairt TA-U d4-1448 2 d',
+            'Agnairt TA-U d4-1448 2 e',
+            'Agnairt TA-U d4-1448 2 f',
+            'Agnairt TA-U d4-1448 2 g',
+            'Agnairt TA-U d4-1448 1',
+            'Agnairt TA-U d4-1448 2'
+        ] ;
+
+        meta_l = _.map(bodies, b => {
+            let meta = repo.getBodyPosition(sys, b);
+            meta.body_name = b;
+            console.log(meta);
+            return meta;
+        });
+        ordered = _.orderBy(meta_l, ['ref_stars', 'ref_stars_pos', 'rest'], ['asc', 'asc', 'asc']);
+        console.log(_.map(ordered, o => o.body_name));
+
+        sys = 'Aucoks KA-H c13-8';
+        bodies =  [ 'Aucoks KA-H c13-8 A',
+            'Aucoks KA-H c13-8 ABC 2 a',
+            'Aucoks KA-H c13-8 ABC 2 b',
+            'Aucoks KA-H c13-8 ABC 2 c',
+            'Aucoks KA-H c13-8 ABC 2 e',
+            'Aucoks KA-H c13-8 ABC 2 f',
+            'Aucoks KA-H c13-8 ABC 2 g',
+            'Aucoks KA-H c13-8 ABC 2 h',
+            'Aucoks KA-H c13-8 ABC 2',
+            'Aucoks KA-H c13-8 B'
+        ];
+        meta_l = _.map(bodies, b => {
+            let meta = repo.getBodyPosition(sys, b);
+            meta.body_name = b;
+            console.log(meta);
+            return meta;
+        });
+        ordered = _.orderBy(meta_l, ['ref_stars', 'ref_stars_pos', 'rest'], ['asc', 'asc', 'asc']);
+        console.log(_.map(ordered, o => o.body_name));
+
+    })
 });

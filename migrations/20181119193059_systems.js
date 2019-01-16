@@ -19,7 +19,7 @@ exports.up = function(knex, Promise) {
             table.increments();
             table.string('name').notNullable().index();
             table.integer('body_id').unsigned();
-            table.integer('edsm_id').unsigned();
+            table.integer('edsm_id').unsigned().index();
             table.integer('eddb_id').unsigned();
             table.float('distance_from_arrival', 15, 4).notNullable().index().unsigned();
             table.boolean('is_landable').default(0);

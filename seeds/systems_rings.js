@@ -58,7 +58,6 @@ function insertRings(bodiesInfo){
                     r.body_id = body.id;
                     return r;
                 });
-                console.log('N');
                 return knex('rings')
                     .insert(rings);
             }).catch(err  => {
@@ -75,6 +74,7 @@ function isData(line) {
 
 exports.seed = function(_knex, Promise) {
     knex = _knex;
+    return Promise.all([]);
     console.log('==== Seed des rings de EDSM ====');
     return reader.readFileLinesByChunk(bodie_json_edsm
         , 5000, insertRings);

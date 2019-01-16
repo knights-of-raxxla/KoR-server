@@ -110,6 +110,7 @@ function insertSystemsChunk(bodies) {
 
     return fetchSystemsIn(systems_edsm_ids)
         .then(rows => {
+            let rings = [];
             let inserts = _.chain(bodies)
                 .map(body => {
                     let system_id = _.get(_.find(rows, {edsm_id: body.systemId}), 'id');
@@ -119,6 +120,13 @@ function insertSystemsChunk(bodies) {
                         console.log("======== Fin d'erreur de réconciliation =========")
                         return;
                     }
+                    if (body.rings && body.rings.length) {
+                        rings.push({
+                            edsm_id: body.id,
+                            rings: body.rings
+                        });
+                    }
+
                     let o = {system_id}
                     _.forIn(columns, (keys, col) => {
                         // code pas beau
@@ -143,7 +151,29 @@ function insertSystemsChunk(bodies) {
                 let all_millions = all_count / (Math.pow(10, 6));
                 console.log(`Progression : ${all_millions.toFixed(2)} millions bodies | Temps écoulé : ${ecoule.toFixed(2)} minutes`);
             }
-            return knex('bodies').insert(inserts);
+            return knex('bodies').insert(inserts)
+                .then(ids => {
+                    return knex('bodies')
+                        .where('edsm_id', 'in', _.map(rings, r => r.edsm_id))
+                        .select(['id', 'edsm_id'])
+                }).then(bodies => {
+                    return async.eachLimit(rings, 10, ({edsm_id, rings}) => {
+                        let body = _.find(bodies, {edsm_id});
+                        let rings_ins = _.map(rings, r => {
+                            return {
+                                name: r.name,
+                                body_id: body.id,
+                                // mass: r.mass,
+                                // outer_radius: r.outerRadius,
+                                // inner_radius: r.innerRadius,
+                                type: r.type,
+                                created_at: new Date()
+                            };
+                        })
+                        return knex('rings')
+                            .insert(rings_ins)
+                    });
+                });
         });
 }
 
