@@ -52,20 +52,35 @@ const k_types = [
 
 const ammonia_types = [
     'Ammonia world',
-    'Gas giant with ammonia-based life'
+    // 'Gas giant with ammonia-based life'
 ];
+
+let alioth_around_min = 500;
+let alioth_around_max = 1600;
 
 function getAroundAlioth() {
 return expeRepo.getSystem('Alioth')
     .then(_alioth => {
         alioth = _alioth;
-        return expeRepo.findSystemsAround(alioth, 900)
+        return expeRepo.findSystemsAround(alioth, alioth_around_min)
     }).then(systems => {
-        return expeRepo.findSystemsAround(alioth, 1300, _.map(systems, s => s.id))
+        return expeRepo.findSystemsAround(alioth, alioth_around_max, _.map(systems, s => s.id))
     }).then(systems => {
-        console.log(`${systems.length} systems between 900-1300 Ly of Alioth`);
-        return query(_.map(systems,s => s.id))
+        console.log(`${systems.length} systems between ${alioth_around_min}-${alioth_around_max} Ly of Alioth`);
+        return query(_.map(systems, s => s.id))
     });
+}
+
+function aroundOther() {
+    let n = 'Wredguia ZB-K b22-0';
+    let radius = 500;
+    return expeRepo.getSystem(n)
+        .then(sys => {
+            return expeRepo.findSystemsAround(sys, radius)
+        }).then(systems => {
+            console.log(systems.length, 'around', n, 'at', radius, 'ly');
+            return query(_.map(systems, s => s.id))
+        });
 }
 
 function query(ids) {
@@ -97,7 +112,6 @@ function query(ids) {
         });
 }
 
-
 function toCsv(filename, data) {
     let str = "";
     str += [
@@ -119,6 +133,7 @@ let alioth;
 let cmds = [];
 
 if (mode !== 'fast') cmds.push(getAroundAlioth())
+// if (mode !== 'fast') cmds.push(aroundOther())
 Promise.all(cmds)
     .then(data => {
         let bodies;
@@ -141,12 +156,24 @@ Promise.all(cmds)
 
             if (bodies.length < 11) continue;
 
-            let stars_count = _.filter(bodies, {type: 'Star'}).length;
-            if (stars_count > 1) continue;
+            let stars_count = _.filter(bodies, {body_type: 'Star'}).length;
+            if (stars_count !== 1) continue;
 
             let bodies_by_distance = _.orderBy(bodies, ['body_distance_from_arrival'], ['asc']);
             let scnd_is_ammonia = ammonia_types.indexOf(bodies_by_distance[1].body_sub_type) > -1;
-            if (!scnd_is_ammonia) continue;
+            if (!scnd_is_ammonia) {
+                let bodies_meta = _.map(bodies, b => {
+                    let meta = helper.getBodyPosition(system_name, b.body_name)
+                    meta.body_name = b.body_name;
+                    meta.body_sub_type = b.body_sub_type;
+                    return meta;
+                });
+                let bodies_by_name = _.orderBy(bodies_meta, ['ref_stars', 'ref_stars_pos', 'rest'], ['asc', 'asc', 'asc']);
+                scnd_is_ammonia = ammonia_types.indexOf(bodies_by_name[1].body_sub_type) > -1;
+                if (!scnd_is_ammonia) continue;
+                console.log('2nd ', system_name);
+
+            }
 
             let all_proc_named = true;
             bodies.forEach(({body_name}) => {
@@ -157,7 +184,9 @@ Promise.all(cmds)
             let gas_count = _.filter(bodies, b => {
                 return gas_types.indexOf(b.body_sub_type) > -1;
             }).length;
+
             if (gas_count < 2) continue;
+            // if (gas_count !== 2) continue;
 
             // if (all_proc_named) {
             //     let bodies_meta = _.map(bodies, b => {
@@ -167,13 +196,6 @@ Promise.all(cmds)
             //         return meta;
             //     });
             //
-            //     let bodies_by_name = _.orderBy(bodies_meta, ['ref_stars', 'ref_stars_pos', 'rest'], ['asc', 'asc', 'asc']);
-            //
-            //     console.log(_.map(bodies_by_name, b => b.body_name));
-            //
-            //     let gas_bodies = _.filter(bodies_by_name, b => {
-            //         return gas_types.indexOf(b.body_sub_type) > -1;
-            //     });
             //
             //     let first_gas = gas_bodies[0];
             //     let second_gas = gas_bodies[1];
@@ -194,9 +216,14 @@ Promise.all(cmds)
             suitables.push({
                 system_name,
                 body_count: bodies.length,
+                stars_count,
                 all_proc_named,
             });
         }
+
+        console.log(suitables.length + ' results');
+        console.log(_.map(suitables,s => s.system_name));
+        console.log(suitables);
 
         toCsv('mia.csv', suitables);
         console.log('done');
