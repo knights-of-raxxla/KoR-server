@@ -31,7 +31,7 @@ function insertSystemsChunk(systems) {
             return system.id;
         }).compact().uniq().value();
     all_count += systems.length;
-    return async.eachLimit(systems, 15, edsm_id => {
+    return async.eachLimit(systems, 40, edsm_id => {
         return knex('systems')
             .where({
                 edsm_id,
@@ -47,5 +47,5 @@ exports.seed = function(_knex, Promise) {
     knex = _knex;
     console.log('==== Seed des populations de EDSM ====');
     return reader.readFileLinesByChunk(population_json_edsm
-        , 20000, insertSystemsChunk);
+        , 280000, insertSystemsChunk);
 };

@@ -157,7 +157,7 @@ function insertSystemsChunk(bodies) {
                         .where('edsm_id', 'in', _.map(rings, r => r.edsm_id))
                         .select(['id', 'edsm_id'])
                 }).then(bodies => {
-                    return async.eachLimit(rings, 10, ({edsm_id, rings}) => {
+                    return async.eachLimit(rings, 30, ({edsm_id, rings}) => {
                         let body = _.find(bodies, {edsm_id});
                         let rings_ins = _.map(rings, r => {
                             return {
@@ -185,5 +185,5 @@ exports.seed = function(_knex, Promise) {
     knex = _knex;
     console.log('==== Seed des bodies de EDSM ====');
     return reader.readFileLinesByChunk(bodie_json_edsm
-        , 5000, insertSystemsChunk);
+        , 280000, insertSystemsChunk);
 };

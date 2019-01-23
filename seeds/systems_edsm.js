@@ -8,8 +8,13 @@ let theo_tot_systems = Math.pow(10, 6) * 30;
 let all_count = 0;
 let last_displayed_count = 0;
 let start = Date.now();
+let chunk_size = 0;
 
 function insertSystemsChunk(systems) {
+    if (chunk_size === 0) {
+        chunk_size = systems.length;
+        console.log('chunk size', chunk_size, 'characters');
+    }
     systems = _.chain(systems)
         .map(_system => {
             if (!isData(_system)) return;
@@ -56,5 +61,5 @@ exports.seed = function(_knex, Promise) {
     // return Promise.all([]);
     console.log('==== Seed des systèmes de EDSM ====');
     return reader.readFileLinesByChunk(systems_json_edsm
-        , 20000, insertSystemsChunk);
+        , 280000, insertSystemsChunk);
 };

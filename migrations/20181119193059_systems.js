@@ -21,14 +21,14 @@ exports.up = function(knex, Promise) {
             table.integer('body_id').unsigned();
             table.integer('edsm_id').unsigned().index();
             table.integer('eddb_id').unsigned();
-            table.float('distance_from_arrival', 15, 4).notNullable().index().unsigned();
+            table.float('distance_from_arrival', 15, 4).notNullable().unsigned();
             table.boolean('is_landable').default(0);
             table.integer('system_id').notNullable().unsigned();
             table.string('type').index();
             table.string('sub_type').index();
             table.text('parents');
             table.float('mass', 15, 4).unsigned();
-            table.float('radius', 15, 4).index().unsigned();
+            table.float('radius', 15, 4).unsigned();
             table.float('surface_temperature', 15, 4);
             table.integer('offset');
             table.float("orbital_period", 40, 4);

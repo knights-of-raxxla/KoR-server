@@ -64,7 +64,7 @@ function query(ids) {
 }
 
 let center_system = 'Sol';
-let center_distance = 250; // ly
+let center_distance = 300; // ly
 expeRepo.getSystem(center_system)
     .then(_sol => {
         console.log(`Fetched ${center_system} system coordinates`);
@@ -111,13 +111,31 @@ expeRepo.getSystem(center_system)
             .then(bodies => {
                 gaz_giants_info.forEach(gaz => {
                     // 1 - si pas 8 moon -> on dégage
-                    let center = {name: gaz.body_name};
-                    let eight_moon = {};
-                    // let eight_moon = helper.findNthMoonLike(center, bodies);
-                    if (!eight_moon) {
-                        console.log(`no eight moon in ${center.name}`);
+
+                    let gaz_body_name =  gaz.body_name
+                        .replace('+', '\\+')
+                        .replace('-', '\\-')
+                        .replace('(', '\\(')
+                        .replace(')', '\\)')
+                        .replace('[', '\\[')
+                        .replace(']', '\\]')
+                        .replace('*', '\\*')
+                        .replace('?', '\\?')
+                        .replace('$', '\\$')
+                        .replace('|', '\\|')
+
+                    let reg = `^${gaz_body_name}\\s[a-zA-Z]$`
+
+                    let direct_moons = _.filter(bodies, ({name}) => {
+                        return new RegExp(reg).test(name);
+                    });
+
+                    if (direct_moons.length < 8) {
+                        console.log(`no real 8 moons in ${gaz.body_name}, (${direct_moons.length})`)
                         return;
                     }
+
+                    let eight_moon = direct_moons[7];
 
                     let system_stars_count = 0;
                     let star_types = "-";
@@ -197,6 +215,9 @@ expeRepo.getSystem(center_system)
                 res_a = _.orderBy(res_a, 'body_surface_temperature', 'desc');
                 console.log(JSON.stringify(res_a.length, null, 4), 'Résultats A');
                 console.log(JSON.stringify(res_b.length, null, 4), 'Résultats B');
+                console.log(JSON.stringify(_.uniqBy(res_a, 'system_id').length), 'systems');
+
+
                 toCsv(res_a, 'dw-all-stars-population.csv');
                 process.exit(0);
             });
