@@ -1,0 +1,8260 @@
+Piscium Sector VQ-L a8-1
+Trianguli Sector NT-Q a5-2
+Col 285 Sector AJ-R a34-1
+Alrai Sector GW-N a6-1
+Piscium Sector RZ-O a6-1
+Piscium Sector WF-N a7-2
+Piscium Sector IY-H a10-3
+Piscium Sector ZL-L a8-3
+Col 285 Sector KQ-N a36-1
+Piscium Sector YL-L a8-2
+Col 285 Sector BE-R a34-4
+Piscium Sector DS-J a9-1
+Trianguli Sector VU-O a6-3
+Piscium Sector WF-N a7-3
+Alrai Sector UO-R a4-0
+Alrai Sector DQ-P a5-2
+Piscium Sector PT-Q a5-1
+Piscium Sector WQ-L a8-4
+Piscium Sector WQ-L a8-0
+Piscium Sector WQ-L a8-3
+Crucis Sector FH-M a7-2
+Piscium Sector OE-G a11-1
+Akba Ataci
+Piscium Sector QZ-O a6-4
+Core Sys Sector KC-M a7-3
+Alrai Sector SI-T a3-3
+Piscium Sector TZ-P b5-7
+Col 285 Sector WV-S b18-0
+Alrai Sector HW-N a6-3
+Piscium Sector ZL-L a8-1
+Alrai Sector GW-N a6-0
+Col 285 Sector IV-N a36-0
+Ipillke
+Scorpii Sector FQ-Y a0
+Piscium Sector OE-P a6-1
+Piscium Sector UZ-O a6-0
+Wadjarimpo
+Col 285 Sector JP-G a40-4
+Col 285 Sector VC-T a33-2
+Alrai Sector EB-X b1-6
+Col 285 Sector GP-P a35-0
+Piscium Sector VQ-L a8-0
+Col 285 Sector KP-G a40-2
+Piscium Sector NE-P a6-1
+Piscium Sector VF-N a7-1
+Piscium Sector OE-P a6-2
+Scorpii Sector CV-Y a1
+Col 285 Sector IU-G a40-0
+Col 285 Sector FO-I a39-4
+Col 285 Sector IU-G a40-3
+Trianguli Sector PT-Q a5-1
+Piscium Sector AM-L a8-1
+Col 285 Sector PW-L a37-1
+Alrai Sector EB-O a6-2
+Piscium Sector YU-X a1-3
+Piscium Sector ES-J a9-2
+Trianguli Sector NO-Q a5-1
+Col 285 Sector HI-P b20-3
+Alrai Sector IH-M a7-0
+Piscium Sector TF-N a7-0
+Alrai Sector NC-M a7-1
+Col 285 Sector HM-W a31-2
+Col 285 Sector ZI-R a34-3
+Scorpii Sector GB-X a1-4
+Eravallan
+Nanter
+BD+16 2722
+LHS 6397
+Piscium Sector NE-G a11-2
+Piscium Sector OE-G a11-4
+Piscium Sector JC-V c2-14
+Crucis Sector SD-T a3-5
+BD+23 3035
+Col 285 Sector VK-U b17-2
+Col 285 Sector QQ-N a36-3
+Herculis Sector LC-V b2-3
+Col 285 Sector DJ-I a39-2
+Luyten 347-14
+Trianguli Sector JN-S a4-2
+AG+01 1940
+Trianguli Sector MT-Q a5-1
+Piscium Sector CS-J a9-1
+Col 285 Sector JP-G a40-5
+Col 285 Sector GJ-I a39-4
+Crucis Sector GH-M a7-2
+Crucis Sector HH-M a7-1
+Alrai Sector FB-O a6-1
+Alrai Sector EV-P a5-0
+Piscium Sector AX-J a9-0
+Col 285 Sector DP-P a35-1
+Kao Kach
+Piscium Sector XL-L a8-2
+Niflheimri
+Trianguli Sector LT-Q a5-4
+Col 285 Sector KV-E a41-0
+Lalande 45292
+Alrai Sector WO-R a4-5
+Col 285 Sector NV-E a41-4
+Piscium Sector XU-P b5-3
+Trianguli Sector ZL-L a8-2
+Col 285 Sector CC-R b19-0
+Fugeirones
+Kou Zu
+Trianguli Sector ZL-L a8-1
+Tascheter Sector NS-T a3-3
+Trianguli Sector EH-U a3-1
+Crucis Sector CW-N a6-1
+Alrai Sector BQ-Y c12
+Piscium Sector BX-J a9-4
+Col 285 Sector CE-R a34-2
+Puppis Sector EQ-P a5-1
+Col 285 Sector MZ-U b17-7
+Trianguli Sector IN-S a4-4
+Col 285 Sector IJ-I a39-2
+Piscium Sector LY-Q a5-0
+Piscium Sector XZ-X a1-1
+Col 285 Sector ZI-R a34-1
+Piscium Sector MT-Q a5-0
+G 126-34
+Piscium Sector BX-J a9-0
+Col 285 Sector HU-G a40-1
+Alrai Sector YZ-Y b2
+Col 285 Sector IJ-I a39-3
+Col 285 Sector DP-P a35-0
+Col 285 Sector DP-P a35-3
+Col 285 Sector IV-N a36-2
+Piscium Sector BM-L a8-2
+Crucis Sector EQ-Y b8
+Piscium Sector PI-T b3-3
+LP 761-117
+Col 285 Sector LK-P a35-2
+Piscium Sector WQ-L a8-5
+Alrai Sector FW-V b2-2
+HR 7291
+Saraj
+Col 285 Sector WZ-P d5-122
+Bhalenses
+Piscium Sector VF-N a7-2
+LP 583-82
+Puppis Sector EQ-P a5-0
+Piscium Sector RE-P a6-2
+Alrai Sector NH-M a7-3
+Trianguli Sector NT-Q a5-0
+Sveit
+LFT 1641
+Piscium Sector SO-R b4-5
+Piscium Sector LN-T b3-2
+Herculis Sector HW-W b1-2
+Alrai Sector LH-M a7-3
+Col 285 Sector II-P b20-5
+LP 441-27
+Crucis Sector RX-U a2-3
+Wurr
+Alrai Sector DQ-P a5-1
+Piscium Sector WQ-L a8-2
+Alrai Sector NH-M a7-0
+Piscium Sector JC-V c2-18
+Piscium Sector WF-N a7-0
+Crucis Sector KN-K a8-0
+Kedoshe
+Crucis Sector IN-K a8-3
+Piscium Sector CS-J a9-0
+Crucis Sector TD-T a3-3
+Crucis Sector EB-O a6-3
+Col 285 Sector JP-G a40-1
+Col 285 Sector KP-G a40-1
+Alrai Sector CQ-P a5-0
+Nareri
+Tascheter Sector HM-V a2-3
+Piscium Sector MY-H a10-3
+Terra Mater
+Piscium Sector LY-Q a5-1
+Trianguli Sector JI-S a4-0
+Col 285 Sector JU-G a40-2
+Col 285 Sector EN-Y b15-3
+Col 285 Sector SW-L a37-2
+Piscium Sector PT-R b4-1
+Trianguli Sector KN-S a4-0
+Col 285 Sector JT-W b16-8
+Piscium Sector SZ-O a6-0
+Col 285 Sector IJ-I a39-6
+Trianguli Sector SU-O a6-2
+Trianguli Sector PO-Q a5-0
+Enete
+I Puppis
+Aonga
+Piscium Sector NT-Q a5-4
+Barkan
+Tascheter Sector KS-T a3-2
+Lalande 39872
+Col 285 Sector AD-K a38-2
+Scorpii Sector GB-X a1-3
+Crucis Sector VD-T a3-1
+Piscium Sector JN-S a4-0
+LP 560-66
+Trianguli Sector LI-S a4-2
+Yingo
+Erebus
+Piscium Sector NT-Q a5-3
+Piscium Sector AQ-Y c15
+Herculis Sector OS-U b2-1
+Alrai Sector SI-T b3-0
+Col 285 Sector AI-K a38-4
+Trianguli Sector SU-O a6-5
+72 Ophiuchi
+Col 285 Sector FJ-I a39-2
+LP 638-23
+LP 576-34
+Yin Sector CV-Y b0
+Piscium Sector QZ-O a6-0
+LP 321-147
+Bei Dou Sector FB-X b1-3
+Col 285 Sector PT-H c10-15
+Piscium Sector PE-P a6-2
+Piscium Sector OE-G a11-3
+Alrai Sector FW-V b2-4
+Col 285 Sector VW-L a37-1
+Alrai Sector EW-N a6-1
+Col 285 Sector AI-K a38-2
+Trianguli Sector LS-T b3-2
+Zvaizgan
+Herculis Sector RD-T b3-1
+Tascheter Sector FG-X a1-2
+Alrai Sector QI-T b3-9
+Alrai Sector TO-R a4-1
+Col 285 Sector EP-P a35-1
+7 Kappa Delphini
+Gigaliep
+Idununn
+Crucis Sector NI-T b3-10
+Gudramo
+Col 285 Sector EO-I a39-2
+Rati Irtii
+Ngombivas
+Tascheter Sector LN-T a3-3
+V1084 Tauri
+Marahli
+Piscium Sector FS-J a9-0
+Alrai Sector IH-M a7-2
+HP Cancri
+Piscium Sector WF-N a7-4
+Piscium Sector RZ-O a6-2
+Trianguli Sector OO-Q a5-0
+Piscium Sector TK-N a7-2
+CD-25 480
+Piscium Sector XF-N a7-0
+Tascheter Sector WE-Q a5-1
+LP 332-9
+Junda
+Alrai Sector RI-T a3-1
+BD+17 4808
+Luan Yun Di
+Crucis Sector JN-K a8-1
+BD-19 6274
+Col 285 Sector UK-U b17-3
+Col 285 Sector MB-M a37-6
+Antilope
+LTT 13490
+Col 285 Sector HC-Z b15-5
+Trianguli Sector JN-S a4-4
+Uelliodhino
+Piscium Sector FS-J a9-1
+Tascheter Sector UZ-P a5-0
+LPM 860
+Trianguli Sector CM-L a8-5
+HR 8792
+Madon
+Anayali
+Col 285 Sector EC-R b19-5
+Col 285 Sector JJ-I a39-3
+Col 285 Sector KE-V b17-3
+Col 285 Sector WV-S b18-7
+Spinoni
+241 G. Aquarii
+LTT 7121
+Piscium Sector FH-U a3-0
+Crucis Sector XO-R a4-4
+Herculis Sector LC-V b2-2
+Tascheter Sector FM-M a7-1
+Col 285 Sector DD-K a38-0
+Trianguli Sector KI-S a4-2
+Crucis Sector XJ-R a4-3
+19 Lambda Bootis
+Mbay
+Alrai Sector VO-R a4-1
+Piscium Sector ZL-L a8-0
+LP 702-48
+Piscium Sector AX-J a9-1
+Naits
+Trianguli Sector DH-U a3-2
+Quikindji
+Piscium Sector YL-L a8-3
+Piscium Sector ZL-L a8-2
+Trianguli Sector JC-V b2-4
+G 167-35
+Puppis Sector LX-L a7-0
+Core Sys Sector YO-R a4-1
+LTT 2863
+Piscium Sector OI-T b3-4
+Puppis Sector OX-U b2-6
+Maopi
+Trianguli Sector KI-S a4-3
+Piscium Sector NY-Q a5-0
+LTT 16522
+Tascheter Sector DG-O a6-4
+Crucis Sector WO-R a4-3
+Crucis Sector XE-Z b3
+Alrai Sector IR-V b2-1
+Wolf 1039
+Indrundjara
+Col 285 Sector ST-R d4-116
+Wolf 953
+Col 285 Sector ST-R d4-100
+LP 873-49
+Upsilon Aquarii
+Col 285 Sector DJ-I a39-0
+Chang Yeh
+Narverdulli
+Esien Ming
+18 Bootis
+Piscium Sector MT-Q a5-3
+HR 8772
+Col 285 Sector FM-W a31-1
+LTT 5184
+Tascheter Sector ZZ-P a5-2
+Serrot
+Col 285 Sector HJ-I a39-2
+Bythos
+Yenates
+Herculis Sector MC-V b2-3
+LTT 8201
+Alrai Sector XO-R a4-3
+Meticuli
+Alrai Sector IM-V b2-0
+Piscium Sector MT-Q a5-1
+Col 285 Sector II-P b20-8
+LP 335-13
+Djabushis
+Col 285 Sector LQ-N a36-1
+Piscium Sector ZF-N a7-0
+Alrai Sector CQ-P a5-1
+Alrai Sector YJ-R a4-1
+Col 285 Sector KE-V b17-0
+Col 285 Sector GJ-I a39-5
+Alrai Sector GW-N a6-3
+Hunaharten
+Phorcys
+Soholia
+Core Sys Sector QD-T a3-1
+LFT 20
+Pellang
+Tascheter Sector VE-Q a5-1
+Alrai Sector XO-R a4-1
+LTT 198
+Crucis Sector EH-M a7-1
+Col 285 Sector KE-V b17-2
+Palaemon
+LTT 2450
+Crucis Sector LW-W a1-2
+Tiannodaabe
+Alrai Sector BV-P a5-3
+Slavanibo
+Core Sys Sector FW-N a6-3
+Tascheter Sector LS-T a3-4
+Trianguli Sector OT-Q a5-3
+Draga
+Sveinbarn
+LHS 6394
+11 Aquarii
+LP 685-43
+Xi Scorpii
+Puppis Sector GW-N a6-0
+Piscium Sector FH-U a3-1
+Piscium Sector QE-P a6-2
+Hydrae Sector IC-V b2-3
+Scorpii Sector EV-Y a2
+Scorpii Sector BQ-Y b5
+Col 285 Sector MZ-U b17-10
+BD+34 724
+Kaura
+LP 404-6
+Col 285 Sector EO-I a39-3
+Punna
+Piscium Sector WQ-L a8-1
+Piscium Sector NT-Q a5-1
+Ross 239
+Alrai Sector MC-M a7-0
+Silvantzin
+Kaushairup
+Core Sys Sector AB-O a6-3
+Karovoy
+Wasetae
+Olodyang
+Alrai Sector JH-M a7-0
+Unukalhai
+Tascheter Sector KS-T a3-1
+Sabihilo
+Puppis Sector BQ-P a5-0
+Bei Dou Sector KC-V b2-4
+Core Sys Sector VJ-R a4-2
+Tascheter Sector IM-V b2-3
+Alrai Sector KH-M a7-4
+Trianguli Sector ZL-L a8-0
+LHS 3067
+Boann
+Taritra
+Hamr
+Core Sys Sector IH-M a7-2
+Piscium Sector HX-T b3-4
+Lethe
+Kaupatak
+Col 285 Sector DE-R a34-2
+Dread
+Piscium Sector LY-H a10-3
+Cenufo
+Piscium Sector DS-J a9-3
+Trianguli Sector IN-S a4-6
+Yamasan
+Alrai Sector FQ-P a5-1
+Karini
+LTT 18626
+Piscium Sector QE-P a6-0
+LTT 18548
+Piscium Sector SZ-O a6-2
+Col 285 Sector AJ-R a34-2
+Col 285 Sector HY-W b16-5
+LP 275-83
+Trianguli Sector TF-N a7-1
+Hyades Sector KZ-K a23-2
+Col 285 Sector FR-W a31-0
+Piscium Sector OY-Q a5-1
+Trianguli Sector DH-U a3-1
+Piscium Sector PE-P a6-0
+Valteki
+Trianguli Sector VU-O a6-4
+Linghus
+Piscium Sector LN-T b3-4
+Piscium Sector KY-H a10-0
+Col 285 Sector PW-L a37-3
+Crucis Sector JS-T b3-5
+Tarutaalli
+Trianguli Sector OT-Q a5-0
+Puppis Sector YE-R a4-5
+LHS 3760
+Cephei Sector ON-T b3-3
+LP 634-22
+LFT 300
+Quan Gurus
+LTT 10533
+Alrai Sector MX-T b3-4
+Col 285 Sector HM-W a31-1
+LHS 6119
+Tiliala
+Trianguli Sector TU-O a6-0
+LTT 17868
+Mebechtani
+LP 254-40
+Col 285 Sector ZW-L a37-0
+Trianguli Sector NT-Q a5-3
+Heili
+Col 285 Sector DD-K a38-3
+LTT 7669
+LP 681-91
+Alrai Sector HW-N a6-2
+Tsimaskara
+Alrai Sector DL-Y d116
+Col 285 Sector YV-S b18-5
+Tascheter Sector IH-V a2-3
+Wolf 777
+Piscium Sector HS-J a9-1
+Core Sys Sector WU-P a5-0
+Trianguli Sector EH-U a3-2
+CPD-70 2439
+Puppis Sector AK-R a4-2
+Abazi
+Vidattuns
+Col 285 Sector RQ-N a36-0
+Jastreb Sector AB-O a6-1
+Piscium Sector EM-U a3-1
+Shui Wei Sector NT-Q b5-1
+Puppis Sector CL-P a5-2
+Col 285 Sector AC-R b19-1
+Tobala
+Yin Sector ZE-A d125
+Juma
+Piscium Sector CM-L a8-1
+V749 Herculis
+Col 285 Sector BC-R b19-4
+LFT 1249
+Piscium Sector PI-T b3-1
+Cephei Sector KH-V b2-1
+Asgandjin
+Col 285 Sector EX-Q b19-5
+Col 285 Sector IP-G a40-3
+Col 285 Sector MQ-N a36-6
+Col 285 Sector IV-N a36-3
+Alrai Sector WO-R a4-0
+Col 285 Sector JV-N a36-2
+Pontus
+Chairhuhyus
+Col 285 Sector FP-P a35-0
+Nakap
+Turd Wura
+15 Delphini
+Core Sys Sector QD-T a3-2
+Alrai Sector ZU-P a5-4
+LTT 15449
+Alrai Sector XO-R a4-4
+Puppis Sector ZJ-R a4-2
+Puppis Sector EQ-P a5-2
+Alrai Sector IH-V b2-1
+Furuhjelm II-431
+Puppis Sector BF-R a4-0
+Funj
+Scorpii Sector FQ-Y a1
+Veneerd
+Puppis Sector ZE-R a4-3
+V2431 Cygni
+Alrai Sector QI-T b3-8
+Imenhit
+Piscium Sector FS-J a9-3
+Repun Kami
+Alrai Sector MH-M a7-4
+Ross 391
+Piscium Sector JH-V b2-5
+Piscium Sector YF-N a7-0
+Alrai Sector HB-O a6-1
+Quapa
+Alrai Sector NC-M a7-2
+Medj He
+Piscium Sector ID-I a10-3
+LTT 10787
+Tascheter Sector PT-R a4-3
+Bei Dou Sector BV-Y b1
+Alrai Sector BV-P a5-1
+Col 285 Sector KP-G a40-0
+Crucis Sector BL-X b1-2
+L 206-187
+Alrai Sector GW-N a6-2
+StKM 1-2166
+LTT 13962
+Col 285 Sector NV-E a41-1
+Tascheter Sector GX-K a8-0
+Piscium Sector HX-T b3-1
+Hyades Sector VA-M b8-2
+Piscium Sector KY-Q a5-1
+Col 285 Sector QQ-N a36-0
+Piscium Sector DM-L a8-2
+Tascheter Sector CG-X b1-3
+Marsinatani
+Col 285 Sector WC-T a33-3
+Piscium Sector HX-T b3-6
+HR 5779
+Puppis Sector EQ-Y b3
+Cephei Sector LC-V b2-5
+LP 27-9
+NLTT 51966
+Ch'i Lingo
+Alrai Sector RI-T a3-0
+Dulerce
+Core Sys Sector YU-P a5-3
+Piscium Sector XU-P b5-6
+RBS 1869
+LHS 3947
+Maridjabin
+ICZ CW-V b2-2
+Piscium Sector SO-R b4-6
+Ross 787
+Piscium Sector SO-R b4-4
+Wolf 1051
+Tascheter Sector XK-O a6-1
+Epsilon Serpentis
+6 G. Cancri
+Alrai Sector KH-M a7-0
+Puppis Sector DL-P a5-1
+Piscium Sector SK-N a7-1
+Piscium Sector AX-J a9-2
+Col 285 Sector CE-R a34-0
+Ross 298
+Pien Tsach
+Tascheter Sector IR-W b1-3
+Col 285 Sector AC-R b19-6
+LTT 8716
+HR 5816
+Binbine
+Paemalites
+Alrai Sector GW-W c1-17
+BD+43 3058
+Piscium Sector PI-T b3-4
+Tewikwithat
+Gyvati
+Alrai Sector LH-M a7-4
+Mannona
+Cursa
+BD+02 4718
+Horus
+Col 285 Sector WB-M a37-1
+Tascheter Sector SE-Q a5-1
+Col 285 Sector HK-P a35-1
+Pareco
+Alrai Sector JC-U b3-4
+Alrai Sector YJ-R a4-3
+Bacara
+Col 285 Sector MQ-N a36-2
+Col 285 Sector JV-N a36-3
+Piscium Sector WU-P b5-2
+Warkushanui
+Col 285 Sector LV-E a41-0
+Alrai Sector AV-P a5-1
+Nukam
+Wolf 1232
+Scorpii Sector DV-Y a3
+Naebisaako
+Certo
+Alrai Sector EB-X b1-4
+Ch'uanga
+Piscium Sector GD-I a10-0
+Stefna
+Alrai Sector BK-R a4-1
+Mannodava
+LHS 1068
+Col 285 Sector MZ-U b17-2
+Ticushpakhi
+Crucis Sector CL-Y d157
+LPM 561
+Tascheter Sector MS-T a3-2
+Alino
+Alrai Sector BK-R a4-3
+Alrai Sector KC-M a7-1
+LTT 9665
+Domoirene
+Wolf 871
+Hyades Sector VQ-K b9-1
+Selniang
+Tascheter Sector BV-Y b7
+Belinara
+Yin Sector XZ-Y b4
+BD+23 2640
+Col 285 Sector HM-W a31-0
+Ghimal
+LHS 1838
+Alrai Sector EB-X b1-7
+Puppis Sector YE-R a4-0
+Crucis Sector YJ-R a4-0
+Piscium Sector HR-W c1-28
+MCC 868
+Piscium Sector IS-S a4-0
+Hydrae Sector FW-W b1-1
+Piscium Sector LY-Q a5-2
+Cound
+Velim
+Sandagaray
+Korubu
+LTT 9542
+Svass
+Shivis
+Tjapan
+Wen Cher
+Jastreb Sector XU-P a5-0
+Deili
+Ross 1028b
+Alrai Sector BQ-Y d72
+LP 802-69
+Wolf 1182
+Col 285 Sector EP-P a35-3
+Alrai Sector YU-P a5-0
+LTT 2581
+Ross 1063
+Ross 709
+Piscium Sector RZ-O a6-3
+Yin Sector EQ-Y b3
+LHS 3722
+Alrai Sector DQ-P a5-4
+Alrai Sector KH-M a7-3
+Tascheter Sector JM-V a2-2
+Alrai Sector MH-M a7-2
+LHS 3923
+Piscium Sector TK-N a7-1
+TT 58343
+Piscium Sector MT-Q a5-6
+LHS 2259
+Col 285 Sector XB-M a37-0
+Hors
+Suyarang
+FZ Andromedae
+LHS 2695
+Tascheter Sector OS-T a3-2
+Trianguli Sector SU-O a6-0
+Iansan
+Piscium Sector JN-S a4-1
+Bonde
+BAR 7AB
+Ninans
+Djenne
+Crucis Sector YE-A d134
+Tascheter Sector BR-M a7-1
+Col 285 Sector PW-L a37-2
+Djau
+Kokokomi
+Alrai Sector MC-M a7-3
+Trianguli Sector VU-O a6-1
+Eta Indi
+Core Sys Sector BB-O a6-0
+Trianguli Sector SU-O a6-1
+Alrai Sector EB-W b2-0
+Galene
+Barati
+Core Sys Sector XO-R a4-0
+LF 8 +16 41
+Piscium Sector LC-V b2-2
+Pices
+Puppis Sector WJ-R a4-2
+Col 285 Sector SQ-N a36-0
+DX Leonis
+Tascheter Sector QN-T a3-2
+Joro
+LHS 6197
+8 Alpha-1 Libra
+Piscium Sector JS-S a4-1
+Tascheter Sector YF-O a6-4
+Puppis Sector LS-T b3-4
+Paricia
+Yin Sector BL-X b1-1
+Tascheter Sector NS-T a3-2
+Tascheter Sector JR-W b1-2
+Triton
+Col 285 Sector IS-U a32-1
+Puppis Sector ZJ-A b0
+Trua
+Col 285 Sector TQ-N a36-5
+Wadjet
+Chelmen
+Veroa
+LP 904-36
+Ambisagrus
+Ross 812
+Frog
+Tascheter Sector FR-M a7-0
+Alrai Sector EB-O a6-0
+Arie
+LP 547-159
+Col 285 Sector MV-E a41-2
+Worom Pef
+Tascheter Sector AG-O a6-0
+Taka
+Piscium Sector FS-J a9-5
+Yaluwacha
+Trianguli Sector ZL-L a8-3
+LP 421-7
+Tascheter Sector JH-V a2-4
+Dewi
+LTT 8900
+Col 285 Sector AD-K a38-3
+Col 285 Sector CD-K a38-0
+Alrai Sector TI-T a3-2
+Ross 682
+LHS 1582
+Ross 687
+Core Sys Sector KC-M a7-4
+San Zaihe
+San Yax
+Trianguli Sector AB-N a7-1
+Core Sys Sector XO-R a4-1
+Core Sys Sector ZJ-R a4-2
+Col 285 Sector PQ-N a36-2
+Jastreb Sector CB-X b1-5
+LHS 1803
+Tascheter Sector FR-M a7-1
+LHS 167
+Ao Run
+LHS 4047
+Trociti
+Lowat Yuan
+LTT 1598
+Diphda
+LHS 3946
+Core Sys Sector OI-T a3-1
+Ross 529
+Ananke
+Ambiri
+Unkuar
+San Lo Wangu
+Core Sys Sector FH-M a7-1
+Piscium Sector XQ-L a8-2
+Opila
+Piscium Sector PT-Q a5-6
+Piscium Sector BM-L a8-0
+Tascheter Sector IM-V b2-6
+Trianguli Sector DM-L a8-1
+Wolf 561
+Murung
+Phra Zhan
+LFT 1672
+Tascheter Sector CR-M a7-0
+Sharru Sector GW-W c1-13
+Sharru Sector FB-X b1-1
+Col 285 Sector HM-W a31-3
+Telmarch
+LHS 3533
+Tascheter Sector ZZ-P a5-6
+BD+33 3582
+LP 282-7
+LTT 15838
+Alrai Sector EB-X b1-0
+Yu Di Yi
+Alrai Sector DL-Y c25
+Deacon's Star
+LTT 16838
+Rishalu
+Col 285 Sector QQ-N a36-2
+LP 704-74
+Piscium Sector VJ-R b4-1
+Ceti Sector FB-X c1-26
+Paradiso
+Alpha Indi
+Trianguli Sector MT-Q a5-0
+Tascheter Sector BR-M a7-0
+Shui Wei Sector NT-Q b5-2
+Macoceleuta
+MCC 818
+Lan Wang
+Semali
+LHS 2018
+Tascheter Sector AA-Z b0
+LHS 129
+LTT 12925
+LTT 74
+RST 1154
+Tascheter Sector IX-K a8-0
+Scorpii Sector ZU-Y b5
+Gcirithang
+NLTT 45576
+Itzani
+LP 289-12
+LTT 15985
+Col 285 Sector EM-W a31-1
+Bida
+V417 Hydrae
+LTT 16482
+Fan Yin
+Nankul
+Hyades Sector QF-J a24-3
+Col 285 Sector GI-P b20-6
+Susanoo
+Pirawoth
+Imiutli
+Piscium Sector VO-Z a1
+Ceti Sector XJ-A d109
+Trianguli Sector GM-V b2-5
+LHS 538
+Tascheter Sector WK-O a6-1
+Tascheter Sector ZZ-P a5-0
+StKM 1-1950
+Tascheter Sector ZZ-P a5-5
+Tascheter Sector YE-Q a5-0
+LHS 1706
+Col 285 Sector AD-K a38-0
+Youming
+Upsilon-1 Cephei
+Crucis Sector MC-V a2-2
+Devakak
+Contegus
+5 G. Apodis
+Pacap
+Tascheter Sector NN-T a3-4
+Alrai Sector QI-T b3-7
+MT Pegasi
+Alrai Sector FG-X b1-6
+Shui Wei Sector JN-S b4-4
+Crucis Sector DW-N a6-1
+Piscium Sector CS-J a9-3
+Piscium Sector TT-Z a5
+Tascheter Sector CG-X b1-2
+Cephei Sector KH-V b2-4
+Core Sys Sector BQ-P a5-1
+Piscium Sector ZF-N a7-4
+Jok Islese
+Mankob
+Col 285 Sector MK-P a35-1
+Nihursaga
+Umbrogo
+Crucis Sector EH-M a7-0
+Tascheter Sector KM-V a2-1
+Chang Shor
+Kista
+Crucis Sector YU-P a5-2
+Duacina
+Tascheter Sector IH-V a2-1
+Sungai
+Tenerife
+Core Sys Sector MN-K a8-0
+Tjurinas
+LHS 1226
+Col 285 Sector LY-S a33-1
+Fermer
+Niery
+Col 285 Sector AJ-R a34-0
+Piscium Sector GD-I a10-2
+K Camelopardalis
+Core Sys Sector CV-P a5-2
+Piscium Sector ID-I a10-1
+Piscium Sector LD-S b4-7
+Col 285 Sector TW-L a37-0
+Bei Dou Sector JH-V b2-3
+Hyades Sector LF-J a24-1
+NSV 14713
+Kolitja
+Alrai Sector IH-M a7-1
+Alrai Sector CV-P a5-2
+Alrai Sector DB-O a6-2
+Lazdones
+Bei Dou Sector DL-Y d92
+Crucis Sector DL-Y c20
+Cromovii
+Tacae
+Renetes
+Col 285 Sector IT-W b16-2
+Trianguli Sector KN-S a4-1
+Brodal
+Piscium Sector ES-J a9-0
+Piscium Sector RK-N a7-0
+LP 580-33
+Puppis Sector GW-W c1-15
+LHS 3872
+LTT 9635
+Piscium Sector VZ-O a6-2
+Piscium Sector ZQ-L a8-0
+NLTT 30929
+Wolf 412
+LHS 1671
+Sharru Sector KH-V b2-2
+Crucis Sector VD-T a3-2
+LTT 3488
+Crucis Sector PX-U a2-1
+Col 285 Sector TW-L a37-2
+Wolf 1462
+LHS 3316
+LHS 1290
+58 Ophiuchi
+Crucis Sector CQ-P a5-1
+Wolf 1060
+LHS 3124
+LHS 3213
+Alrai Sector BV-Y c21
+Alrai Sector DB-W b2-0
+Tascheter Sector HM-V a2-2
+Shitici
+Lie Yu Kou
+Col 285 Sector VB-M a37-0
+LFT 265
+Col 285 Sector LV-E a41-1
+Tascheter Sector WE-Q a5-0
+Widow's Light
+Alrai Sector PN-K a8-1
+LTT 5954
+Puppis Sector DW-N a6-2
+Aning
+Col 285 Sector CC-R b19-8
+LTT 8419
+Tascheter Sector CL-Y d135
+Akanago
+Smolyaqa
+53 Aquarii
+Tenche
+LP 876-26
+Col 285 Sector GI-P b20-2
+Piscium Sector JW-W b1-1
+Hyldekagati
+Piscium Sector IR-W c1-28
+Crucis Sector CL-Y d107
+Trianguli Sector QZ-O a6-2
+Aornum
+Crucis Sector RO-R b4-6
+Piscium Sector MC-V b2-1
+AG+08 1194
+Phrygia
+Piscium Sector HS-S a4-1
+Laiawa
+Trianguli Sector GM-V b2-6
+Shonto
+Tascheter Sector OS-U b2-1
+Crucis Sector JS-T b3-3
+Nash
+LTT 5964
+M Hydrae
+Sak Nicopa
+Beta Circini
+Koskit
+LFT 204
+Trianguli Sector AH-L a8-1
+Cephei Sector MC-V b2-1
+Tascheter Sector NS-T a3-5
+LTT 11519
+Ratemere
+Alrai Sector PC-V a2-1
+Alrai Sector YJ-R a4-2
+Alrai Sector AV-P a5-0
+CPO 24
+Alrai Sector PC-V a2-0
+Coquessa
+Wolf 1329
+Alrai Sector FB-X b1-6
+Col 285 Sector RV-N a36-2
+Nocoma
+LTT 6139
+Col 285 Sector SQ-N a36-6
+Alrai Sector BK-R a4-2
+Ualame
+Piscium Sector QZ-O a6-1
+Wolf 515
+LP 617-37
+Amadioha
+LHS 1020
+Puppis Sector YE-R a4-3
+LHS 1748
+V419 Hydrae
+Crucis Sector SI-T a3-2
+Bei Dou Sector IH-V b2-3
+Skollung
+LHS 1857
+37 Librae
+LFT 1178
+LP 460-60
+Cephei Sector NX-U b2-3
+41 Gamma Serpentis
+LP 424-4
+Trianguli Sector PT-Q a5-2
+Morinbath
+Hoder
+Greila
+LTT 9397
+LTT 17686
+Chibiabos
+Sallaecians
+Gorgon
+Tascheter Sector XE-Q a5-0
+Col 285 Sector GY-V b17-1
+LHS 1794
+Ngadakhis
+Sayango
+Col 285 Sector EC-R b19-3
+Crucis Sector TD-T a3-4
+Feldr
+Ravanahutis
+Alrai Sector AV-Y b7
+Piscium Sector NE-G a11-3
+Chnuphis
+BD+40 2905A
+Core Sys Sector YO-R a4-2
+Spinibo
+Col 285 Sector QK-P a35-4
+Piscium Sector SK-N a7-0
+Nedos
+Maitis
+Piscium Sector BG-W a2-1
+Puppis Sector EG-X b1-2
+Uoluskas
+Hyades Sector LZ-K a23-0
+LP 887-68
+Mehnemine
+Tascheter Sector OY-R a4-0
+Tarude
+Trianguli Sector QZ-O a6-1
+Tascheter Sector YZ-Y b6
+Col 285 Sector XW-L a37-0
+Ross 49
+Phra Saman
+Col 285 Sector NZ-U b17-7
+Core Sys Sector ZP-P a5-3
+Crucis Sector WJ-R a4-2
+Core Sys Sector WU-P a5-2
+LP 506-37
+Dziban
+LHS 465
+Ceti Sector OD-S b4-1
+LP 486-49
+Yeniklis
+LHS 2011
+Alrai Sector JH-M a7-2
+Rathakako
+Col 285 Sector YQ-S b18-0
+Tzu I
+Col 285 Sector WV-S b18-6
+Col 285 Sector YQ-S b18-7
+Sharru Sector CG-X b1-3
+SPOCS 719
+LHS 3210
+LP 684-17
+LHS 1052
+G 85-52
+Trianguli Sector NI-T b3-6
+Col 285 Sector OQ-N a36-2
+Crucis Sector IS-T b3-5
+Col 285 Sector JJ-I a39-2
+LHS 1168
+WISE 2220-3628
+Col 285 Sector KQ-N a36-4
+Piscium Sector HD-I a10-2
+Col 285 Sector FP-P a35-1
+Col 285 Sector GK-P a35-2
+Kochole
+Wikmunda
+STF 2841
+Catucaya
+Col 285 Sector KQ-N a36-2
+Col 285 Sector GK-P a35-1
+Col 285 Sector CE-R a34-3
+Col 285 Sector DE-R a34-1
+Col 285 Sector HK-P a35-2
+Piscium Sector OT-Q a5-3
+Marana
+Ducat
+Mbukarla
+Alrai Sector DL-Y d106
+Marajoara
+Liburodo
+Tascheter Sector KS-T a3-0
+Herlio
+Wawal
+Col 285 Sector AM-R b19-4
+Frigur
+Tascheter Sector NS-T a3-1
+Alrai Sector WO-R a4-4
+Alrai Sector KC-U b3-0
+Alrai Sector CQ-P a5-3
+Pemoten
+BD+40 2903
+Col 285 Sector DM-L c8-19
+Kappa Coronae Borealis
+Meche
+Trianguli Sector AB-N a7-0
+Piscium Sector XF-N a7-1
+Akarn
+Col 285 Sector UC-K a38-0
+Col 285 Sector AD-K a38-1
+Alrai Sector VI-T a3-2
+LP 397-41
+Piscium Sector FM-U a3-1
+Scorpii Sector DQ-Y b0
+Col 285 Sector EO-I a39-0
+Cupis
+Timocani
+LTT 12193
+Hyades Sector WA-M b8-5
+Trianguli Sector LS-T b3-1
+Dedun
+HR 5996
+Borfor
+Shui Wei Sector JI-S b4-7
+LHS 1540
+Ross 162
+Puppis Sector ZZ-Y b4
+Lardhampt
+Col 285 Sector SV-N a36-1
+Alrai Sector IR-V b2-3
+LTT 4150
+Cephei Sector CA-A d92
+Alrai Sector LX-T b3-3
+AF Leporis
+LTT 17016
+Gommara
+Khakmo
+Trianguli Sector OO-Q a5-4
+Poseidon
+Hyades Sector WL-K b9-5
+Bento
+LP 389-32
+LTT 16242
+Puppis Sector XJ-R a4-2
+LTT 4447
+Shui Wei Sector DB-W b2-3
+LP 475-70
+Tascheter Sector HM-V a2-0
+Cephei Sector QS-U b2-5
+Umai
+LHS 3602
+Core Sys Sector SI-T a3-1
+Piscium Sector HX-T b3-7
+Piscium Sector HX-T b3-2
+Polus
+Trianguli Sector VU-O a6-5
+Crucis Sector HC-M a7-2
+Trianguli Sector DH-L a8-3
+Baudu
+Puppis Sector AQ-P a5-0
+Col 285 Sector FO-I a39-2
+Hixkar
+G 232-70
+Col 285 Sector NK-P a35-0
+Col 285 Sector OK-P a35-3
+Piscium Sector HX-T b3-5
+Tonatiuh
+Zhulong
+Crucis Sector GW-N a6-4
+Piscium Sector NE-P a6-0
+LTT 16470
+Tascheter Sector VE-Q a5-0
+GMB 3689
+Wen Chayuse
+Burr
+BD+28 4660
+Piscium Sector NT-Q a5-5
+Piscium Sector OT-Q a5-2
+Juno
+Arngi
+Hoko
+DzaliTemu
+Alrai Sector LC-M a7-2
+Crucis Sector WO-R a4-4
+Col 285 Sector YW-L a37-2
+BD+44 1040
+LTT 12360
+Trianguli Sector RU-O a6-2
+LHS 3598
+LFT 619
+V401 Hydrae
+27 b1 Cygni
+Crucis Sector XO-R a4-0
+Crucis Sector RI-T a3-2
+Cuacocha
+Nijotec
+Core Sys Sector VJ-R a4-1
+LP 366-45
+LHS 5027
+Sharru Sector QI-T b3-3
+Tascheter Sector FG-X b1-6
+Maro
+Tascheter Sector QY-R a4-1
+BD-05 2603
+Tascheter Sector LS-T a3-1
+Crucis Sector XU-P a5-2
+Lalande 37923
+Alrai Sector LH-M a7-2
+Tvasuki
+Na Chem
+Algorab
+Col 285 Sector EC-R b19-6
+LFT 1277
+Mandhrithar
+Ugrashtrim
+Nemet
+Bestia
+Tascheter Sector HH-V b2-6
+LHS 1499
+Puppis Sector OX-U b2-0
+Hedeinichs
+Alrai Sector QC-V a2-0
+LHS 120
+Morta
+Piscium Sector JS-S a4-2
+Puppis Sector KC-M a7-2
+Crucis Sector OC-V a2-1
+Sharru Sector BF-A b2
+Shui Wei Sector ZU-Y c21
+Tascheter Sector VK-O a6-2
+Lati
+Puppis Sector CQ-P a5-0
+Ross 429
+Trianguli Sector VF-N a7-2
+Core Sys Sector SD-T a3-3
+Soturicari
+Piscium Sector VK-N a7-1
+Alrai Sector IW-N a6-2
+LP 298-33
+Tascheter Sector HH-V b2-5
+Tascheter Sector HX-K a8-2
+L 297-46
+Hyades Sector MZ-K a23-3
+Wolf 636
+G 107-65
+Trocnades
+Sete
+Almudja
+LP 395-15
+Alrai Sector PC-V a2-3
+Xi Pegasi
+Ingguromal
+Jafnhau
+Col 285 Sector HI-P b20-7
+LTT 12680
+Hrimfaxi
+Col 285 Sector JJ-I a39-6
+LHS 364
+Orishis
+Targari
+Lips
+Merki
+Core Sys Sector SO-R b4-5
+Col 285 Sector KS-U a32-0
+Surmati
+HR 8170
+Tascheter Sector NN-T a3-3
+Ross 257
+33 G. Canis Majoris
+Piscium Sector XQ-L a8-1
+Piscium Sector RE-P a6-4
+Wolf 376
+LP 706-69
+Toor
+Kupol Bumba
+Col 285 Sector WV-S b18-2
+Piscium Sector FS-J a9-6
+Ngaruekenas
+Naiti
+Auserine
+Ross 878
+Lalande 15394
+Pingga
+Chuvaleni
+Cartoq
+Othi
+Trianguli Sector SZ-O a6-0
+Crucis Sector LN-T b3-7
+Piscium Sector SZ-O a6-1
+Tjurojiu
+Tascheter Sector ON-T a3-0
+Tascheter Sector BV-Y b4
+Alrai Sector EB-X b1-1
+Shosha
+Ross 874
+Tascheter Sector MS-T a3-1
+Cimmerighe
+HR 197
+ICZ CW-V b2-0
+Piscium Sector AG-W a2-0
+Asurasairu
+Crucis Sector EW-W c1-28
+Chelidones
+Blodes
+Nebtete
+Grabika
+Crucis Sector RD-T a3-4
+Ross 5
+Belagro
+Trianguli Sector RU-O a6-0
+Crucis Sector JC-V b2-4
+LTT 15613
+Ross 143
+Gilgamesh
+72 G. Canis Majoris
+Zeta-1 Reticuli
+BD-01 2784
+LP 338-4
+51 Aquilae
+Alrai Sector MC-M a7-2
+Col 285 Sector FC-R b19-4
+Vodyanes
+Col 285 Sector FJ-I a39-0
+Kakmburu
+Perit
+Mariyacoch
+Col 285 Sector QW-L a37-3
+Alrai Sector CQ-P a5-2
+Scorpii Sector HB-X a1-1
+LP 932-12
+Two Ladies
+Core Sys Sector GW-N a6-1
+NLTT 57668
+Core Sys Sector DB-O a6-0
+Jastreb Sector PT-R b4-8
+Col 285 Sector YW-L a37-3
+Col 285 Sector SQ-N a36-4
+Col 285 Sector CC-R b19-4
+Ngarokpoi
+LP 607-39
+Delta Equulei
+Alrai Sector FB-O a6-3
+Kucub Hua
+Lhana
+Puppis Sector ZJ-A b1
+Tascheter Sector DG-O a6-0
+Ryujingit
+LP 878-87
+Mong O
+Tascheter Sector WZ-P a5-0
+Piscium Sector IH-U a3-0
+LHS 103
+Venegana
+Piscium Sector WJ-R b4-4
+Piscium Sector WJ-R b4-5
+Jastreb Sector ZP-P a5-0
+LTT 6947
+LP 710-47
+Tascheter Sector LN-T a3-0
+Puppis Sector XE-R a4-0
+Posenoi
+LTT 14850
+Piscium Sector WK-N a7-0
+Alrai Sector QC-V a2-5
+Alrai Sector KW-W a1-1
+Piscium Sector YQ-L a8-3
+Piscium Sector NT-Q a5-0
+Miao Thixo
+m Tauri
+Kaus Borealis
+Puppis Sector NI-K a8-1
+LHS 3163
+Col 285 Sector BD-K a38-0
+Gliese 875
+LHS 430
+Ross 42
+Sharru Sector CG-X b1-0
+Deyus
+Core Sys Sector TO-R a4-1
+LTT 7218
+LHS 289
+Tascheter Sector LS-T a3-5
+Trianguli Sector IN-J a9-3
+BD+07 2008
+LHS 2275
+Changthini
+BD+63 639
+93 Rho Piscium
+Jastreb Sector BB-O a6-0
+LP 576-40
+Piscium Sector IS-S a4-2
+BPM 89444
+Piscium Sector HH-V b2-1
+Puppis Sector FW-N a6-1
+Puppis Sector JH-V b2-3
+LP 458-64
+Tan'gunni
+Trianguli Sector TU-O a6-1
+Tascheter Sector NY-R a4-1
+Piscium Sector ZK-X b1-2
+Ross 34
+Piscium Sector TZ-O a6-1
+Trianguli Sector TO-R b4-2
+Piscium Sector TT-Z a3
+CPD-23 501
+Uteran
+Puppis Sector EG-X b1-5
+Kalai
+Bei Dou Sector FW-W b1-3
+Tascheter Sector JS-T a3-2
+Kokomi
+Andje
+Trianguli Sector MT-Q a5-3
+Tascheter Sector ZZ-P a5-3
+Core Sys Sector XU-P a5-2
+Core Sys Sector EG-Y d96
+Scorpii Sector ZU-Y b6
+Kholo
+LTT 4461
+Tascheter Sector OS-T a3-4
+Ceti Sector FW-V b2-5
+Tascheter Sector GG-X a1-1
+Nagarlaw
+LP 374-6
+Jastreb Sector HH-M a7-2
+Monoto
+Trianguli Sector HN-S a4-3
+Sesuyar
+Tascheter Sector ZZ-P a5-4
+Piscium Sector TZ-O a6-0
+Puppis Sector ZP-P a5-2
+Leucing
+LDS 3768
+Sharru Sector HR-W c1-24
+LHS 5287
+Piscium Sector DM-L a8-1
+Alrai Sector FB-X c1-19
+8 Draconis
+ICZ ZP-X b1-4
+Evenks
+LHS 2334
+Lalande 13924
+LTT 12033
+Wadjuk
+Telie
+Crucis Sector GW-W b1-4
+Njorovices
+Puppis Sector LC-M a7-1
+Crucis Sector GH-M a7-0
+LP 84-34
+Pinyin
+HR 5632
+Raksaka
+Ross 130
+LTT 1877
+G 250-49
+Inovik
+San Qin Gu
+Antevorta
+Puppis Sector YE-R a4-7
+Thewixina
+Ladabalbasa
+Aryamin
+Waru
+Crucis Sector UO-R a4-1
+Jilnytis
+Crucis Sector RI-T a3-3
+Puppis Sector DW-N a6-1
+BD+27 1739
+LHS 475
+Ralu
+Kameni
+Omani
+Shui Wei Sector YU-X b1-2
+Tascheter Sector ER-M a7-0
+Tascheter Sector JS-K a8-1
+Gooheimar
+Alit
+Tascheter Sector UT-R a4-0
+Glutia
+Hakili
+LHS 17
+LTT 12696
+Akhenaten
+Awawa
+HO Bootis
+Syrma
+LHS 3035
+Crucis Sector NI-T b3-3
+NLTT 16391
+Yin Sector EL-Y c26
+Crucis Sector EH-M a7-2
+Tangi
+Tascheter Sector GG-X a1-2
+Lei Gong
+Crucis Sector YP-X b1-3
+Plendovii
+Trianguli Sector MT-Q a5-2
+Piscium Sector MC-V b2-4
+Alrai Sector GW-W c1-14
+Aurora
+Psamathe
+Piscium Sector RE-P a6-1
+LP 399-165
+Hachihikaru
+Col 285 Sector LE-U b18-3
+Bei Dou Sector JC-V b2-1
+Col 285 Sector OD-S d4-91
+BD+28 2272
+Zeta Herculis
+Wolf 555
+Col 285 Sector LT-V b17-1
+Tascheter Sector OS-T a3-0
+Wolf 1449
+Tepehuacoc
+Tascheter Sector LX-U b2-6
+Piscium Sector CM-L a8-0
+Austern
+LTT 7370
+LHS 3421
+Piscium Sector MY-Q a5-0
+Piscium Sector MY-Q a5-2
+Tascheter Sector AA-Z b4
+Piscium Sector MY-Q a5-1
+Piscium Sector IS-S a4-1
+HR 8061
+Piscium Sector KY-Q a5-0
+LHS 3320
+Shui Wei Sector VJ-Z b5
+Tougeirs
+Walpi
+CD-24 5005
+Rigoneskher
+Kurutsi
+LP 665-21
+Hahgwe
+Jastreb Sector CB-X b1-4
+UGP 92
+Alrai Sector CK-R a4-6
+Alrai Sector MH-M a7-1
+Alrai Sector MX-T b3-3
+Alrai Sector IR-V b2-4
+GD 175
+Alrai Sector CQ-X b1-3
+Ross 697
+Notus
+Puppis Sector KR-W b1-5
+Tascheter Sector IR-W b1-7
+Arvirisa
+Tascheter Sector KX-K a8-0
+u Carinae
+Mombawet
+Crucis Sector NC-V a2-2
+LP 381-4
+Kokipik
+Tascheter Sector AG-O a6-1
+Trianguli Sector IN-S a4-2
+Ferez
+BD-05 5480
+Trianguli Sector FH-U a3-2
+Trianguli Sector BQ-Y c18
+Col 285 Sector QV-N a36-2
+Trianguli Sector GM-V b2-4
+Trianguli Sector BH-L a8-2
+Trianguli Sector QZ-O a6-0
+LP 356-106
+LAWD 7
+Ipilyak
+Ross 776
+LHS 4046
+Crucis Sector OC-V a2-3
+Crucis Sector WU-P a5-1
+Brihasatsa
+Trianguli Sector NI-T b3-1
+Alrai Sector FV-P a5-2
+Ross 265
+HR 5630
+HR 6091
+LHS 435
+Tabassapisi
+Trianguli Sector TO-R b4-6
+LP 284-13
+G 139-21
+Shui Wei Sector KN-S b4-1
+Shui Wei Sector JN-S b4-3
+Naunin
+Nepi
+V2160 Cygni
+Crucis Sector IH-M a7-2
+Maujinagoto
+HDS 3083
+Tupeng Yu
+Puppis Sector MX-U b2-5
+Crucis Sector MI-T b3-1
+Nauani
+Core Sys Sector CL-Y c24
+Mu-1 Cygni
+Sharru Sector FB-X b1-3
+Piscium Sector CX-J a9-0
+Col 285 Sector VK-U b17-5
+HR 3991
+Scorpii Sector WE-Z b3
+Negani
+G 250-34
+LP 825-559
+Sairre
+Alrai Sector XJ-R a4-2
+LHS 1948
+Etain
+Puppis Sector HW-W b1-4
+Alrai Sector ZU-P a5-3
+SPOCS 419
+Noti
+Sak Kina
+Crucis Sector YJ-R a4-1
+CD-36 1916
+V2578 Ophiuchii
+Mawambi
+BoB
+Crucis Sector DL-Y c26
+Piscium Sector AG-W a2-2
+Piscium Sector DM-U a3-2
+Potamoi
+Salleda
+Mang
+Puppis Sector JC-M a7-1
+Wolf 629
+Tascheter Sector XF-O a6-2
+LHS 1651
+LHS 287
+Core Sys Sector RO-R a4-1
+Crucis Sector NY-R b4-3
+Col 285 Sector GP-P a35-1
+LFT 1667
+Piscium Sector VJ-R b4-4
+Mistae
+Shui Wei Sector FW-W d1-119
+Piscium Sector TO-R b4-6
+Puppis Sector LC-M a7-0
+Baka'wa
+Uutasso
+Crucis Sector AV-P a5-1
+Col 285 Sector QQ-N a36-1
+Crucis Sector FG-Y c14
+Puppis Sector JR-W b1-6
+Trianguli Sector CH-L a8-1
+CD-52 187
+Wepaw
+Muthniu
+Jodrell
+Col 285 Sector LS-U a32-0
+Puppis Sector DL-Y d122
+Tiolce
+Tascheter Sector LD-J a9-2
+Erisagirari
+Trianguli Sector TO-R b4-8
+Utse
+Hydrae Sector CB-X b1-3
+57 Zeta Serpentis
+Alrai Sector NS-T b3-4
+Amait
+Caller
+LP 862-184
+Gani
+LP 211-96
+Taso Wang
+Yorundi
+BD+16 2404
+53 Herculis
+LP 387-31
+Vigr
+Alrai Sector LH-V b2-5
+Ross 45
+Bei Dou Sector JC-V b2-2
+Ross 903
+LHS 2725
+LHS 351
+Septet
+BPM 45047
+Coquim
+Crom
+CD-36 491
+ICZ CB-W b2-5
+LHS 551
+Ju Shou Yax
+Beimech
+Lisle
+LP 336-71
+Col 285 Sector CD-K a38-2
+Alrai Sector JB-O a6-3
+LP 62-147
+G 87-16
+G 268-47
+Anmatyerre
+Perkwunos
+Karsinanari
+Puppis Sector CL-P a5-1
+LHS 4019
+Ross 640
+Akheilos
+Eximo
+Melkin
+Tukualang
+Wolf 330
+Ross 93
+Crucis Sector ZP-P a5-3
+Puppis Sector BQ-P a5-2
+Nez Pelliri
+Cephei Sector NX-U b2-5
+Wala
+Ross 302
+Piscium Sector HH-U a3-1
+Tascheter Sector AL-O a6-0
+Lombor
+Bandua
+Ross 835
+Jarni
+Core Sys Sector CB-O a6-4
+Puppis Sector VJ-R a4-2
+Core Sys Sector GH-M a7-2
+Col 285 Sector NV-E a41-0
+Sigma Serpentis
+Sanuku
+Crucis Sector PT-R b4-4
+Sachmet
+Lalande 27055
+Kurukana
+BD+26 1665
+Yin Sector YZ-Y b5
+Col 285 Sector DC-R b19-6
+Puppis Sector BF-R a4-1
+Zurvan
+Puppis Sector YP-P a5-2
+Epomamo
+Crucis Sector LN-T b3-3
+Nezhenses
+Albast
+LHS 1978
+Hepa
+Col 285 Sector KS-U a32-3
+Tascheter Sector CQ-Y c21
+Mabe
+Caill
+Saka Gaah
+Alrai Sector HB-O a6-3
+BD+15 1957
+Core Sys Sector EB-O a6-1
+LHS 2274
+Kumana
+Bangwa
+Crucis Sector XU-P a5-0
+Core Sys Sector FB-O a6-1
+Piscium Sector JN-S a4-2
+Shui Wei Sector VJ-Z b7
+Puppis Sector HW-W b1-2
+Utu
+FS 34
+LHS 2038
+LHS 1815
+LFT 655
+V397 Hydrae
+Hunahau
+Core Sys Sector BQ-P a5-0
+Grabrigpa
+NLTT 20330
+Alrai Sector PN-T b3-1
+Col 285 Sector GM-W a31-3
+Crucis Sector VU-P a5-1
+Uelloskima
+Ipmil
+Sakpata
+Gami Musu
+Tomas
+Hydrae Sector CQ-Y b4
+Core Sys Sector MN-K a8-1
+Trianguli Sector IN-J a9-2
+Ross 467
+UBV 6193
+Alrai Sector OC-M a7-0
+Euronotus
+Core Sys Sector WJ-R a4-0
+Piscium Sector ZF-N a7-3
+Trumanuchu
+Umpilakap
+LP 734-11
+Alrai Sector JB-O a6-1
+LP 245-17
+Mortel
+Cenil
+Theta Sculptoris
+Puppis Sector WJ-R a4-3
+50 Persei
+Meenates
+Cephei Sector LC-V b2-3
+LP 291-34
+Daha Deti
+LTT 6545
+L 268-67
+Cephei Sector LH-V b2-4
+NLTT 17943
+Dewikum
+Crucis Sector HW-W b1-6
+Mwamen
+Laima
+Alrai Sector HW-N a6-1
+G 148-61
+L 32-9
+Narenses
+Herao
+BD+49 3937
+Tau Piscis Austrini
+Swaza
+Jinicoch
+Perkana
+Biaris
+Crucis Sector VJ-R a4-0
+LTT 6043
+Col 285 Sector DJ-I a39-1
+Piscium Sector VF-N a7-0
+ADS 16553
+Raguvii
+LHS 412
+Frendan
+Tascheter Sector GR-M a7-2
+WISE 0146+4234
+LHS 1141
+AC +26 37030
+Keraitra
+Mislika
+Tupa
+Aspelenie
+Tau Ophiuchii
+17 Cygni
+Alrai Sector NX-T b3-2
+Gullapites
+Ferris
+ICZ EH-U b3-5
+Col 285 Sector AD-K a38-4
+Tascheter Sector RY-R a4-2
+Polochans
+Phra Mool
+Tascheter Sector YK-O a6-2
+Col 285 Sector WW-L a37-1
+71 Orionis
+Tascheter Sector EG-Y d108
+LHS 2370
+Byel Taca
+Scorpii Sector DB-X b1-2
+Hyades Sector HH-V d2-128
+Aramorians
+Herculis Sector RD-T b3-3
+Piscium Sector MT-Q a5-4
+Puppis Sector BQ-P a5-1
+LHS 1383
+Wailaroju
+Moirai
+BD+29 3029
+LTT 16019
+Alrai Sector JB-O a6-0
+V402 Pegasi
+CPC 20 6743
+Turot
+Herculis Sector JR-W b1-4
+Wolf 1409
+Pacana
+Nagaybaks
+ICZ EB-X c1-28
+Shui Wei Sector DS-Q a6-0
+EGM 100
+Eta Corvi
+Piscium Sector DL-Y d117
+LP 855-34
+Hadad
+Hydrae Sector AV-Y b0
+Ho Parerme
+Alrai Sector AP-R a4-2
+Puppis Sector KR-W b1-6
+Cama Zotz
+Col 285 Sector MQ-N a36-0
+Col 285 Sector MQ-N a36-1
+Col 285 Sector KN-J c9-17
+Ross 779
+LHS 2691
+Puppis Sector RD-T b3-2
+Crucis Sector HM-V b2-4
+LTT 16456
+LTT 9156
+NLTT 34755
+Biham
+Piscium Sector TZ-P b5-6
+Trianguli Sector HN-S a4-2
+Bodhengue
+LP 659-4
+Alrai Sector PI-T b3-6
+Aegaeon
+Njuwar
+Tyche
+Puppis Sector ZP-P a5-0
+Puppis Sector CL-P a5-4
+BD-17 3725
+Ross 676
+54 G. Antlia
+Dangarla
+LFT 551
+Puppis Sector FB-X b1-1
+Sharru Sector GB-X b1-4
+Trianguli Sector KC-V b2-1
+Puppis Sector OX-U b2-1
+Trianguli Sector FG-Y d87
+Angra
+Kurughnaye
+Trianguli Sector SU-O a6-3
+Core Sys Sector YJ-R a4-0
+Trianguli Sector IC-V b2-6
+Alrai Sector BP-R a4-2
+Crucis Sector EM-V b2-5
+LHS 2270
+Igala
+Apalar
+Col 285 Sector FM-W a31-2
+Piscium Sector ZU-Y c25
+BD+05 1146
+Alrai Sector IH-V b2-8
+NLTT 18561
+Yin Sector CV-Y b1
+HR 2251
+Khodhis
+Apollo
+Olwain
+Sameni
+BD-11 4932
+LHS 1065
+Alrai Sector GW-V b2-2
+Piscium Sector HX-T b3-3
+Eulexia
+Gato
+Danae
+Tiris
+Ross 142
+Ngardamayo
+BD-06 4663
+Mentiens
+Trianguli Sector DM-L a8-2
+16 c Ursae Majoris
+Selebegua
+Trianguli Sector PD-T b3-3
+Wolf 1515
+Alrai Sector GW-W c1-11
+LHS 1848
+LHS 3182
+LHS 3343
+Tascheter Sector HS-K a8-0
+Crucis Sector SI-T a3-1
+G 65-9
+Piscium Sector AG-W a2-1
+Njirus
+Gluscheimr
+Tascheter Sector OY-R a4-1
+Tascheter Sector MN-T b3-6
+StKM 1-578
+V406 Pegasi
+Piscium Sector VK-N a7-3
+Tascheter Sector FB-X b1-4
+LHS 206
+Piscium Sector WZ-X a1-0
+Tau-1 Hydrae
+Ulchs
+LHS 231
+AC +24 44
+Tascheter Sector KH-V a2-2
+Bang Mu
+Alrai Sector UD-T a3-2
+Trianguli Sector JN-S a4-0
+5 Puppis
+Lovedu
+Col 285 Sector QK-P a35-1
+Ranginui
+LFT 1492
+Core Sys Sector DB-O a6-2
+Losna
+Alrai Sector FB-X c1-18
+Indramasci
+Piscium Sector DM-U a3-5
+LP 196-42
+Yu Tiku
+LP 763-12
+Piscium Sector EX-J a9-0
+Alrai Sector KH-V b2-6
+Hun Ahayuse
+Tamalhikas
+G 97-20
+Alrai Sector OC-V b2-8
+Artemis
+Puppis Sector WO-A b3
+LP 788-24
+Gakiutl
+LHS 1443
+Col 285 Sector WZ-P d5-80
+LPM 696
+Iota Horologii
+Kunlun
+Turmati
+Jastreb Sector SO-R a4-0
+Alrai Sector NC-V b2-5
+Col 285 Sector YW-L a37-0
+StKM 2-77
+BD+48 1845B
+Sharru Sector BV-Y b3
+Trianguli Sector ZA-N a7-2
+Ongkampan
+Bellapa
+LP 389-95
+Quariti
+K'unchadrus
+Beronii
+AC +67 1894
+Mineer
+Tascheter Sector GM-V b2-6
+Dagr
+BD+81 297
+Col 285 Sector SP-C b14-5
+HR 6398
+Imhoth
+Shui Wei Sector GS-Q a6-1
+Alrai Sector NC-M a7-0
+Col 285 Sector FX-Q b19-1
+Chuelche
+Puppis Sector RD-T b3-4
+Apam Napat
+Iku-Turso
+G 85-36
+Hyades Sector KI-S c4-21
+Ehlangai
+Alrai Sector MH-V b2-5
+V352 Canis Majoris
+LHS 6309
+Fetill
+Hodack
+LP 546-48
+Vertumnus
+Ross 625
+Tascheter Sector HM-V b2-2
+LTT 7434
+Njambandine
+Djiwar
+Trianguli Sector FG-Y c9
+Tascheter Sector OX-U b2-3
+Tascheter Sector KH-V b2-7
+Dazbog
+Tascheter Sector HM-V b2-5
+G 122-20
+BPM 46789
+Puppis Sector OX-U b2-7
+LTT 7361
+Tascheter Sector FM-M a7-2
+Volhynians
+ADS 10329
+LP 714-58
+Tascheter Sector OX-U b2-4
+Ankaa
+Haga
+Core Sys Sector UD-T a3-0
+Burojinura
+Miquich
+Col 285 Sector IP-G a40-1
+Malangga
+Svara
+Alkuyuma
+LHS 1504
+Tascheter Sector IX-K a8-3
+Komotae
+Trianguli Sector UZ-O a6-1
+Crucis Sector PC-V a2-1
+G 214-14
+Nammu
+LP 798-25
+Korwei
+Aten
+Piscium Sector MC-V b2-6
+Puppis Sector ZE-A d118
+Olurung
+Lalande 15547
+Kachiri
+LHS 4058
+Morvin
+Berzites
+LHS 3558
+Hydrae Sector FW-W b1-2
+Lakota
+Alrai Sector MS-T b3-6
+FT Eridani
+LHS 2211
+LP 834-42
+ICZ CB-W b2-6
+Tascheter Sector KH-V b2-5
+Wolf 289
+V1005 Orionis
+51 Eridani
+Myrbat
+Core Sys Sector CB-O a6-3
+Puppis Sector AK-R a4-1
+Crucis Sector NC-V a2-0
+Tascheter Sector VZ-P a5-0
+Shui Wei Sector GS-Q a6-2
+Imeutrimudj
+Piscium Sector MT-Q a5-2
+Tascheter Sector SE-Q a5-2
+53 chi Ceti
+Core Sys Sector WJ-R a4-1
+Shapash
+LFT 709
+Core Sys Sector AK-R a4-2
+LP 790-29
+KUV 410-4
+LHS 6179
+Kokoto
+Puppis Sector KC-M a7-0
+Riki
+Ross 837
+Wolf 490
+Gabriges
+Sequana
+Alrai Sector EB-O a6-1
+Anukam
+LP 30-55
+Alrai Sector WI-T a3-3
+Crucis Sector HW-W b1-7
+Varayah
+HR 3862
+Piscium Sector WF-N a7-1
+LHS 4008
+LHS 4003
+Crucis Sector YE-A d104
+Basika
+Ceti Sector FB-X c1-19
+Jata
+Alrai Sector CG-X b1-5
+MCC 488
+Pared
+Dala
+Kioskurber
+Ciguru
+LFT 759
+LHS 265
+Alrai Sector QC-V a2-3
+Wolf 873
+HR 7386
+Willapa
+Cuchoen
+Jastreb Sector PT-R b4-7
+Agathiar
+Gautama
+Pichanto
+Trianguli Sector WF-N a7-3
+Trianguli Sector PO-Q a5-2
+LHS 369
+LZ Ursae Majoris
+Trianguli Sector EH-L a8-3
+StKM 1-276
+Trianguli Sector TO-R b4-7
+Mikir
+Sharru Sector GB-X b1-0
+Col 285 Sector HY-W b16-7
+Thiin
+Ross 773
+Jastreb Sector XU-P a5-2
+Tascheter Sector NS-T a3-0
+Tascheter Sector UE-Q a5-2
+Tascheter Sector NN-T a3-2
+Hermitage
+Ross 370
+Piscium Sector TT-Z a4
+Mari
+V2151 Cygni
+Ross 911
+LTT 13415
+LTT 3818
+RY Sextantis
+Puppis Sector DL-Y d109
+Kanos
+Kanati
+NSV 3315
+Ross 55
+Dvoruba
+Apan
+Ganiklis
+Meni
+Zemlyaqa
+Venux
+LHS 1734
+LHS 200
+Kaurushi
+Bei Dou Sector CQ-Y b3
+LTT 14474
+Aldr
+Ross 128
+BD+47 1236
+Menkalinan
+Gertrud
+Gree
+Austri
+DX 507
+Guangul
+LP 907-37
+LFT 1055
+LP 876-76
+Tsogobri
+Piscium Sector OE-G a11-0
+Piscium Sector GD-I a10-3
+Jieguaje
+Dalevard
+Bei Dou Sector YJ-A b1
+Gabraceni
+Crucis Sector OI-T b3-3
+Crucis Sector JC-V b2-5
+Corbin
+Col 285 Sector NK-P a35-3
+Kenyalivun
+LHS 3677
+LTT 1353
+Badja
+Col 285 Sector AC-R b19-5
+Alrai Sector DV-P a5-3
+Tiralla
+Lalande 9828
+LHS 151
+Piscium Sector UZ-O a6-1
+LHS 3948
+LP 672-2
+Trianguli Sector LT-Q a5-1
+Tai Shenef
+G146-60
+LP 823-60
+LP 823-4
+LTT 9315
+LTT 9360
+NLTT 57506
+NLTT 52635
+Ashandras
+Charick Drift
+Ross 587
+Guragwe
+BD+11 2811
+LHS 3005
+Alrai Sector BV-Y c17
+Tascheter Sector LH-V a2-2
+Hanung Tzu
+Herculis Sector GG-Y c22
+Docleachi
+V379 Serpentis
+LHS 378
+Rijl al Awwa
+LP 675-76
+Qi Lieh
+Aasgay
+RBS 1843
+Wolf 866
+LP 445-22
+Sosoling
+Crucis Sector BB-O a6-2
+LHS 3378
+Col 285 Sector TP-U b17-6
+LP 121-41
+NLTT 18977
+Catuntinigi
+Lesheima
+Blatrimpe
+Tascheter Sector ZU-Y c23
+DP Camelopardalis
+Uhlan
+Terminus
+LP 694-16
+LP 856-26
+Col 285 Sector XB-M a37-1
+Col 285 Sector XG-Z b15-3
+NLTT 44050
+Ceti Sector OD-S b4-5
+BD+34 1740
+Piscium Sector RT-Q a5-1
+Tascheter Sector CG-O a6-0
+Brahma
+Ahti
+5 Serpentis
+LP 861-12
+Panarion
+Azaka
+Agarda
+MCC 686
+Trianguli Sector JI-S a4-1
+Trianguli Sector DH-L a8-0
+Bei Dou Sector JH-V b2-1
+Hrisastshi
+Ryijin
+LP 673-42
+Piscium Sector LC-V b2-3
+Indrasians
+Tascheter Sector IS-K a8-1
+Ross 193
+Sharru Sector XZ-Y b1
+LHS 2317
+Scorpii Sector GB-X a1-2
+Core Sys Sector VD-T a3-2
+LHS 2106
+Col 285 Sector AI-K a38-0
+Ditia
+Sowiio
+Kappa Reticuli
+Puppis Sector DW-N a6-3
+Yorua
+Hydrae Sector EW-W b1-4
+LP 855-14
+Crucis Sector UO-R a4-2
+Buzhang Ku
+Piscium Sector MC-V b2-3
+Nandjirii
+b Herculis
+LFT 367
+Core Sys Sector EB-O a6-4
+Col 285 Sector DD-K a38-1
+LTT 3007
+Crucis Sector CW-N a6-2
+Monto
+Praecipua
+LHS 3705
+Lokasenna
+LP 852-57
+Lambda-2 Fornacis
+Crucis Sector PC-V a2-0
+LTT 1652
+Trianguli Sector LS-T b3-7
+LPM 769
+Tascheter Sector LN-T a3-2
+Col 285 Sector IJ-I a39-5
+Crucis Sector PC-V a2-4
+LP 469-73
+Chandra
+Vetta
+Freyr
+LP 772-72
+Alrai Sector FQ-P a5-3
+Alrai Sector IW-N a6-3
+Terebellum
+Alrai Sector NC-M a7-3
+Alrai Sector DV-P a5-0
+Alrai Sector HB-O a6-0
+Aiabara
+HR 7793
+Alrai Sector RI-T a3-3
+Alrai Sector RI-T a3-2
+Pacalite
+NLTT 51200
+Maridal
+Alrai Sector OC-V a2-3
+Alrai Sector OC-V a2-2
+Alrai Sector HW-W b1-6
+Ross 708
+LHS 3511
+Shui Wei Sector FM-V c2-15
+LHS 492
+LPM 734
+Crucis Sector RO-R a4-1
+Andowathaku
+Tascheter Sector JH-V a2-0
+Scorpii Sector FQ-Y a2
+Puppis Sector OX-U b2-5
+Arima
+Core Sys Sector FW-N a6-0
+LHS 366
+Othel
+HR 8829
+Puppis Sector GB-X b1-4
+LHS 2026
+Enlil
+Sliotar
+Abrogo
+LP 641-4
+Alrai Sector MC-M a7-1
+CD-25 1159
+CD-31 1974
+Mamaragan
+Col 285 Sector YW-L a37-1
+G 141-52
+Alrai Sector IM-V b2-1
+Alrai Sector DL-Y d82
+Belach
+Shebera
+Yin Sector YJ-A c16
+HR 5815
+LTT 6137
+Crucis Sector SD-T a3-4
+LTT 6377
+Oeng Zhaob
+Evejitaka
+Crucis Sector YJ-R a4-2
+Kitae
+LP 535-11
+Galti
+Tascheter Sector OS-T a3-5
+HR 3499
+Crucis Sector TD-T a3-0
+Piscium Sector DM-U a3-3
+Puppis Sector ON-T b3-1
+Bingui
+Core Sys Sector GW-N a6-0
+Core Sys Sector ZU-P a5-2
+LP 917-1
+LHS 1686
+Fupark
+Hydrae Sector FW-W b1-5
+CN Bootis
+Herculis Sector IW-W b1-4
+25 Nu-2 Draconis
+Bagalis
+Eta Draconis
+Chaiya
+Gong Gu
+Pinouphis
+Poulva
+Macame
+LP 336-6
+Ross 41
+LHS 5061
+Caraceni
+Potrigua
+Zavijah
+Crucis Sector JS-T b3-7
+Glesting
+Col 285 Sector BR-S b18-4
+Alrai Sector IM-V b2-4
+Triteia
+LP 687-31
+Alrai Sector FG-X b1-5
+Colanja
+Puppis Sector GW-N a6-4
+Glaston
+Vetr
+LHS 3577
+Lhangkambe
+LHS 494
+NLTT 46709
+LP 280-9
+Icontia
+Nintu
+Alrai Sector ZZ-Y b4
+Hyades Sector YG-K b9-3
+Dahomey
+LFT 1425
+Ross 163
+Skeiron
+LHS 3459
+Nodens
+Amarak
+Herculis Sector KM-W b1-5
+Arimil
+FAUST 2688
+G 125-30
+LHS 476
+Culann
+G 125-3
+LHS 478
+Wolf 369
+Beten
+LHS 3093
+Beurex
+LTT 6772
+Hmargk
+Nagasairu
+Tethlon
+Crucis Sector GR-W c1-18
+Crucis Sector OT-R b4-5
+Crucis Sector PT-R b4-3
+Savii
+Col 285 Sector ED-K a38-2
+Col 285 Sector NE-R a34-2
+Gamma Doradus
+LTT 2062
+Menes
+Succelli
+Crucis Sector DB-O a6-3
+Marubal
+Crucis Sector HR-W c1-20
+Puppis Sector HM-V b2-2
+Col 285 Sector EX-Q b19-7
+Piscium Sector WK-N a7-1
+Atarapa
+Janggal
+LTT 11103
+Tascheter Sector HM-M a7-2
+Azaladshu
+Superty
+Puppis Sector MX-U b2-6
+G 126-31
+Yinsi
+Ross 751
+Jiuyou
+HR 6828
+Col 285 Sector ZW-L a37-2
+Core Sys Sector OI-T b3-6
+Core Sys Sector YU-P a5-1
+Puppis Sector WJ-R a4-0
+Herculis Sector CQ-Y b3
+Bei Dou Sector JC-V b2-0
+LHS 2010
+Cahuile
+Chukchu
+Alshain
+WISE 1800+0134
+Laiawawal
+Lagunnosso
+Alrai Sector PN-K a8-0
+LHS 2037
+LFT 572
+LP 671-11
+LHS 448
+LTT 7786
+Alrai Sector QI-T b3-4
+Alrai Sector MH-M a7-3
+Inktasa
+Recua
+Amenni
+Herculis Sector IW-W b1-3
+Crucis Sector GM-V b2-2
+HR 7162
+Jinoharis
+Edin
+Karnarki
+Bembarriosk
+Trukampasuk
+Puppis Sector ON-T b3-3
+LP 391-10
+Bei Dou Sector EB-X b1-3
+Faceze
+MZ Ursae Majoris
+Bidmere
+Puppis Sector SD-T b3-0
+Crucis Sector WO-R a4-5
+Xue Deng
+LTT 4170
+Paitina
+GQ Virginis
+LP 638-40
+Artumes
+MV Virginis
+L 1687-11
+Alrai Sector IR-V b2-2
+LHS 3075
+Bei Dou Sector ZJ-A b4
+LTT 12449
+LHS 1909
+LP 557-46
+Wunjo
+Thunderbird
+Herculis Sector IW-W b1-5
+LP 857-29
+Volu
+Pangluya
+LHS 2764a
+Velux
+Sokoji
+Tascheter Sector IM-V a2-2
+Lylis Helig
+LFT 168
+LTT 16385
+Hyades Sector RL-H a25-0
+Narentes
+Crucis Sector NY-R b4-0
+Hiradhea
+Kvashirua
+Tascheter Sector WK-O a6-3
+VVO 19
+LHS 2970
+Namte
+Gliese 3008
+LP 642-82
+LHS 1302
+Maka
+EQ Pegasi
+HK Aquarii
+Crucis Sector UO-R a4-3
+LHS 523
+FK Aquarii
+Alrai Sector OC-V b2-7
+LHS 3413
+Cairne
+Iota Pavonis
+Tascheter Sector GG-X a1-4
+LTT 751
+Core Sys Sector FH-M a7-0
+Crucis Sector AQ-P a5-1
+Awindjibata
+LHS 1547
+LHS 1751
+CD-35 6972
+B Carinae
+Briganu
+Col 285 Sector BR-S b18-1
+AN Coronae Borealis
+G 180-47
+Ngauningin
+Clarus
+LP 415-26
+Crucis Sector UD-T a3-0
+Core Sys Sector VD-T a3-0
+LHS 53
+Alrai Sector HG-X b1-4
+LHS 55
+Mammentum
+Tascheter Sector ZF-O a6-1
+Tascheter Sector PT-R a4-1
+Piscium Sector XZ-X a1-0
+LHS 1240
+LHS 4012
+Agatavun
+Crucis Sector EW-W c1-26
+Belarsh
+LP 640-74
+LHS 22
+LHS 3142
+LHS 3117
+Crucis Sector EG-Y d129
+18 Puppis
+Core Sys Sector WO-R a4-3
+Kappa Tucanae
+LP 771-72
+Crucis Sector HM-V b2-1
+Tascheter Sector EG-Y d106
+Kogich
+Aeolus
+LP 128-32
+LHS 1070
+Core Sys Sector CV-P a5-4
+Crucis Sector BQ-P a5-1
+Core Sys Sector VD-T a3-1
+Flesk
+Achlys
+Trianguli Sector NO-Q a5-2
+GD 69
+Njordr
+Cephei Sector PS-U b2-6
+Ceti Sector CQ-Y d108
+LHS 1426
+Yin Sector ZU-Y b3
+Col 285 Sector WQ-N a36-1
+Core Sys Sector GB-O a6-1
+Gl 606.1 B
+LFT 6
+Piscium Sector ZU-Y c26
+Tau-6 Eridani
+Anima
+Theotokos
+Jastreb Sector CB-O a6-1
+Ualangur
+LTT 8190
+LHS 119
+LHS 5037a
+Li Tzicnii
+Evergreen
+Al-Qaum
+LHS 516
+Alrai Sector WO-R a4-1
+Attach
+LHS 1212
+Core Sys Sector ZU-P a5-0
+LHS 102
+85 Pegasi
+CD-36 12714
+Alpheus
+Col 285 Sector HP-G a40-3
+Puppis Sector HR-W c1-25
+Crucis Sector SD-T a3-2
+Col 285 Sector SK-P a35-0
+Tascheter Sector CG-O a6-1
+2MASS 1503+2525
+Chih Zhua
+Kwazahui
+Bhada
+Islasto
+Smethells 1
+LHS 1758
+LFT 238
+Shudun Sector KC-V b2-5
+LP 941-16
+LTT 1190
+Roustem
+Tascheter Sector JH-V a2-3
+LP 437-12
+LHS 1380
+Birjorth
+Albangage
+Puppis Sector AQ-P a5-2
+Porrima
+Li Cha
+Trianguli Sector II-S a4-4
+Xi-2 Capricorni
+Crucis Sector DR-V b2-5
+Krathamani
+LP 298-42
+Vandar
+Binjamingi
+Col 285 Sector IS-U a32-4
+Crucis Sector TO-R a4-1
+Alrai Sector EQ-P a5-1
+LFT 374
+Reddot
+Alrai Sector BV-P a5-0
+Mikinn
+Ross 263
+LHS 3859
+LHS 3564
+Unktock
+Ross 79
+Crucis Sector HM-V b2-5
+Puppis Sector OX-U b2-2
+Col 285 Sector PP-P a35-3
+Quilmes
+Alrai Sector NC-V b2-6
+Alrai Sector QI-T b3-10
+Al Mina
+Theta Ursae Majoris
+AC +40 428-42
+Peela
+Crucis Sector BL-X b1-1
+Scorpii Sector BA-A d110
+Trianguli Sector CM-L a8-1
+Trianguli Sector BH-L a8-0
+Albus
+Njuwai
+Wolf 920
+Crucis Sector YE-A d101
+CD-52 9231
+Hyades Sector AC-K b9-5
+Wolf 152
+Tascheter Sector JS-T a3-1
+Jurua
+Crucis Sector TI-T a3-0
+Tascheter Sector FR-M a7-2
+Tascheter Sector UE-Q a5-0
+Segovit
+Tau Bootis
+Crucis Sector YU-P a5-3
+Pachamama
+Dilgariang
+Trianguli Sector UU-O a6-1
+Trianguli Sector EH-L a8-2
+Euryale
+LP 937-95
+Obotrima
+Trianguli Sector CH-L a8-4
+LHS 2027
+Trianguli Sector DH-L a8-2
+Hollatja
+LHS 207
+V375 Pavonis
+Sharru Sector ON-T b3-3
+Kuunggati
+LFT 679
+Hual
+Sharru Sector HM-V b2-2
+DON 680
+Privoro
+Crucis Sector OI-T b3-0
+Crucis Sector MN-T b3-2
+Belanit
+Odomazotz
+Crucis Sector GM-V b2-4
+Liu Links
+Teleut
+Crucis Sector JS-T b3-4
+Crucis Sector MN-T b3-1
+Crucis Sector PI-T b3-8
+Albicevci
+LP 180-17
+Crucis Sector DB-O a6-1
+LHS 2891
+23 h Ursae Majoris
+G 202-48
+BD-21 1074
+Gamma Pavonis
+StHA 181
+Puppis Sector EL-Y c23
+LTT 569
+Bullpop
+LHS 3384
+Katuri
+LHS 6305
+Puppis Sector EG-X b1-1
+Avarigines
+LPM 752
+V484 Tauri
+Core Sys Sector FW-N a6-2
+Hyroks
+Col 285 Sector CD-K a38-1
+LFT 963
+Col 285 Sector GJ-I a39-0
+Col 285 Sector CC-R b19-2
+Tascheter Sector LH-V a2-1
+Col 285 Sector FJ-I a39-3
+Sharru Sector KH-V b2-4
+Hrungubuju
+Ceti Sector OD-S b4-2
+LHS 1057
+Yoruba
+Crucis Sector JC-M a7-3
+Piscium Sector PT-Q a5-4
+LP 747-25
+Alrai Sector HR-V b2-2
+CD-61 1439
+LTT 14478
+LP 102-320
+Hyades Sector IZ-K a23-3
+Trianguli Sector OI-T b3-3
+HR 4767
+Luchu
+Pthan Yi
+LHS 1339
+BD+69 238
+LFT 200
+LHS 1865
+Yin Sector BG-X b1-4
+Graill Redd
+CPD-60 604
+Pethes
+Exbeur
+Youdu
+Sheratan
+LFT 1005
+Pilngalu
+Jaradharre
+LFT 324
+LHS 3418
+NLTT 14879
+Iyaka
+Manu
+Trianguli Sector JN-S a4-3
+Hydrae Sector BQ-Y b5
+LHS 2157
+Udihikoja
+Tsim Binba
+Llwyddi Di
+Mong Kung
+Col 285 Sector EJ-I a39-0
+Rugai
+Tarach Tor
+Girya Gu
+Trianguli Sector RZ-O a6-2
+Trianguli Sector PO-Q a5-3
+Chi Herculis
+Core Sys Sector UO-R b4-4
+Koyash
+Trianguli Sector XF-N a7-0
+Trianguli Sector AM-L a8-0
+Walmir
+Trianguli Sector XF-N a7-1
+Ngugira
+Piscium Sector OT-Q a5-1
+Midgcut
+Trianguli Sector YF-N a7-1
+Mehet
+Trianguli Sector ZF-N a7-1
+Trianguli Sector TO-R b4-1
+G 85-12
+Tascheter Sector LS-T a3-0
+Yin Sector XZ-Y b5
+LHS 2205
+LP 892-51
+Anyanwu
+Gaohikel
+Larais
+LFT 859
+Sigma Draconis
+Puppis Sector SD-T b3-2
+Senones
+Ross 765
+Alrai Sector MC-M a7-4
+Viracocha
+Aetius
+Zeta Tucanae
+Lambda Arae
+Core Sys Sector QD-T a3-5
+LP 658-2
+LTT 2151
+WISE 1647+5632
+Col 285 Sector IT-W b16-4
+Mulungu
+Piscium Sector BX-J a9-3
+LP 847-48
+Crucis Sector CL-Y d165
+AU Microscopii
+Djapati
+Geras
+Lorden
+LHS 1749
+Baldeka
+Tjial
+LFT 945
+Temba
+LTT 9164
+Herci
+Trianguli Sector FH-L a8-1
+Gladutjin
+Hyades Sector KI-S c4-18
+LP 254-27
+Puppis Sector RD-T b3-7
+Alrai Sector AP-R a4-1
+LHS 3589
+Alrai Sector ZO-R a4-2
+Matres
+Tascheter Sector AA-Z b3
+LP 1394-9
+Wolf 654
+Alrai Sector FW-W b1-2
+LTT 15294
+HR 6237
+LTT 3572
+Core Sys Sector AK-R a4-0
+Trianguli Sector KI-S a4-1
+LHS 3516
+G 172-15
+LHS 446
+Ross 160
+LP 716-35
+Col 285 Sector OD-S d4-87
+Core Sys Sector ON-T b3-3
+Crucis Sector JS-T b3-8
+Mamitu
+SDSS J1416+1348
+Ross 720
+Alrai Sector BQ-P a5-1
+LHS 3593
+Kushen
+Metallah
+Aurea
+Kucumana
+Halai
+LP 131-66
+Cephei Sector MC-V b2-2
+LP 915-16
+LP 581-36
+DS Leonis
+CD-46 14401
+Jastreb Sector CB-X b1-6
+LHS 1272
+Jastreb Sector IH-M a7-0
+Qarato
+LP 284-7
+LHS 519
+Popontia
+Daramo
+Hlocidirus
+Klikudiya
+Arinack
+Mongatha
+LHS 3470
+Trianguli Sector VU-O a6-0
+Lachangu
+Alrai Sector KM-W c1-19
+LAWD 17
+Tascheter Sector HR-M a7-1
+G 5-32
+Hesatsu
+Benoit
+Asherah
+Alrai Sector ZO-R a4-4
+Lei Zi
+Bodedi
+LHS 1681
+Wolf 1084
+LP 672-4
+LP 620-3
+LHS 417
+Trianguli Sector PI-T b3-1
+Alrai Sector LC-V b2-5
+86 Mu Herculis
+Core Sys Sector IR-W c1-25
+Njortamool
+Tascheter Sector HR-M a7-0
+Mutujiali
+Rho Capricorni
+LHS 1561
+LFT 824
+LTT 17102
+LHS 3559
+Saxon
+Ross 451
+KX Librae
+Core Sys Sector KN-K a8-2
+BD+72 545
+LP 365-24
+Ross 145
+Alrai Sector DV-P a5-1
+Pi Piscis Austrini
+Col 285 Sector TP-U b17-4
+LTT 7069
+Apep
+Puppis Sector DL-Y d116
+Koyeris
+Omicron-2 Eridani
+Fergus
+LHS 6326
+Alrai Sector MS-T b3-3
+Islastyara
+Alrai Sector QI-T b3-2
+Crucis Sector BB-O a6-1
+Damocan
+Oho Bajo
+Alrai Sector QI-T b3-0
+Alrai Sector ON-T b3-2
+BD-00 3426
+Alrai Sector ON-T b3-3
+Crucis Sector AB-O a6-1
+Alrai Sector DL-Y d83
+Mokojing
+ICZ HC-U b3-2
+Wolf 1301
+Tascheter Sector FW-W c1-29
+ICZ XZ-X b1-3
+Toog
+Xevioso
+LO Pegasi
+LTT 9145
+NSV 4864
+LHS 2875
+Phi-1 Pavonis
+LHS 2237
+Epsilon-2 Arae
+Fular
+Panoi
+Alrai Sector DL-Y d157
+LFT 157
+LFT 1834
+LP 244-47
+LP 826-605
+NLTT 13094
+LTT 7509
+G 63-50
+Wolf 124
+ICZ EB-X c1-29
+Perkele
+Naduvul
+Sugrivik
+Siren
+Branglal
+Thor
+LP 605-37
+Andhrimi
+LHS 1228
+LP 806-8
+Wolf 864
+V2436 Cygni
+Kaunan
+Unktomi
+Karis
+LP 29-188
+Tascheter Sector KX-K a8-1
+LTT 7330
+Piscium Sector HD-I a10-3
+LHS 391
+Ualapalor
+LTT 18046
+Chotec
+G 108-26
+Snotricopa
+GD 319
+G 121-8
+Dalla
+LHS 302
+Sharru Sector FB-X b1-4
+BD-05 2778
+Chini
+Indaol
+LP 404-33
+Demeter
+Lalande 13942
+LHS 3804
+LHS 2220
+Core Sys Sector XJ-R a4-1
+Puppis Sector AQ-P a5-1
+Sharru Sector AV-Y b3
+Ross 987
+Rana
+Alrai Sector AP-R a4-0
+Col 285 Sector EX-Q b19-6
+Horagalles
+Col 285 Sector BC-R b19-7
+Crucis Sector WU-P a5-0
+Alrai Sector JH-M a7-1
+Taunetes
+LHS 160
+Lalande 22954
+Alrai Sector CL-X b1-5
+Ross 780
+LTT 130
+Alrai Sector FW-V b2-3
+Flech
+Core Sys Sector EB-O a6-3
+Col 285 Sector GX-Q b19-3
+PW Hydrae
+Vamm
+Puppis Sector FB-X b1-6
+Nan Sapwe
+Bipeduwa
+Thraskias
+Mufrid
+Apik
+49 Serpentis
+LP 499-59
+GD 1192
+Khered
+Kerebaei
+HERZ 10688
+Piscium Sector OX-U b2-4
+Puppis Sector KR-W b1-2
+Kadjerong
+Tascheter Sector RE-Q a5-0
+Tascheter Sector LN-T a3-1
+Piscium Sector JS-S a4-0
+Zorya
+Jastreb Sector ZA-O a6-5
+Masaai
+Amenniya
+Trianguli Sector WA-N a7-0
+Yera
+Trianguli Sector WF-N a7-1
+LFT 1403
+Ceti Sector GR-V b2-3
+Piscium Sector MC-V b2-2
+LTT 17422
+Piscium Sector HR-W c1-17
+Venne
+Argestes
+Ross 592
+LHS 1798
+Tascheter Sector IB-X a1-1
+BD+05 5244
+NLTT 21088
+Nu Phoenicis
+Alrai Sector KH-M a7-1
+Capukanga
+LHS 3980
+BD+32 4747
+Piscium Sector DB-X b1-3
+Kuwemargl
+LHS 3728
+Ross 991
+Wolf 218
+Zelada
+StKM 1-1676
+Piscium Sector DB-W a2-2
+LP 811-17
+Puppis Sector EL-P a5-0
+LP 294-40
+Ross 249
+G 230-27
+LP 308-10
+Tascheter Sector AV-Y b6
+Ngai
+Tascheter Sector HM-V b2-3
+Alrai Sector JR-V b2-4
+LTT 16910
+Cephei Sector ON-T b3-4
+LTT 17383
+Tascheter Sector JS-T a3-0
+Col 285 Sector PY-R d4-132
+Crucis Sector WJ-A d96
+Piscium Sector GH-U a3-0
+LHS 3167
+LFT 625
+Piscium Sector YU-Y c14
+Tascheter Sector PT-R a4-0
+Tlapan
+Tascheter Sector MN-T a3-0
+Silvanitou
+Senlu
+Nona
+Tascheter Sector IH-V a2-0
+Piscium Sector PT-Q a5-2
+LHS 6410
+Piscium Sector TZ-O a6-2
+Piscium Sector VK-N a7-0
+Ojibway
+LP 634-18
+Hamir
+NLTT 41463
+Marson
+KP Tauri
+BD+21 652
+Ngurelban
+BD+46 2361
+Elska
+Ngobed
+Fidenef
+Pentun
+Apaticultu
+LTT 11478
+Puppis Sector YE-R a4-1
+Tascheter Sector OS-T a3-3
+V1581 Cygni
+Trianguli Sector DH-L a8-4
+LDS 3195
+Allocadros
+Mutj
+Bandjigali
+Teegarden's Star
+Wolf 1225
+Piscium Sector SD-T b3-7
+Wolf 1373
+G 207-22
+Wardal
+BD+38 3327
+Ho Hsien
+Achelous
+NLTT 2969
+Jardovici
+Ross 244
+12 Persei
+Ovid
+Tascheter Sector EW-W c1-29
+Tascheter Sector GM-V a2-0
+Ross 332
+LHS 534
+Ao Shun
+Wolf 1414
+Seelet
+81 Cancri
+Wasat
+Tao Ti
+Piscium Sector GS-S a4-0
+Kaal
+Aine
+Tascheter Sector DB-X b1-6
+Piscium Sector WZ-X a1-2
+Leuctra
+LHS 215
+44 chi Draconis
+Tascheter Sector IH-V a2-2
+19 Phi-2 Ceti
+Piscium Sector DM-U a3-1
+HR 7123
+NLTT 44958
+Sharru Sector IH-V b2-3
+LP 98-132
+HIP 14137
+Tascheter Sector TE-Q a5-1
+Delta Trianguli
+Losin
+10 Tauri
+Ekhi
+Ceti Sector AQ-X b1-4
+Tascheter Sector JR-W b1-3
+Pyredi
+Horae
+Jastreb Sector CL-Y c21
+Piscium Sector NC-V b2-3
+Didayac
+Puppis Sector EL-Y c20
+Trianguli Sector YF-N a7-4
+Trianguli Sector YA-N a7-1
+Arbuda
+Herculis Sector BV-Y b2
+Trianguli Sector FM-V b2-7
+LP 64-194
+WISE 0607+2429
+LP 101-377
+DN Draconis
+Wolf 1323
+Lalande 4268
+BD+55 570
+Mentor
+Hyades Sector AC-K b9-6
+Remines
+LFT 682
+LHS 3789
+Shalit
+LFT 476
+Piscium Sector NC-V b2-2
+Puppis Sector YE-R a4-8
+Itza
+Piscium Sector ZU-X a1-2
+Suijin
+EP Eridani
+Dhathaarib
+Esumindii
+Algol
+Tascheter Sector MN-T a3-4
+Piscium Sector OT-Q a5-0
+Col 285 Sector LY-S a33-0
+BD+65 1846
+Piscium Sector YL-L a8-1
+LHS 2651
+NLTT 2224
+Piscium Sector DB-W a2-0
+Stafkarl
+Ross 440
+G 30-26
+Alrai Sector UD-T a3-1
+LAWD 8
+Tascheter Sector RE-Q a5-1
+LHS 528
+Col 285 Sector JV-N a36-0
+Piscium Sector CS-J a9-2
+Piscium Sector NT-Q a5-2
+Obotrimi
+LTT 17047
+LFT 19
+36 Draconis
+Moortic
+Thaumas
+Bielonti
+LHS 2931
+Gliese 563.1
+Ross 523
+Grannus
+LP 149-14
+Piscium Sector JS-S a4-3
+Wong Ten
+Puppis Sector MC-V b2-6
+LTT 3630
+Hagalaz
+Arne Naom
+Gilya
+Puppis Sector EL-Y c29
+LHS 2777
+G 123-7
+LP 379-51
+LHS 2263
+Crucis Sector BL-X b1-5
+LHS 2657
+G 190-28
+Veneri
+OT Serpentis
+Core Sys Sector BB-O a6-3
+NLTT 53690
+Domotwa
+Lambda Serpentis
+LHS 3746
+LP 804-27
+LP 625-34
+Mug Ruith
+Li Bestina
+Tascheter Sector CL-Y d115
+Ethli
+LTT 9587
+LP 567-20
+Puppis Sector AQ-P a5-3
+LTT 5623
+Taranis
+Wolf 363
+LHS 6350
+WISE 1639-6847
+LP 734-14
+Nocori
+Avici
+LP 338-2
+LP 214-26
+Indra
+LPM 806
+LHS 3295
+LHS 5386
+Yin Sector AG-X b1-4
+Arinna
+CPD-28 332
+15 Ursae Majoris
+Wachmann's Flare Star
+Kachian
+Dhrutin
+LTT 1772
+LTT 1263
+Scorpii Sector CQ-Y b5
+Walumbhaik
+LHS 184
+LP 764-92
+Tascheter Sector EG-Y d107
+LP 826-59
+EGM 762
+LP 762-3
+Ross 271
+Yin Sector ZU-Y b4
+Grudevaci
+LFT 1739
+RR Caeli
+LHS 493
+LHS 64
+MCC 811
+LHS 3802
+LHS 2320
+Wolf 1019
+Wakawal
+Naiad
+ICZ CB-W b2-4
+Kolyawa
+Bakas
+HR 7674
+LP 887-70
+Payayan
+LHS 157
+Deriv-Dar
+NLTT 8084
+ICZ CB-W b2-7
+MCC 378
+Zeta Leporis
+Trianguli Sector LS-T b3-4
+LHS 197
+G 172-13
+BD+49 1658
+BD-12 6174
+Waruts
+BD-08 535
+Seediansi
+Typhon
+BPM 17113
+Ellri
+Ptah
+Hyades Sector VR-F a26-0
+Shangdi
+Xolotl
+NLTT 22699
+Meelov
+LHS 2111
+Wolf 324
+LHS 266
+LFT 576
+LHS 2113
+Ross 89
+NLTT 22266
+Gera
+Puppis Sector DL-Y d117
+Angrbonii
+Exigus
+Fei Lian
+LHS 3749
+LHS 115
+Puppis Sector NN-T b3-6
+Artames
+Yin Sector XJ-A c18
+Hyades Sector UV-K b9-2
+Crucis Sector RI-T a3-1
+BD+33 256
+CD-51 2650
+Kaun
+Barathaona
+LTT 15899
+LTT 16218
+Alrai Sector VO-R a4-0
+Alrai Sector SI-T a3-1
+Ngaru
+Alrai Sector YO-R a4-1
+Wolf 882
+Alrai Sector SI-T a3-2
+Alrai Sector SI-T a3-0
+Ngobedu
+Alrai Sector ZO-R a4-0
+Ashima
+Alrai Sector EL-Y c31
+LP 849-20
+BD-07 5223
+Alrai Sector EL-Y c32
+LTT 1509
+Alrai Sector KH-V b2-7
+Abukunin
+Alrai Sector CL-Y d129
+Col 285 Sector DC-R b19-8
+Tauerni
+Malloc
+Alrai Sector IR-W c1-24
+Begovans
+Taotiges
+Alrai Sector GW-W c1-27
+Ross 737
+Verbigeni
+Aphra
+Alrai Sector HM-V b2-3
+Wolf 835
+LP 332-45
+BD+33 2990
+LHS 3333
+Imisses
+LTT 15317
+Granthaimi
+Mokosh
+LP 334-11
+Kawa Athi
+BD+35 3145
+Cama
+Wolf 750
+Sigma Coronae Borealis
+Herculis Sector JR-W b1-3
+LP 329-20
+Herculis Sector OX-U b2-4
+Sarin
+LTT 15229
+LP 329-32
+AG+21 1754
+BD+18 3497
+111 Herculis
+Sahualasta
+Alrai Sector IH-V b2-2
+Alrai Sector GM-V b2-1
+Menambe
+Caihe
+Alrai Sector KH-V b2-5
+Sinann
+Eta Serpentis
+GAT 2
+Alrai Sector DL-Y d147
+Zugen
+NLTT 44018
+LHS 3338
+LP 507-5
+StKM 1-1341
+Lotigandan
+Ejagh
+Herculis Sector RD-T b3-5
+Waricare
+Tida
+V774 Herculis
+Suchagga
+Alrai Sector HM-V b2-6
+BD+18 3606
+Gnot
+V775 Herculis
+Dimoco
+Alrai Sector EB-X b1-5
+Alrai Sector CG-X b1-4
+Wat Yu
+V1285 Aquilae
+Wolf 1509
+110 Herculis
+LHS 3405
+BR Piscium
+LHS 2
+LP 467-16
+Tascheter Sector GX-K a8-1
+Tascheter Sector GX-K a8-3
+Tascheter Sector YF-O a6-0
+Chothe
+Piscium Sector LN-S a4-0
+NLTT 6655
+Piscium Sector YU-X a1-1
+Dymiay
+Piscium Sector BG-W a2-2
+Piscium Sector BG-W a2-0
+Piscium Sector IH-U a3-2
+G 118-43
+LP 255-11
+NLTT 7941
+Piscium Sector FM-U a3-2
+Lamaku
+Tascheter Sector JR-W b1-4
+Crucis Sector HM-V b2-2
+LHS 6027
+Cochipati
+Piscium Sector IW-W b1-2
+LTT 11244
+Tascheter Sector ST-R a4-2
+LHS 1562
+Piscium Sector WZ-X a1-4
+37 Ursae Majoris
+LHS 2522
+Ejagham
+Seshenghus
+LHS 1920
+Hyades Sector WK-E b12-5
+Tascheter Sector GM-M a7-2
+LP 831-72
+Bonitou
+LHS 1642
+Tascheter Sector CL-Y d121
+Tascheter Sector MN-T a3-1
+Tascheter Sector DB-X b1-4
+Tascheter Sector OY-R a4-2
+Libaia Bara
+Sofagre
+Ross 1057
+Difu
+Tascheter Sector RE-Q a5-2
+LHS 3739
+Abrocmii
+Psi Tauri
+Uchaluroja
+LP 432-24
+Marcov's Point
+Col 285 Sector RW-L a37-0
+LP 292-66
+Piscium Sector BM-L a8-1
+StKM 1-1968
+Piscium Sector QT-R b4-4
+Cheng Den
+Nagarans
+Yin T'ien
+Rakkaiadi
+Piscium Sector SO-R b4-3
+LP 355-51
+Bhadaba
+Hebe
+Kanean
+LP 349-61
+Shui Wei Sector GC-U b3-4
+NLTT 8089
+LP 298-7
+Tascheter Sector PT-R a4-2
+Rhiannon
+Fusang
+Core Sys Sector CB-O a6-0
+Core Sys Sector VJ-R a4-0
+40 G. Capricorni
+Tatil
+Lalande 1799
+Core Sys Sector ZP-P a5-0
+LHS 113
+Core Sys Sector HH-M a7-1
+CD-52 9466
+Yer Tanri
+Col 285 Sector TQ-N a36-4
+Alrai Sector BP-R a4-0
+Caribri
+Wolf 89
+Core Sys Sector FW-N a6-1
+LTT 11159
+Tascheter Sector JH-V a2-1
+Ainunnicori
+Tascheter Sector IH-V a2-5
+BD-00 632
+Tascheter Sector BG-O a6-1
+Hai Ho
+LHS 1442
+NLTT 8662
+LHS 163
+Tascheter Sector TE-Q a5-0
+Juiquan
+Asgarage
+V2689 Orionis
+G 83-13
+Meri
+Tascheter Sector PY-R a4-0
+Feige 22
+LHS 1358
+Core Sys Sector RD-T a3-0
+V1703 Aquilae
+Ephesus
+Chimba
+Liu Baja
+Volungu
+Kollobokos
+LHS 3781
+Warwal
+LP 346-49
+Piscium Sector LC-V b2-4
+Glaucus
+Ross 788
+Piscium Sector CB-W a2-1
+Piscium Sector KN-S a4-0
+Piscium Sector GH-U a3-1
+Piscium Sector EB-X b1-0
+Trianguli Sector RO-Q a5-2
+Aranka
+Mbombo
+Shui Wei Sector BQ-Y d102
+Kachakapa
+BZ Ceti
+Tascheter Sector LX-U b2-1
+Tascheter Sector IR-W b1-4
+Kuanga
+Sakarabru
+84 Ceti
+Ladon
+51 Arietis
+Ngeri
+LTT 8914
+LP 4-258
+Athra
+Audhumla
+FN Bootis
+Alrai Sector KH-V b2-3
+157 G. Aquarii
+LHS 2268
+Ayethi
+Puppis Sector WJ-R a4-1
+Delta Muscae
+Zeta Aquarii
+Lei Jen Zu
+Tascheter Sector XK-O a6-0
+LP 525-39
+Nemehi
+Furbaide
+LP 561-36
+LHS 1067
+Devanith
+Core Sys Sector VO-R a4-1
+LHS 1122
+Alrai Sector IR-W c1-27
+Ross 85
+LTT 8681
+QQ Pegasi
+EGGR 431
+BD+26 2184
+V430 Puppis
+Ao Guang
+G 123-16
+Wolf 1438
+LHS 6031
+Cherbones
+Malina
+Agni
+G 61-48
+Heze
+Skadjalini
+LP 935-18
+LP 659-31
+LHS 3277
+Col 285 Sector VW-L a37-5
+Trianguli Sector ZA-N a7-0
+Core Sys Sector UO-R a4-0
+Col 285 Sector WK-U b17-4
+G 67-27
+Ngauna
+Piscium Sector AR-L a8-0
+Core Sys Sector SO-R b4-3
+NLTT 48288
+Alrai Sector LC-V b2-4
+LTT 3365
+Beta Pictoris
+Geawenki
+NLTT 17993
+Ross 1008
+Mopanyane
+Hyades Sector QF-J a24-0
+Chup Kamui
+Quikudi
+Farack
+Alrai Sector IW-W b1-4
+LP 855-10
+24 Iota Crateris
+LP 863-19
+LP 633-12
+BD+26 8
+Piscium Sector PT-Q a5-0
+Nomm Cha
+LHS 1912
+Lie Zip
+Meidubi
+Hun Chonses
+5 G. Capricorni
+LTT 6528
+HR 1597
+Plutarch
+Crucis Sector PI-T a3-1
+Col 285 Sector DC-R b19-7
+Carener
+Cephei Sector KR-W b1-0
+LHS 1004
+Chambo
+BD+40 1697
+HR 2622
+Puppis Sector MC-V b2-2
+Col 285 Sector JD-T a33-0
+Lorana
+Gabien Ku
+V439 Andromedae
+Huangais
+LP 462-119
+LHS 2335
+Lumbla
+LHS 1923
+EV Lacertae
+Core Sys Sector YO-R a4-3
+Crucis Sector PX-U a2-2
+G 175-42
+LHS 1809
+LFT 140
+LHS 1573
+Allowair
+LHS 1446
+Arnemil
+Lambda Andromedae
+Col 285 Sector JS-U a32-0
+Puppis Sector HW-W b1-6
+Wolf 1278
+Bei Dou Sector FB-X b1-4
+Pi-fang
+Coma
+Hydrae Sector YU-Y b3
+Lalande 39866
+Nandh
+Kammaits
+Hyades Sector RE-G b11-4
+LP 575-38
+Aparctias
+Rish
+Alrai Sector DV-P a5-2
+LFT 424
+Daiku
+LHS 6050
+BD+23 3151
+Col 285 Sector MZ-U b17-1
+Core Sys Sector TD-T a3-1
+Guei
+LFT 193
+q1 Eridani
+LHS 2065
+Noatiaca
+Wambal
+Lalande 31662
+LP 787-52
+Svanticani
+Ross 447
+Sekhemet
+Katocudatta
+Piscium Sector FH-U a3-2
+Tilian
+Copian Xing
+Core Sys Sector DL-Y d127
+LFT 325
+Wolf 751
+LHS 3317
+Connla
+Anglii
+Yin Sector IR-W c1-28
+Kappa Phoenicis
+EGM 559
+Te Uira
+LHS 457
+Alrai Sector BV-Y c18
+Walmiri
+Tascheter Sector CG-X b1-4
+LHS 273
+LHS 3057
+61 Ursae Majoris
+BD+03 2279
+Phekda
+Shamash
+LHS 283
+LTT 5075
+Nefertem
+Yin Sector GR-V b2-0
+Eta Leporis
+ICZ DB-X c1-31
+Alzirr
+Tollan
+54 Cassiopeiae
+LP 54-19
+BD+55 1142
+WISE J0521+1025
+39 Leonis
+Nootkenk
+BD+46 2489
+Ross 986
+LP 493-64
+QY Aurigae
+31 Aquilae
+Wolf 433
+Crucis Sector DL-Y c32
+Col 285 Sector OK-P a35-0
+LHS 501
+LHS 546
+Shui Wei Sector CB-W b2-1
+Tascheter Sector RY-R a4-1
+Tascheter Sector NN-T a3-0
+Khaka
+Bei Dou Sector BQ-Y b3
+Tascheter Sector YF-O a6-3
+Brivitt
+Addovices
+Lalande 2682
+Aulebegus
+LP 466-235
+LP 465-77
+Core Sys Sector SO-R b4-1
+Core Sys Sector CB-O a6-2
+CD-32 11850
+LP 918-29
+Anindari
+Tatamo
+Devataru
+Alrai Sector NX-T b3-5
+Core Sys Sector HH-M a7-2
+Piscium Sector ZK-X b1-3
+Tripu
+Djak
+LP 275-68
+Herculis Sector RD-T b3-6
+Core Sys Sector KC-M a7-2
+Shudun Sector AA-A d133
+Hyades Sector MF-J a24-1
+Alrai Sector IM-V b2-3
+Core Sys Sector KC-M a7-1
+Core Sys Sector SX-U a2-0
+Core Sys Sector LC-M a7-0
+Ross 863
+BD-05 4394
+Core Sys Sector LC-M a7-3
+Core Sys Sector SI-T a3-0
+BD+19 3268
+Kala
+Summanus
+Votama
+LP 449-6
+Yin Sector WO-A b1
+LFT 1404
+Matikuoluk
+Bota Ili
+Arare
+Saranyu
+Shui Wei Sector NT-Q b5-6
+BD+14 831
+Gomm Cail
+Hyades Sector AS-I b10-4
+Ngobriglai
+Zephyrus
+Wong Sher
+LP 7-226
+Egeria
+Cromovit
+Eta-1 Pictoris
+LHS 277
+Col 285 Sector VQ-N a36-0
+Tinia
+Col 285 Sector WQ-N a36-0
+HN Bootis
+Xi Ursae Majoris
+Crucis Sector ZP-P a5-2
+Mitlhou Wa
+LHS 2094
+Alyuto
+HDS 1879
+Lu Yupik
+Brandano
+Crucis Sector DL-Y c16
+Gamma Leporis
+LHS 293
+Trianguli Sector OO-Q a5-3
+LP 377-78
+Gliese 282 C
+LP 837-53
+NLTT 43513
+Hyades Sector JZ-K a23-2
+Shui Wei Sector ZU-Y c17
+Scorpii Sector ZU-Y b2
+Puppis Sector CQ-P a5-2
+Seliacha
+LS 521
+G 89-32
+Manah
+Grendel
+9 Puppis
+LHS 220
+Sharru Sector HM-V b2-1
+Argyre
+LHS 1914
+Ross 769
+LP 701-7
+Batz
+9 Ceti
+Ausan
+Jastreb Sector EW-W b1-5
+G 218-20
+Wolf 1346
+Akbulun
+Shui Wei Sector KN-S b4-6
+Core Sys Sector BB-O a6-1
+Apala
+Col 285 Sector LT-V b17-4
+LP 800-6
+Cabru
+LHS 2699
+Lalande 10797
+Esuvit
+Cephei Sector KR-W b1-5
+Ishtar
+Trianguli Sector UU-O a6-0
+Trianguli Sector YF-N a7-2
+Ross 27
+LFT 380
+Gliese 1081
+LP 205-44
+Cavins
+Baxbakaeris
+LHS 183
+Tascheter Sector CR-M a7-1
+Tascheter Sector QT-R a4-2
+Core Sys Sector SO-R a4-1
+Crucis Sector FM-V b2-4
+Alrai Sector MH-V b2-6
+Apoyota
+Forculus
+Chinicollo
+Alrai Sector DL-Y d85
+LTT 7453
+Kalumar
+Kadu mist
+LP 864-1
+Masszony
+Cephei Sector FG-Y d137
+LHS 2123
+Adepti
+Hlooyn
+KUI 47
+Ross 122
+RIXOS 266-1
+Sharru Sector IH-V b2-5
+Nuakea
+Alrai Sector LH-V b2-2
+Itela
+HR 7079
+Trella
+LHS 3377
+Col 285 Sector KE-V b17-5
+Alrai Sector CV-P a5-1
+Loha
+Ao Kang
+Kakmbul
+Du Shenge
+Sivas
+Arx Arcis
+Herculis Sector KM-W c1-22
+Jord
+LP 690-1
+LHS 464
+LFT 1324
+Wolf 867
+Ekuru
+LHS 6427
+G 188-9
+Tascheter Sector IR-W b1-2
+Tascheter Sector PN-T a3-1
+Alrai Sector LH-V b2-4
+Avilius
+Andowatye
+LFT 174
+Core Sys Sector BV-P a5-0
+Tascheter Sector JS-K a8-0
+Tascheter Sector EM-M a7-0
+Convoumia
+Alrai Sector KH-V b2-2
+Chowei
+LHS 263
+Ikenga
+Tascheter Sector CR-M a7-2
+Tascheter Sector RT-R a4-2
+Rasmussen
+58 Eridani
+Tascheter Sector XZ-P a5-0
+Alrai Sector OS-T b3-3
+LTT 6278
+Bunus
+Alrai Sector JR-W c1-14
+Alrai Sector MH-V b2-7
+GD 219
+LHS 3197
+Erlaza
+Eta Scorpii
+LFT 1291
+Katta
+Piscium Sector RE-P a6-0
+Pwyll
+Mata
+LFT 764
+Korazotz
+Lokitaka Mu
+Alrai Sector FB-O a6-2
+Col 285 Sector GI-P b20-7
+LFT 1349
+Bran
+Col 285 Sector ZH-K a38-3
+V857 Centauri
+Norn
+Mbutsi
+Arawoyn
+Ross 680
+LTT 14542
+G 69-11
+CK Arietis
+Tascheter Sector GX-K a8-2
+Tascheter Sector OY-R a4-3
+Piscium Sector YQ-L a8-2
+Alrai Sector NC-V a2-2
+Alrai Sector LH-V b2-7
+Taured
+Benatrux
+68 Eridani
+LTT 3919
+Ross 401
+NLTT 36689
+LTT 5990
+LAWD 83
+Crucis Sector NY-R b4-2
+LHS 2460
+LTT 13232
+Tascheter Sector DM-M a7-0
+Chontantici
+Crucis Sector AQ-Y c24
+LHS 3056
+Alrai Sector LX-T b3-4
+Nangutsu
+LHS 3315
+NLTT 44219
+Hyades Sector LZ-K a23-1
+Puppis Sector GW-N a6-5
+Puppis Sector FB-X b1-2
+Trianguli Sector WU-O a6-3
+Olker
+Nagybold
+Wolf 370
+Hydrae Sector CL-Y d91
+VVO 35
+Scorpii Sector BQ-Y b4
+Sak Chelmir
+LTT 5131
+BD-18 3106
+LTT 4379
+NLTT 26813
+Puppis Sector TO-R b4-4
+UBV 8670
+Puppis Sector IR-W c1-32
+Kwattrages
+Alrai Sector DL-Y d97
+Scorpii Sector YE-A c34
+Alrai Sector LS-T b3-6
+Alrai Sector DL-Y d110
+LP 336-4
+Ravi
+SZ Ursae Majoris
+WISE 0313+7807
+LHS 5217a
+YZ Canis Minoris
+LHS 229
+Gliese 3371
+Tascheter Sector CL-Y d127
+LTT 12058
+G 97-54
+LHS 1326
+LHS 1610
+LHS 1050
+Ross 47
+LHS 2206
+LHS 371
+Aura
+Alrai Sector DL-Y d81
+Shatkwaka
+LTT 5212
+Chac
+BD+14 1876
+Makaneane
+LP 386-49
+Ministry
+LHS 535
+Kareneri
+Zosia
+Haokah
+Dongkum
+BD+63 965
+Ba Po
+G 138-40
+Sosong
+9 Aurigae
+Caicius
+Nzambassee
+Maev
+BD+01 2684
+Hualarna
+Barann
+BD-19 3629A
+Jing
+Ross 446
+Czernovale
+Charonium
+LHS 235
+Putama
+Sumeya
+Puppis Sector GB-X b1-2
+LP 488-37
+BD+05 2131
+G 123-8
+Carichilo
+LFT 415
+Trianguli Sector LT-Q a5-0
+Sharru Sector KC-V b2-6
+LP 375-25
+Sigma Bootis
+Radegast
+LHS 399
+V2213 Ophiuchii
+Alrai Sector GW-W c1-18
+Nuenoch
+Alrai Sector PN-T b3-6
+LHS 336
+LHS 1939
+V780 Tauri
+Walgal
+Crucis Sector UD-T a3-4
+Hera
+Ackycha
+Excessis
+Wolf 287
+LHS 224
+Tascheter Sector LH-V b2-7
+Caelottixa
+Kanaloa
+g Lupi
+Kurmodiae
+Alrai Sector MS-T b3-7
+Acionna
+Core Sys Sector ST-R b4-3
+LP 792-20
+LHS 292
+Ross 490
+Tascheter Sector TY-R a4-2
+Milpiriyo
+Asvinia
+Trianguli Sector AB-N a7-3
+Akandinigua
+Trianguli Sector YF-N a7-5
+Pohnpet
+Matio
+Kokatese
+LP 844-28
+Trianguli Sector FM-V b2-6
+Andvarites
+Kame
+LHS 332
+Un Narraya
+LHS 40
+Neali
+Puppis Sector KC-M a7-1
+Harpulidna
+LTT 3433
+Skardee
+Leucos
+Carini
+Pemoeri
+Crucis Sector VO-R a4-2
+Iah Lanitei
+L 26-27
+Bragurom Du
+LHS 3022
+LP 798-44
+Kuukese
+Laklang
+Igorodimos
+Alrai Sector OC-M a7-1
+Scorpii Sector AV-Y b1
+LHS 3205
+Scorpii Sector DB-X b1-8
+LHS 2482
+Ross 488
+Wolf 1481
+Chonost
+Puppis Sector DL-Y d106
+74 k Orionis
+Eeaea
+Kungurutii
+Cupiat
+Ross 98
+LHS 2158
+Sharru Sector IH-V b2-4
+LP 320-359
+LHS 411
+LTT 57
+Nakulha
+Hanggardi
+Alrai Sector PN-T b3-4
+Scorpii Sector CL-Y c14
+BD-17 1959
+Ngalu
+CF 16001
+LTT 4350
+Crucis Sector MN-T b3-6
+Dagaz
+Epsilon Scorpii
+Momoirent
+LTT 3607
+Crucis Sector XJ-R a4-0
+Sengen Sama
+Crucis Sector FB-X b1-5
+Skeggiko O
+CPD-51 3323
+Ardh
+Berzitibi
+LHS 2471
+LHS 350
+Fianna
+171 Puppis
+LHS 253
+Puppis Sector EL-Y c28
+Kamarada
+LHS 1935
+Phra Lak
+Men Shen
+Scorpii Sector ZE-A d115
+Huichi
+Crevit
+LP 931-40
+Lauksa
+Crucis Sector LN-T b3-4
+Wolf 1478
+Nganeru
+CD-35 9019
+Khepri
+LFT 1300
+Vucub Huan
+LAWD 27
+Shui Wei Sector BM-S a5-4
+San Tu
+LHS 3595
+LHS 495
+L 190-21
+FT Piscium
+Bulku
+Erne
+LHS 1951
+Wazn
+Rudjer Boskovic
+LFT 1610
+LTT 305
+Trianguli Sector WF-N a7-2
+Caerdroia
+Oyas
+44 b Ophiuchi
+LP 917-19
+Kairos
+Alrai Sector OC-V b2-4
+Col 285 Sector BD-K a38-2
+Ye'kua'gsa
+CD-52 9732
+Col 285 Sector HJ-I a39-1
+Helgaedi
+Jibitoq
+Hyades Sector PL-H a25-2
+Baiawa
+ER 8
+G 239-25
+LFT 1061
+Hemsut
+LHS 3586
+Quiness
+Acihaut
+FN Virginis
+Athena
+Finti
+Core Sys Sector ON-T b3-6
+Crucis Sector DW-N a6-2
+Ehecatl
+LTT 9387
+LU Velorum
+LHS 191
+Epsilon Ceti
+Decima
+LFT 568
+VZ Columbae
+Shui Wei Sector ZU-X b1-1
+LHS 1047
+LFT 1748
+LHS 1038
+LHS 3549
+Core Sys Sector ON-T b3-5
+LHS 346
+Ross 1007
+Tsondama
+Ross 692
+Xucuri
+Har Itari
+Core Sys Sector MS-T b3-6
+Puppis Sector KH-V b2-4
+Vellamo
+Crucis Sector FM-V b2-1
+Crucis Sector JS-T b3-1
+Macu Kuang
+LFT 141
+LPM 101
+LTT 982
+Col 285 Sector KY-S a33-0
+Crucis Sector FW-W b1-5
+Baris
+23 Librae
+Scotaya
+Salibal
+LTT 5855
+LP 672-42
+LFT 820
+NN 3709
+Scorpii Sector XZ-Y b0
+Vitoa
+Djendelis
+Kivah
+LTT 3217
+ICZ YU-X b1-1
+Col 285 Sector LY-S a33-2
+Crucis Sector GW-N a6-0
+V372 Puppis
+Trianguli Sector DL-Y c15
+Trianguli Sector JI-S a4-2
+BC Arietis
+LP 462-19
+Jastreb Sector BB-O a6-1
+Tascheter Sector WK-O a6-0
+LP 518-58
+Alrai Sector RI-T b3-5
+Evena
+LTT 6620
+Arro Naga
+Crucis Sector HH-V b2-3
+Wolf 417
+LP 564-39
+LTT 6563
+Alrai Sector NS-T b3-5
+Saule
+LHS 54
+LHS 3246
+18 Scorpii
+BD-12 4699
+LP 915-27
+Lokit
+Tibitibi
+Dalam
+64 Piscium
+Wolf 87
+Kadi
+RBS 742
+Trianguli Sector VF-N a7-3
+Trianguli Sector UZ-O a6-0
+Puppis Sector KH-V b2-3
+Skaut
+Heveri
+NLTT 25207
+Crucis Sector TO-R a4-0
+LAWD 13
+SPOCS 727
+LHS 3713
+BD+42 3917
+LTT 9795
+ICZ BB-W b2-6
+Putamasin
+Col 285 Sector SK-P a35-1
+Crucis Sector FW-W b1-4
+Kayimali
+LTT 2379
+Puppis Sector RD-T b3-3
+Crucis Sector HM-V b2-3
+Yu Shou
+LHS 35
+Tascheter Sector GR-M a7-4
+Yorates
+LHS 355
+LHS 353
+Bei Dou Sector EL-Y c20
+LHS 2430
+Ross 115
+LHS 317
+Umbrigua
+LHS 1836
+Piscium Sector EL-Y c24
+LAWD 84
+Bentin
+Crucis Sector ZU-P a5-2
+Torngita
+Imeuts
+Scorpii Sector ZU-Y b4
+BF Canis Venatici
+LTT 4969
+Sobek
+Merak
+LTT 14019
+LHS 331
+LHS 2789
+LP 131-55
+Doris
+NLTT 41764
+Crucis Sector IS-T b3-3
+Menkent
+HR 4734
+LTT 5419
+Col 285 Sector MO-V b17-5
+Iota Centauri
+CD-33 8748
+Wolf 485a
+Ukko
+Crucis Sector HM-V b2-0
+Maridwyn
+Li Chong
+Crucis Sector UO-R a4-4
+Alpha Chamaelontis
+Crucis Sector TD-T a3-1
+Kungun
+Puppis Sector OX-U b2-4
+Asvini
+Nang Ta-khian
+LHS 455
+LFT 90
+Sekhenses
+WISE J000517
+LFT 992
+LP 715-52
+LP 322-836
+LHS 223
+LHS 306
+Bevan's Hope
+Zeaex
+Nanabozho
+Crucis Sector YE-A d135
+Crucis Sector PC-V a2-3
+Tchernobog
+LP 764-108
+Piscium Sector BM-L a8-3
+LHS 3855
+Core Sys Sector KN-K a8-1
+Munfayl
+Belenos
+Sango
+Alrai Sector GR-V b2-2
+LP 911-13
+Puppis Sector EW-N a6-0
+Tawhaki
+Diabak
+Fasti
+Olorun
+LTT 12870
+Sharru Sector ON-T b3-2
+Aeneas
+Penglai
+Misir
+Fionn
+Tascheter Sector EG-X b1-5
+Marditj
+LTT 4730
+Dethall
+Alchita
+Bugas
+Sui Xing
+HG 7-206
+LHS 2813
+LFT 1223
+Belianses
+Crucis Sector WO-R a4-2
+Miribusha
+Crucis Sector AQ-P a5-2
+Crucis Sector CL-Y c33
+Crucis Sector ER-V b2-2
+LHS 2476
+Sharru Sector NN-T b3-3
+Timbalderis
+Mebech
+Puppis Sector IR-W c1-31
+Pliny
+Julanggarri
+Tascheter Sector DG-X b1-4
+Puppis Sector DQ-Y b1
+LFT 488
+Tascheter Sector CL-Y d104
+Oresqu
+LHS 295
+Usiren
+Turdetani
+Sedna
+Fong Wang
+LHS 2435
+Puppis Sector TO-R b4-3
+Kali
+Kamici
+Puppis Sector FW-W c1-23
+Alkh
+Nima
+Apurnarsu
+G 97-18
+LTT 1628
+LHS 304
+Col 285 Sector NE-R a34-1
+Tatapai
+Eta Crucis
+Crucis Sector YU-P a5-1
+Puppis Sector IR-W c1-15
+Seer
+Ninhursag
+Kini
+LFT 1046
+Crucis Sector CL-Y c20
+Nal Yeh
+Core Sys Sector ST-R b4-4
+LP 920-69
+Iman Caber
+LFT 814
+14 Herculis
+Alrai Sector BV-P a5-2
+Core Sys Sector QT-R b4-6
+LHS 3434
+LHS 6171
+BD+39 3048
+72 Herculis
+Lengi
+Biataxo
+Trianguli Sector PI-T b3-6
+Wolf 225
+Shui Wei Sector VJ-Z b6
+Ceto
+LP 299-53
+Ninmah
+Scorpii Sector BQ-Y b6
+Core Sys Sector CB-O a6-5
+Col 285 Sector LE-R a34-2
+Mat Zemlya
+Bhil Mina
+LP 413-18
+Dalia
+Cordenet
+63 chi Leonis
+Ross 868
+Igbo
+SPOCS 253
+Eanric
+NN 3365
+LTT 2623
+Beta Hydri
+Puppis Sector YJ-R a4-1
+LTT 7857
+Mu Arae
+Puppis Sector YE-R a4-9
+LHS 3719
+Hyades Sector IZ-K a23-1
+ICZ EH-U b3-3
+Beta Trianguli Australis
+LP 908-11
+Core Sys Sector AB-O a6-2
+LHS 3744
+Piscium Sector EX-J a9-1
+LFT 1723
+Piscium Sector VK-N a7-2
+WISE 1741+2553
+LHS 6408
+Sharru Sector AV-Y b4
+Piscium Sector QE-P a6-1
+NLTT 1139
+LHS 137
+Adenses
+Tascheter Sector XZ-P a5-1
+Ross 588
+Saurisan
+LHS 3666
+Fugeniez
+Snoqui Xian
+UZ Sextantis
+Circe
+LFT 654
+Piscium Sector EL-Y c14
+Nuenets
+DK Leonis
+Jadlillke
+LP 792-33
+Col 285 Sector VB-M a37-2
+Collangbaka
+Maikoro
+Shui Wei Sector ZU-Y c18
+La Rochelle
+Crucis Sector EW-N a6-0
+Crucis Sector WJ-R a4-1
+Crucis Sector RD-T a3-3
+ICZ ZU-X b1-0
+LHS 531
+Crucis Sector UD-T a3-3
+Core Sys Sector FB-O a6-3
+LHS 3836
+Artume
+LTT 8701
+Piscium Sector RT-Q a5-3
+LHS 2166
+LP 734-32
+Lillith
+Quikil
+LP 771-95
+Alectrona
+Tascheter Sector EM-M a7-1
+LHS 449
+Orishvati
+Circeo
+Alrai Sector DL-Y d101
+G 181-6
+Corbenic
+Scorpii Sector ZU-Y b1
+Col 285 Sector PP-P a35-2
+ICZ FB-X c1-19
+LTT 14271
+LTT 6830
+ICZ FB-X c1-14
+IZ Bootis
+Core Sys Sector UO-R b4-5
+LTT 4376
+LHS 1409
+Cephei Sector AF-A c18
+Tetekhe
+Tirada
+Sharru Sector HM-V b2-0
+Nephthys
+Ross 623
+Wolf 356
+Scorpii Sector EV-Y a1
+HR 7451
+LP 431-69
+Crucis Sector LI-K a8-9
+BD+19 2511
+BD-13 2439
+Nisgayo
+7 Andromedae
+LHS 259
+HR 8526
+LHS 1434
+Raurugba
+FT Ceti
+Tascheter Sector GM-M a7-1
+Alrai Sector MC-V b2-3
+Shui Wei Sector EW-V b2-2
+Puppis Sector ZE-A d107
+YZ Ceti
+Pauatunus
+Kappa Fornacis
+CPD-59 314
+LTT 4846
+BD+16 2216
+Sharru Sector BQ-Y c18
+LHS 2412
+Melcior
+BD+34 1378
+Ennead
+G 176-29
+LTT 11571
+Corngari
+LTT 2322
+Shui Wei Sector FH-U b3-5
+Shui Wei Sector BQ-Y d106
+LHS 3443
+LHS 3439
+LTT 1141
+Chagin
+Shui Wei Sector YU-X b1-6
+CU Cancri
+Songol
+Meminii
+Othime
+G 116-72
+Circios
+LFT 1442
+LP 711-43
+Shui Wei Sector JY-O a7-1
+NLTT 14597
+Gweir
+G 148-13
+Edenapel
+Gbekree
+Wolf 630
+Cuspoor
+41 G. Arae
+LHS 2233
+Puppis Sector NN-T b3-4
+Tara
+Mbambiva
+Tascheter Sector CL-Y d116
+V902 Centauri
+Ross 318
+Rho Cancri
+Koraga
+Caph
+Korovii
+Sheela Na Gig
+Alrai Sector DL-Y c22
+Ailurui
+Trianguli Sector BQ-Y c15
+LHS 5116
+LFT 78
+Parutis
+Minot
+Mombaluma
+LHS 451
+Gluscap
+Turir
+Nyanktona
+Honoto
+Nu Indi
+NLTT 54244
+LP 465-14
+Mitra
+Khodiwobogi
+Trepin
+Chimechilo
+HR 692
+Puskabui
+Styra
+Dulos
+Petra
+LTT 1798
+Detris
+Duduseklis
+Fidena
+LTT 9104
+LHS 3356
+Alpha Circini
+ICZ CB-W b2-2
+P Eridani
+Col 285 Sector AX-L a37-0
+Core Sys Sector CV-P a5-1
+Puppis Sector LC-V b2-2
+Hyades Sector QF-J a24-2
+G 139-3
+Yinjian
+LHS 2363
+LHS 2337
+Pomeche
+Sanna
+Rho Indi
+LP 673-13
+Saktsak
+V405 Hydrae
+CD-46 12902
+HIP 28774
+Core Sys Sector TO-R b4-7
+BD+21 717
+BD+30 1423
+LHS 2447
+Sioa
+Natura
+12 Ophiuchi
+BPM 14175
+G 100-4
+Liu Bajara
+61 Virginis
+Luluwala
+Buzhu
+Puppis Sector PI-T b3-5
+Shui Wei Sector BQ-Y d93
+Shui Wei Sector KN-S b4-5
+Col 285 Sector WB-M a37-0
+Nornari
+CD-70 1956
+Shui Wei Sector GH-U b3-3
+Shui Wei Sector GH-U b3-7
+Col 285 Sector KS-U a32-2
+Khnemurt
+LTT 8648
+Audhr
+LFT 1504
+Alrai Sector MC-V b2-5
+Col 285 Sector BC-R b19-2
+LP 928-7
+Paipai
+Shui Wei Sector KI-S b4-4
+Col 285 Sector VJ-W b16-0
+Yota
+LTT 5259
+Jaunera
+Skogulumari
+Langu
+LTT 2589
+Iota Hydri
+Angi
+Winiama
+Core Sys Sector YO-R a4-0
+Alpha Pictoris
+LHS 1846
+Eleumo
+Samkyha
+BD+52 3410
+Sun Pin
+BD+29 2228
+Puppis Sector IM-V b2-0
+40 Leonis
+Euboa
+Puppis Sector JH-V b2-4
+Deneb Algedi
+Brontes
+Balatu
+Gliese 1115
+Moli
+Piscium Sector PE-P a6-3
+68 G. Canis Majoris
+Piscium Sector QZ-O a6-3
+NLTT 18945
+L 639-45
+Crucis Sector VO-R a4-1
+G 109-55
+LTT 10311
+Psi Capricorni
+NLTT 15714
+Wolf 1014
+Beiwe
+Caelinus
+Alrai Sector JH-V b2-4
+Qa'wakana
+LP 876-32
+Piscium Sector DL-Y d118
+Umaspi
+LHS 1379
+LPM 229
+LTT 7072
+CD-37 15492
+Wolf 1421
+Euripus
+Hupako
+Psi-5 Aurigae
+Bohmshohm
+Wolf 401
+Verner
+DR Crucis
+LHS 1665
+LHS 1513
+BU 741
+BD-15 447
+Col 285 Sector KS-U a32-1
+Gyvata Indi
+LP 751-1
+Namab
+Zach
+Amber
+Ruchbah
+Aunochis
+Pangu
+Furuhjelm II-432
+Alrai Sector MC-V b2-7
+AN Sextantis
+Skang
+Tascheter Sector MN-T a3-3
+Daiti
+Belarsuk
+Gnowee
+Bhaguti
+Durga
+WD 1207-032
+LTT 4527
+Nu-2 Lupi
+LTT 7138
+Clotho
+LTT 7499
+Crucis Sector HH-V b2-7
+R Coronae Austrini
+Puppis Sector ZE-A d121
+Wolf 315
+36 Doradus
+Trianguli Sector RO-Q a5-1
+Tambaiamo
+Pienate
+LHS 1747
+Rigga
+Puppis Sector AF-A c5
+Wolf 1061
+HG 7-208
+Cao Yans
+Chara
+LHS 1483
+Mikyll
+EE Leonis
+Mawu
+Trianguli Sector LS-T b3-6
+LP 69-457
+LHS 6103
+Wosyra Pao
+Heracles
+Sharru Sector BV-Y b0
+Bei Dou Sector FW-W b1-4
+Durinn
+20 Leonis Minoris
+LTT 2622
+LHS 463
+StKM 1-823
+Tascheter Sector YZ-P a5-0
+LTT 3926
+Crucis Sector VJ-R a4-1
+GWP 441
+Lalande 17161
+Jumadis
+Aulis
+Skeller
+Skinfaxi
+Ngaruayanka
+V816 Herculis
+Wolf 1340
+Jastreb Sector CL-Y d145
+Wolf 635
+LHS 71
+Wolf 573
+LHS 6128
+Tascheter Sector GR-M a7-1
+CD-62 234
+LP 89-101
+87 Mu Ceti
+Puppis Sector XJ-R a4-3
+Gamma Coronae Austrinae
+Tricor
+Turna
+Nerthus
+Trianguli Sector LS-T b3-5
+Eta Arietis
+Scorpii Sector EV-Y a0
+19 Pi Canis Majoris
+V886 Centauri
+Puppis Sector KR-W b1-1
+L 258-146
+DG Canum Venaticorum
+Akandi
+Tangkan
+Groombridge 1618
+Chuelchs
+LPM 607
+LTT 8679
+Chipatisany
+LP 709-62
+Giguara
+Zeta Trianguli Australis
+Crucis Sector EB-X b1-2
+Xuane
+Ross 1015
+Herfang
+LFT 898
+Karagro
+Yin Sector UT-A b1
+Syntec
+Alrai Sector LX-T b3-1
+Zaragas
+GCRV 4654
+Beta Comae Berenices
+Maheou Ti
+Corn Pin
+Ombilia
+Derrim
+Scorpii Sector EB-X a1-2
+Khronos
+Clayakarma
+Mambojas
+Alrai Sector NC-V b2-4
+WISE J0254+0223
+Col 285 Sector SK-P a35-2
+Nandjabinja
+LHS 316
+Panossini
+Akkadia
+Punraz
+Alpha Fornacis
+Shenetserii
+LP 943-72
+Shui Wei Sector ZP-X b1-3
+Kurui Gubi
+Lalande 6320
+LTT 6988
+Isleta
+Cephei Sector RI-T b3-2
+LP 25-2
+Calor
+LAWD 15
+Skappa
+Caldarn
+Izanami
+LP 211-22
+40 Ceti
+Jaburara
+DX 799
+LFT 667
+CD-55 1514
+LHS 3583
+Puppis Sector GB-X b1-5
+Eravarenth
+Fjorgyn
+Puppis Sector CQ-Y c21
+Shui Wei Sector KN-S b4-0
+Dilati
+Shui Wei Sector FH-U b3-1
+Ninhursang
+Mildeptu
+Corycia
+Crucis Sector MC-V a2-0
+WISE 0359-5401
+Alrai Sector DL-Y d98
+Raugeni
+LHS 2887
+LP 36-115
+LFT 563
+LHS 47
+Sons
+Nungar
+Peltan
+LTT 12734
+Santal
+LHS 2260
+Ross 905
+Scorpii Sector ZO-A a1
+Oluf
+Col 285 Sector DD-K a38-4
+LTT 149
+Piscium Sector KC-V b2-2
+Fyrly
+UGP 619
+Smethells 119
+CD Ceti
+Core Sys Sector VO-R a4-0
+Chi Orionis
+VV Lyncis
+G 146-5
+Bei Dou Sector ZJ-A b3
+Phanes
+LHS 2022
+LHS 222
+2MASS J07464256+2000321 A
+BD-07 4419
+Ringardha
+Iota Persei
+Dietri
+WISE 1506+7027
+LHS 149
+Kwaraseti
+LHS 154a
+LTT 4312
+Tascheter Sector GM-V a2-2
+Opala
+Chi Eridani
+LP 167-71
+Wailladyan
+Sudz
+Iota Piscium
+LFT 729
+NLTT 9949
+CW Ursae Majoris
+NLTT 23036
+LP 48-567
+Undines
+Alrai
+DX 1217
+Puppis Sector YJ-R a4-2
+Puppis Sector FB-X b1-4
+LAWD 49
+Tascheter Sector YF-O a6-1
+Alrai Sector JR-W c1-22
+Anagototo
+Andel
+17 Crateris
+LFT 160
+Logoni
+Kotilekui
+Mantxe
+Struve 1321
+LP 271-25
+Core Sys Sector UO-R a4-1
+Pilatock
+i Bootis
+LHS 3776
+Core Sys Sector GH-M a7-3
+Core Sys Sector HR-W c1-30
+Aravaci
+LP 726-6
+Kao Ziyi
+Benates
+NLTT 19808
+LP 638-58
+Wolf 562
+Trianguli Sector ZF-N a7-2
+Piscium Sector ID-I a10-2
+Core Sys Sector WU-P a5-1
+Wolf 718
+24 Iota Pegasi
+Balbus
+StKM 1-616
+LHS 1289
+LHS 214
+Parjanya
+LTT 1212
+23 H. Camelopardalis
+LHS 396
+Sumarr
+51 Pegasi
+Caucan
+Chuang Kong
+LDS 1503A
+Ross 860
+LFT 1103
+AZ Cancri
+Ross 730
+LHS 3505
+Nortia
+LTT 7548
+Crucis Sector FW-W b1-7
+Col 285 Sector RK-P a35-0
+Beta-3 Tucani
+Yin Sector YZ-Y b3
+CE Bootis
+LHS 6152
+Yimakuapa
+37 Xi Bootis
+Baker
+LHS 380
+BD+44 1710
+Lafqueela
+LTT 1044
+Wolf 294
+Piscium Sector DR-V b2-6
+LTT 1147
+Thetis
+KZ Andromedae
+Mehudi
+Lalande 2450
+GAT 1205
+EN Piscium
+Yinfu
+IL Aquarii
+LHS 3006
+Mu Capricorni
+36 Ophiuchi
+Crucis Sector DL-Y c25
+Shui Wei Sector FH-U b3-4
+Crucis Sector SO-R a4-1
+BD+03 515
+Scori
+Chi Cancri
+Stopover
+HR 4788
+LHS 524
+21 Eta Ursae Minoris
+Velingai
+Y Velorum
+Puppis Sector NX-U b2-7
+Hyades Sector RE-G b11-3
+37 Lyncis
+Maya
+Tabit
+94 Ceti
+LP 128-9
+LP 167-64
+Atagat
+Elohim
+Tascheter Sector LH-V b2-8
+Ross 52
+Core Sys Sector QT-R b4-5
+LP 123-75
+Core Sys Sector TO-R b4-6
+Milscothach
+Ho Hsi
+Aeternitas
+V1201 Orionis
+Tambe
+G 99-49
+Wolf 393
+Alrai Sector BQ-Y d76
+Maghirvii
+Wolf 1453
+Aelius
+Tascheter Sector FM-V b2-3
+Sharru Sector GW-W c1-20
+Crucis Sector EW-N a6-1
+Toci
+Crucis Sector PT-R b4-5
+Col 285 Sector GJ-I a39-1
+Puppis Sector MC-V b2-3
+GAT 1373
+BD+11 3149
+Sionesta
+Lalande 29917
+LP 34-161
+Tascheter Sector FB-X a1-1
+Trianguli Sector BG-X b1-5
+Agelasta
+Core Sys Sector EB-O a6-2
+Tascheter Sector MH-V a2-3
+Shouvul
+Puppis Sector FW-N a6-3
+Col 285 Sector ZL-R b19-6
+Hooriayan
+Wiknatanja
+Sharru Sector LS-T b3-0
+LHS 3437
+Alrai Sector LH-V b2-3
+Wolf 582
+LHS 2983
+LHS 314
+LQ Hydrae
+Bei Dou Sector CV-Y b1
+LTT 1935
+Chapsugaibo
+Gabietye
+Trianguli Sector TO-R b4-0
+G 141-21
+Hyades Sector RE-G b11-5
+FP Cancri
+Col 285 Sector AD-K a38-5
+Alrai Sector LH-V b2-6
+Gyvatiges
+LP 786-22
+Tascheter Sector DG-X b1-3
+LP 5-110
+Core Sys Sector ZP-P a5-1
+Core Sys Sector XJ-R a4-0
+Taurawa
+Piscium Sector FS-J a9-2
+Lencali
+Uchagan
+GD 356
+Col 285 Sector TC-K a38-1
+NLTT 46629
+Cephei Sector ON-T b3-5
+NLTT 16389
+Col 285 Sector TC-K a38-2
+Puppis Sector HR-W c1-23
+Manbatz
+Tascheter Sector HX-K a8-0
+Tascheter Sector RE-Q a5-3
+Dea Motrona
+Yggdrajang
+LHS 246
+Tascheter Sector BQ-Y c18
+LP 274-8
+Caer Bran
+Arrakis
+Piscium Sector CM-U a3-1
+Core Sys Sector FB-O a6-2
+Bei Dou Sector DL-Y d76
+Core Sys Sector LC-M a7-2
+Herculis Sector IR-W b1-1
+LHS 1197
+Crucis Sector WO-R a4-1
+LHS 1992
+LP 754-50
+Col 285 Sector IT-W b16-3
+Crucis Sector KS-T b3-1
+Breksta
+Wolf 46
+Skuld
+Col 285 Sector IS-U a32-2
+Col 285 Sector EN-Y b15-4
+LFT 330
+Matask
+Tascheter Sector OX-U b2-2
+LFT 668
+Alrai Sector BQ-Y d77
+Popoconibo
+Core Sys Sector RD-T a3-1
+Endovlicus
+Macalites
+LHS 1743
+Crucis Sector CQ-P a5-3
+Crucis Sector WO-R a4-0
+39 Serpentis
+Sharru Sector QI-T b3-2
+Trianguli Sector LT-Q a5-3
+Trianguli Sector IN-S a4-3
+Omega Draconis
+Trianguli Sector OI-T b3-2
+Core Sys Sector IR-W c1-29
+Baudus
+Chronos
+Col 285 Sector HY-W b16-3
+Kabuga
+Piscium Sector SD-T b3-0
+Alrai Sector NH-M a7-1
+Crucis Sector FH-M a7-3
+Bhumatz
+Crucis Sector QX-U a2-3
+Thalassa
+Col 285 Sector MY-S a33-1
+Core Sys Sector CV-P a5-0
+Aravaledi
+LHS 1805
+LTT 9423
+Crucis Sector VO-R a4-3
+Souta
+Crucis Sector NI-T b3-5
+Piscium Sector HD-I a10-0
+Herishep
+LHS 6045
+Alrai Sector DB-O a6-3
+Col 285 Sector DM-L c8-27
+Puppis Sector FW-N a6-0
+Tascheter Sector LH-V a2-3
+Crucis Sector OI-T a3-2
+Bei Dou Sector BV-Y b4
+Col 285 Sector WW-L a37-3
+LIM 5
+Stylix
+Piscium Sector CX-J a9-1
+Bei Dou Sector AV-Y b4
+Core Sys Sector AK-R a4-1
+LHS 2228
+Crucis Sector PC-V a2-5
+Trianguli Sector HM-V b2-6
+Core Sys Sector CV-P a5-3
+Puppis Sector FW-W c1-22
+Bei Dou Sector FW-W b1-2
+Col 285 Sector DO-I a39-2
+Piscium Sector XF-N a7-2
+Loucetios
+Crowfor
+Tibis
+Col 285 Sector ZI-R a34-0
+LHS 3255
+Piscium Sector JD-I a10-1
+Tascheter Sector CG-X a1-2
+Piscium Sector MT-Q a5-5
+NLTT 21176
+Piscium Sector MC-V b2-7
+Piscium Sector ZF-W a2-2
+LP 784-12
+Core Sys Sector YU-P a5-2
+Puppis Sector ON-T b3-2
+Col 285 Sector QU-C b14-5
+Lalande 13198
+Puppis Sector KR-W b1-3
+Crucis Sector GW-W b1-2
+Crucis Sector AV-P a5-2
+LP 681-36
+Tascheter Sector MY-R a4-3
+LHS 2432
+Piscium Sector JW-W b1-2
+Piscium Sector TK-N a7-0
+ICZ XZ-X b1-4
+Lushu
+LHS 247
+Yin Sector XJ-A c21
+Shui Wei Sector CB-W b2-5
+Piscium Sector JH-V b2-3
+Col 285 Sector VC-T a33-0
+Puppis Sector HR-N a6-0
+Piscium Sector AM-L a8-0
+Col 285 Sector PE-R a34-0
+Puppis Sector DL-P a5-0
+Puppis Sector DL-P a5-3
+Crucis Sector BL-X b1-3
+Core Sys Sector ZJ-R a4-0
+Crucis Sector LN-T b3-2
+LHS 2369
+Tascheter Sector FM-M a7-0
+HU Delphinus
+Piscium Sector FM-U a3-0
+Puppis Sector TD-T a3-1
+Alrai Sector XI-T a3-0
+Puppis Sector CL-P a5-5
+Loga
+Puppis Sector LC-V b2-5
+LP 634-1
+Wolf 424
+BD+11 514
+Piscium Sector ME-G a11-1
+Col 285 Sector YQ-S b18-3
+Moti
+Hydrae Sector FW-W b1-0
+Bei Dou Sector BQ-Y b1
+LFT 215
+Nott
+Shui Wei Sector GH-U b3-0
+Cephei Sector PS-U b2-3
+Tascheter Sector GW-W c1-19
+Core Sys Sector SD-T a3-1
+Nu Octantis
+BD+24 543
+Tascheter Sector ST-R b4-8
+Sifjar
+CD-53 570
+Tascheter Sector IM-V a2-4
+LFT 1296
+Ceti Sector KX-T b3-2
+Alrai Sector RI-T b3-1
+Col 285 Sector IM-L c8-14
+Theta Persei
+Arigens
+Crucis Sector EG-Y d114
+Col 285 Sector ZQ-S b18-4
+Col 285 Sector VQ-N a36-1
+Tsetsegei
+LTT 9494
+Core Sys Sector HW-N a6-0
+LP 356-14
+LP 903-21
+Col 285 Sector NK-P a35-4
+LHS 2925
+Col 285 Sector SQ-N a36-1
+Tascheter Sector KS-T a3-3
+Kamchairra
+Jangore
+Crucis Sector SO-R b4-7
+Jastreb Sector FH-M a7-0
+V1396 Cygni
+LP 390-16
+Col 285 Sector WK-U b17-5
+Puppis Sector CL-P a5-0
+Puppis Sector IR-W c1-20
+Fricassi
+Col 285 Sector EJ-I a39-1
+LTT 10462
+Dagdhangjel
+LFT 434
+Alrai Sector CQ-X b1-4
+Crucis Sector IH-M a7-1
+Piscium Sector YU-X a1-0
+LP 510-10
+Piscium Sector CX-J a9-2
+Yin Sector XJ-A c20
+Ghimr
+Core Sys Sector UI-T a3-0
+Puppis Sector CQ-Y b1
+Piscium Sector UT-Z a0
+10 Ursae Majoris
+WISE 0713-2917
+Den 0255-4700
+Puppis Sector DQ-P a5-1
+HR 1504
+Aninohanu
+Veroandi
+Crucis Sector MI-T b3-7
+Puppis Sector UO-R b4-0
+Herculis Sector HW-W b1-3
+16 Librae
+Puppis Sector QI-T b3-8
+LHS 499
+Alrai Sector IW-N a6-5
+BD+40 2208
+Trianguli Sector DH-L a8-1
+Wolf 335
+Col 285 Sector HJ-I a39-3
+Puppis Sector ZP-P a5-1
+Tascheter Sector QN-T a3-0
+Trianguli Sector SO-R b4-6
+Mundii
+Gitse
+Tascheter Sector IX-K a8-1
+Puppis Sector MC-V b2-7
+Trianguli Sector LS-T b3-3
+HR 6465
+Kaha'i
+Scorpii Sector CQ-Y b3
+Tascheter Sector GM-V a2-1
+Col 285 Sector FC-R b19-5
+Oduduro
+Core Sys Sector GW-N a6-3
+37 Capricorni
+LHS 3119
+Arynaman
+BPM 78873
+Chehoonggu
+Obambivas
+LP 675-19
+Zuben Elgenubi
+CD-59 1706
+G 158-59
+LP 944-020
+LHS 1918
+Alrai Sector DL-Y d79
+LHS 529
+WX Ursae Majoris
+Cenu Kichs
+Core Sys Sector QI-T a3-1
+66 Virginis
+UGP 281
+Sharru Sector LS-T b3-2
+Core Sys Sector SO-R b4-4
+Puppis Sector IR-W c1-23
+LTT 4728
+LTT 4428
+LHS 1904
+BD-15 1822
+Puppis Sector KR-W b1-0
+Alrai Sector DB-X b1-5
+Framar
+Luyten 143-23
+Crucis Sector FM-V b2-5
+Tascheter Sector GW-W c1-17
+LHS 1875
+Tascheter Sector BQ-Y c19
+LHS 281
+Psi Velorum
+Arth
+Shui Wei Sector GY-O a7-1
+CD-54 471
+LTT 6566
+Col 285 Sector SW-L a37-1
+G 144-39
+Medb
+Piscium Sector ES-J a9-3
+mu cassiopeia
+Santy
+Crucis Sector FW-W c1-25
+Samebito
+Crucis Sector BQ-P a5-2
+Luyten 674-15
+NLTT 47625
+Morgor
+Tascheter Sector SE-Q a5-0
+Scorpii Sector ZE-A c19
+Crucis Sector HH-V b2-6
+Cephei Sector MC-V b2-4
+LTT 10624
+Col 285 Sector GS-X b16-4
+Alrai Sector MS-T b3-0
+Aburu
+Alrai Sector JB-X b1-5
+Tefenhua
+Hyades Sector WK-E b12-4
+Jastreb Sector BB-O a6-3
+LHS 1663
+Harermid
+Alrai Sector DL-Y c27
+Crucis Sector AQ-Y c25
+Col 285 Sector MQ-N a36-3
+Beta Reticuli
+Yen Ti
+Gommat
+LTT 12102
+Puppis Sector SD-T b3-7
+Varpet
+Koryaks
+Coatlicue
+ICZ AV-Y c22
+Col 285 Sector AM-R b19-5
+Crucis Sector NY-R b4-6
+Alrai Sector FW-V b2-0
+Taliesin
+Inti
+Kebeghengi
+LP 9-231
+G 173-53
+Tohil
+Piscium Sector ZF-W a2-1
+Lalande 29437
+Chaxiraxi
+LHS 1832
+Col 285 Sector XG-Z b15-4
+Piscium Sector LY-H a10-2
+Dao Jungu
+Crucis Sector OC-V a2-2
+LTT 14398
+Alrai Sector GW-W b1-1
+Col 285 Sector OY-H c10-35
+Hydrae Sector FW-W b1-4
+Col 285 Sector PK-P a35-0
+LHS 2494
+Core Sys Sector DQ-P a5-0
+Core Sys Sector TI-T a3-2
+Col 285 Sector JJ-I a39-8
+Col 285 Sector GC-R b19-7
+LTT 1678
+Col 285 Sector XX-S a33-1
+Cephei Sector EL-Y c20
+LTT 692
+Col 285 Sector NK-P a35-1
+LHS 543
+Hyades Sector UV-K b9-4
+LHS 2122
+Tascheter Sector DG-O a6-1
+Velabri
+Col 285 Sector QV-N a36-1
+NLTT 41712
+Col 285 Sector IY-W b16-6
+Piscium Sector CM-L a8-2
+Puppis Sector FR-N a6-1
+Crucis Sector IN-K a8-1
+Piscium Sector DM-L a8-0
+Col 285 Sector GI-P b20-0
+Col 285 Sector PT-H c10-16
+Tascheter Sector RT-R a4-1
+Core Sys Sector SD-T a3-4
+Trianguli Sector BH-L a8-1
+LP 658-72
+Yin Sector YZ-Y b6
+Col 285 Sector HY-V b17-3
+Crucis Sector QI-T a3-2
+Herculis Sector NX-U b2-5
+LHS 1026
+Alrai Sector GW-V b2-3
+11 Leonis Minoris
+Crucis Sector KS-T b3-4
+Core Sys Sector PI-T b3-7
+Ceti Sector FW-V b2-6
+Crucis Sector NI-T b3-7
+Core Sys Sector DV-P a5-1
+StKM 1-367
+Trianguli Sector QZ-O a6-3
+HR 1980
+LTT 2240
+Melici
+Puppis Sector EL-Y c15
+Zibel
+Teng Yeh
+LHS 2069
+LHS 2149
+Denebola
+Bolg
+LP 438-8
+Coelrind
+LDS 413
+LTT 4898
+Col 285 Sector RY-R d4-128
+Crucis Sector PT-R b4-7
+Ansuz
+LTT 5652
+Crucis Sector ZP-P a5-0
+ICZ CB-W b2-3
+Shui Wei Sector FH-U b3-3
+Igaenisan
+Piscium Sector SO-R b4-2
+Alrai Sector DL-Y d129
+Mezavini
+Piscium Sector OY-Q a5-0
+Teshub
+HR 784
+LFT 185
+NLTT 8065
+Zeus
+Djandji
+LFT 133
+LP 470-30
+LP 590-137
+LP 354-423
+Tascheter Sector EG-X a1-1
+Wuniez
+Trianguli Sector SU-O a6-4
+Trianguli Sector NO-Q a5-3
+Trianguli Sector WF-N a7-0
+Trianguli Sector PY-R b4-1
+Puppis Sector HW-W b1-5
+BD+03 2316
+Sharru Sector JH-V b2-3
+BD+31 2290
+Sharru Sector GM-V b2-1
+Cephei Sector GB-X b1-3
+Atanua
+Crucis Sector LC-V b2-6
+LFT 628
+Puppis Sector OI-T b3-6
+Tascheter Sector GW-W c1-18
+Tascheter Sector KM-V a2-3
+Tascheter Sector TY-R a4-1
+LFT 1472
+WISE 2056+1459
+SRS 2543
+Col 285 Sector TW-L a37-1
+Ross 209
+Col 285 Sector YQ-S b18-2
+Wolf 1022
+LHS 3978
+LTT 453
+Piscium Sector PI-T b3-6
+Peneng Wa
+LP 353-51
+LAWD 86
+G 262-26
+LP 229-17
+Veren's Stop
+LHS 374
+LHS 2852
+LHS 2848
+BD+67 1409
+LTT 16523
+Aktzin
+LHS 140
+Ross 104
+Ross 695
+LHS 2441
+Crucis Sector DB-X b1-6
+Crucis Sector IH-V b2-4
+Thiana
+CPD-76 769
+Arangorii
+Moepirt
+Talta
+LHS 1723
+Blest
+Tascheter Sector VE-Q a5-2
+Aongi
+Tascheter Sector LH-V a2-0
+Crucis Sector LC-V b2-0
+Crucis Sector CQ-P a5-2
+CD-59 4616
+Scorpii Sector YZ-Y b1
+Epsilon Coronae Austrinae
+Col 285 Sector XZ-P d5-111
+LHS 3748
+LTT 377
+Bandizel
+T'ien Mu
+Tascheter Sector PS-U b2-6
+LHS 4032
+LP 932-89
+Col 285 Sector RQ-N a36-2
+Alrai Sector RI-T b3-6
+Ascella
+Alrai Sector FV-P a5-1
+Core Sys Sector IH-M a7-0
+Col 285 Sector VB-M a37-1
+Col 285 Sector NE-R a34-3
+Epsilon Reticuli
+LHS 1567
+Alpha Caeli
+Trianguli Sector NI-T b3-5
+Phra Athit
+V740 Cassiopeiae
+HR 860
+BD+65 210
+Ququve
+LHS 1612
+LHS 1348
+Jastreb Sector SO-R a4-1
+Upsilon Andromedae
+Wolf 54
+V491 Persei
+LFT 214
+Taribes
+Lemoerdhis
+Hajangai
+Forlog
+Warnates
+Aymiay
+Piscium Sector AL-X b1-7
+NLTT 53889
+Wolf 10
+Ottia
+LFT 269
+BD+49 1280
+Piscium Sector EM-U a3-2
+Ross 23
+Hyades Sector AC-K b9-7
+LFT 361
+Khaima
+Ceti Sector BQ-X b1-4
+StKM 1-442
+Herthe
+Muth
+Kutkha
+Crucis Sector EB-X b1-6
+Crucis Sector YE-A d96
+LTT 5373
+Nandjalato
+Tetrian
+LHS 116
+Shui Wei Sector GH-U b3-5
+Egovach
+Theta Draconis
+LTT 5553
+Ross 847
+LP 176-55
+Herculis Sector EL-Y b5
+Piscium Sector IH-U a3-1
+Tascheter Sector OS-U b2-3
+Coqui Xee
+LTT 11383
+LP 157-32
+NLTT 42620
+Scorpii Sector WJ-A c24
+LTT 18506
+Wolf 865
+LP 58-247
+Yin Sector IR-W c1-29
+LP 501-31
+Alrai Sector DB-O a6-1
+Jastreb Sector FW-N a6-0
+Keer
+V538 Aurigae
+Lushertha
+LHS 337
+Crucis Sector ER-V b2-0
+Maijarua
+V2367 Ophiuchii
+Keries
+Nessa
+LHS 2819
+Ye'kuapemas
+Pi-1 Ursae Minoris
+Cephei Sector KM-W c1-22
+LFT 1653
+Cephei Sector JR-W b1-4
+Wolf 12
+LHS 6007
+Piscium Sector DR-V b2-4
+BD+44 4389
+LP 347-5
+Cephei Sector PS-U b2-2
+EI Cancri
+Shoujeman
+LFT 1072
+Bhotega
+Piscium Sector HS-S a4-0
+LP 71-157
+LHS 3461
+Kappa-1 Ceti
+Findalibila
+Tascheter Sector JX-K a8-1
+LFT 444
+LHS 1955
+LHS 274
+Helios
+LHS 2541
+Pelin
+Feuma
+LHS 2663
+Ao Qin
+LHS 1167
+HR 244
+Conn
+Jastreb Sector HH-M a7-3
+BD+02 305
+Jastreb Sector XU-P a5-1
+Piscium Sector DR-V b2-7
+LB 3303
+Shui Wei Sector DB-X c1-23
+HDS 3215
+Lauma
+LHS 510
+LHS 3675
+Col 285 Sector SQ-N a36-2
+Kondadora
+LHS 1590
+LHS 1594
+NLTT 7719
+Piscium Sector LC-V b2-5
+Tascheter Sector BG-O a6-0
+LP 711-32
+Dakvar
+Piscium Sector LN-S a4-2
+Tascheter Sector WK-O a6-2
+Hyades Sector AS-I b10-5
+Qama
+Piscium Sector MY-Q a5-3
+LTT 10380
+Piscium Sector QT-Q a5-0
+BD-14 249
+Kured
+ICZ BQ-Y d91
+Ursitoare
+Core Sys Sector SD-T a3-0
+Jastreb Sector BB-O a6-2
+Jastreb Sector YE-A d125
+Nzam Cakua
+Ross 303
+LHS 1788
+Tones
+Hyades Sector YW-I b10-3
+G 232-62
+23 Epsilon Cephei
+LHS 6386
+LHS 525
+Cephei Sector NX-U b2-4
+Sopdu
+Gyton's Hope
+Kruger 60
+Wolf 1062
+Liaedin
+Alrai Sector UI-T a3-0
+Alrai Sector AK-R a4-3
+Alawongli
+Wikatabar
+LHS 3717
+Piscium Sector DS-J a9-2
+Piscium Sector VQ-L a8-3
+Dofni
+LP 350-75
+Imani
+Chankun
+LHS 1230
+Tascheter Sector FM-M a7-3
+LHS 1332
+Ross 584
+Tascheter Sector ZK-O a6-0
+Beldarkri
+LTT 17149
+Lidpar
+LTT 9299
+Ceti Sector RJ-Q b5-4
+ICZ BG-W b2-1
+Shui Wei Sector BB-W b2-2
+Jastreb Sector HH-M a7-4
+LHS 135
+Howard
+LP 193-564
+Ross 345
+V989 Cassiopeiae
+BD+47 2112
+Wolf 497
+Ross 478
+Ackcanphi
+Haritana
+Col 285 Sector IX-J c9-27
+BD-10 4011
+LP 561-68
+Magec
+Anemoi
+Paul-Friedrichs Star
+Wolf 1080
+Ragapajo
+Varuna
+Antobri
+Jita Ten
+Condharwal
+LTT 2745
+LHS 278
+LP 542-33
+Tarbi
+Ross 1051
+Core Sys Sector WO-R a4-1
+Shui Wei Sector DW-V b2-5
+Hamal
+ZZ Piscium
+Alrai Sector ZO-R a4-1
+Alrai Sector RI-T b3-7
+Venetic
+Ekonir
+Cephei Sector IR-W c1-11
+BD+24 1451
+AC +60 40462
+Calarum
+Ross 310
+BD+75 58
+Moros
+BD+69 45
+Basium
+Khelma
+LP 338-6
+Cephei Sector RD-T b3-2
+GT Pegasi
+LHS 3899
+Hunru
+94 Aquarii
+Crucis Sector AQ-P a5-0
+Mizuchi
+Ullese
+LHS 3877
+Crucis Sector JC-M a7-0
+CPD-64 4178
+Vaka
+Sharru Sector KH-V b2-1
+Bei Dou Sector JC-V b2-4
+LDS 1503
+LHS 2191
+LP 378-541
+Diadem
+LP 103-294
+Ross 690
+ICZ JN-S b4-6
+Core Sys Sector EH-M a7-6
+Alphekka
+Puppis Sector GW-N a6-2
+Bidja
+Khawchuang
+Puppis Sector HW-W b1-3
+Col 285 Sector HJ-I a39-0
+LHS 3686
+Coriccha
+Tascheter Sector CL-O a6-2
+Crucis Sector UD-T a3-2
+Yenada
+Geawete
+Alrai Sector KM-V b2-5
+Kvior
+Sokoq
+Alrai Sector DL-Y d108
+Puppis Sector IR-W b1-4
+Long
+Alrai Sector TO-R a4-3
+Puppis Sector LC-V b2-1
+Crucis Sector EB-O a6-0
+Crucis Sector DQ-Y b4
+Puppis Sector MC-V b2-5
+Neritus
+LTT 2974
+FK5 2550
+LTT 18557
+Wolf 1122
+LHS 203
+Core Sys Sector RD-T a3-2
+Core Sys Sector WO-R a4-0
+Andere
+Col 285 Sector DP-P a35-2
+LP 658-33
+47 Ophiuchi
+Crucis Sector IC-M a7-2
+Crucis Sector CB-O a6-1
+Kalb
+Scorpii Sector FB-X a1-1
+Devi
+Col 285 Sector BC-R b19-3
+Puppis Sector AK-R a4-0
+Piscium Sector BS-J a9-2
+LP 211-12
+Alrai Sector MX-T b3-5
+Trianguli Sector HM-V b2-3
+Crucis Sector HH-V b2-5
+Col 285 Sector EX-Q b19-3
+Carnoeck
+LTT 464
+LTT 9455
+Sali'naman
+15 Pegasi
+Hu Jona
+LHS 3857
+Tavgi
+Puppis Sector ZJ-R a4-3
+Blatz
+Yin Sector CV-Y b4
+Lalande 18397
+Ackwada
+Tascheter Sector ST-R a4-1
+Tascheter Sector IS-T a3-2
+Hazel
+Aruru
+Tascheter Sector XF-O a6-1
+Ross 854
+Jastreb Sector JC-M a7-2
+WISE J004945
+Ross 622
+Crucis Sector NI-T b3-2
+Crucis Sector JN-K a8-4
+Ceti Sector AV-Y c17
+Core Sys Sector ZU-P a5-1
+Zearla
+Shui Wei Sector JN-S b4-5
+LHS 3615
+LHS 3398
+Usil
+Core Sys Sector CB-O a6-1
+Piscium Sector LY-H a10-0
+Col 285 Sector EM-L c8-22
+Piscium Sector SE-P a6-0
+BD+04 3919
+LTT 9634
+Skuta
+Ross 568
+Jastreb Sector GH-M a7-0
+Tascheter Sector JX-K a8-0
+LFT 1728
+Kaffaljidhma
+LHS 1596
+Tascheter Sector UT-R a4-1
+LHS 423
+Puppis Sector CL-P a5-3
+Wolf 258
+LHS 1828
+BD-17 588
+LHS 18
+Kigagua
+GL 867 B
+BY Draconis
+Crucis Sector FG-Y c9
+Col 285 Sector ED-K a38-4
+Tascheter Sector AQ-Y c25
+LHS 3409
+Piscium Sector VZ-O a6-3
+Core Sys Sector TO-R a4-0
+Felkan
+V546 Persei
+Soma
+Yarigui
+Brokutsu
+Hsien Baji
+Gomm Crua
+LTT 11362
+Crucis Sector NC-V a2-3
+Crucis Sector ZU-P a5-3
+Cephei Sector KR-W b1-2
+BD+66 193
+LHS 1101
+Hyperion
+Wolf 926
+LTT 1479
+Sikians
+Lugh
+Cephei Sector SD-T b3-6
+Opones
+Crucis Sector WJ-R a4-0
+LTT 2155
+Delphin
+Haraka
+LTT 11655
+BD-04 797
+LTT 7723
+BD+29 2405
+Col 285 Sector XX-S a33-3
+Col 285 Sector FP-P a35-2
+LP 870-45
+Crucis Sector SO-R b4-6
+HR 4867
+Scorpii Sector ZE-A c30
+NLTT 48474
+Piscium Sector XZ-X a1-3
+Crucis Sector KS-T b3-5
+GR 316
+Jastreb Sector IH-M a7-1
+LHS 145
+Ngalkin
+Slatus
+Col 285 Sector HP-G a40-4
+Carcinus
+LP 833-14
+Crucis Sector LI-K a8-4
+Crucis Sector HC-M a7-3
+Alrai Sector EQ-P a5-0
+Piscium Sector RK-N a7-3
+Tascheter Sector EG-X a1-4
+Shedi
+Cephei Sector KR-W b1-6
+Manamaya
+MCC 467
+Trianguli Sector TZ-O a6-2
+Anapos
+Crucis Sector BQ-Y c25
+ICZ CW-V b2-3
+Bavaringoni
+Core Sys Sector CQ-P a5-3
+Col 285 Sector KP-G a40-3
+Crucis Sector DW-N a6-4
+Crucis Sector VO-R a4-0
+Crucis Sector LW-W a1-1
+Puppis Sector GL-Y b7
+Mirdi
+Pularungu
+Crucis Sector GH-M a7-1
+Herculis Sector GB-X b1-4
+LP 983-87
+CD-35 2722
+Alrai Sector QC-V a2-2
+Col 285 Sector DI-X b16-3
+Shui Wei Sector ZP-X b1-5
+Puppis Sector NI-K a8-3
+LP 245-10
+Xib Cail
+Shui Wei Sector CB-W b2-2
+LHS 139
+Kamuy
+LP 376-62
+CD-57 1054
+Morixa
+Puppis Sector SD-T b3-3
+Keltim
+Marici
+ICZ YP-X b1-0
+LP 440-38
+Piscium Sector IY-H a10-1
+Col 285 Sector TC-K a38-0
+StKM 1-662
+Yin Sector YU-Y b4
+Alrai Sector EV-P a5-2
+Col 285 Sector GX-Q b19-7
+Col 285 Sector FO-I a39-3
+Col 285 Sector GC-K c9-20
+Piscium Sector NE-G a11-1
+Col 285 Sector WZ-P d5-85
+LPM 746
+LHS 1366
+Clotti
+Lalande 30699
+Taran
+Stykyr
+LHS 2477
+Nokomis
+Maurr
+G 63-47
+G 165-13
+Holiacan
+Col 285 Sector JJ-I a39-1
+Alrai Sector BQ-P a5-2
+Hyades Sector PF-J a24-2
+Piscium Sector PX-U b2-0
+Puppis Sector DL-P a5-2
+LHS 1667
+Col 285 Sector JJ-I a39-7
+Crucis Sector JC-V b2-6
+Lapannodaya
+Col 285 Sector MZ-U b17-8
+Betel
+Millese
+LHS 1933
+MU Cancri
+Crucis Sector NC-V a2-1
+Crucis Sector OC-V a2-0
+Crucis Sector FM-V b2-0
+Alrai Sector NX-T b3-4
+Piscium Sector BX-J a9-1
+LP 283-3
+Alrai Sector NC-M a7-4
+Tascheter Sector NS-T a3-4
+Shui Wei Sector FS-Q a6-0
+Lalande 18115
+Puppis Sector BA-A d67
+Alrai Sector NS-T b3-1
+Alrai Sector PN-T b3-5
+Alrai Sector GQ-P a5-1
+Col 285 Sector GK-P a35-3
+Alrai Sector LC-M a7-0
+Scorpii Sector CQ-Y b4
+Hajo
+Col 285 Sector TQ-N a36-3
+CF 17413
+Aritimi
+Piscium Sector UF-N a7-2
+Scorpii Sector XZ-Y b4
+Aryak
+HR 4979
+Hydrae Sector EW-W b1-3
+Scorpii Sector FV-Y a4
+Haghole
+Sharru Sector KH-V b2-3
+Col 285 Sector SW-L a37-0
+LEP 106
+Scorpii Sector EV-Y a3
+Tascheter Sector GM-V a2-3
+Col 285 Sector UW-L a37-0
+Alrai Sector GR-V b2-5
+Col 285 Sector AJ-R a34-3
+Alrai Sector UO-R a4-2
+Crucis Sector MI-K a8-4
+Perkunas
+Alrai Sector VD-T a3-1
+Puppis Sector JH-V b2-1
+Herculis Sector HW-W b1-1
+37 Geminorum
+Hydrae Sector IC-V b2-1
+Alrai Sector IR-W c1-34
+BD+08 1303
+LTT 1349
+WISE 0647-6232
+Shambogi
+Crucis Sector JN-K a8-5
+LP 751-15
+Yin Sector EQ-Y b4
+Dervin
+Piscium Sector PZ-O a6-0
+Trianguli Sector OO-Q a5-2
+Yin Sector GW-W c1-26
+Indrians
+GCRV 60445
+Trianguli Sector IN-S a4-5
+Bolones
+Tascheter Sector IM-V a2-3
+Alrai Sector TD-T a3-5
+Crucis Sector JN-K a8-0
+Trianguli Sector IN-S a4-0
+Trianguli Sector PO-Q a5-4
+Col 285 Sector JY-S a33-0
+Idzumoku
+Trianguli Sector SZ-O a6-1
+Thesan
+Robor
+Col 285 Sector BI-K a38-2
+LHS 3484
+Sutekh
+Alrai Sector YJ-R a4-4
+Alrai Sector KX-T b3-0
+Alrai Sector LH-M a7-1
+Tascheter Sector AA-Z b5
+Lachesis
+Alrai Sector IW-N a6-4
+Gunapiti
+Col 285 Sector PY-R d4-95
+Piscium Sector PT-Q a5-5
+Puppis Sector DQ-Y b4
+Puppis Sector GW-N a6-6
+LTT 12657
+LTT 15068
+Col 285 Sector JP-G a40-6
+Nohock Ek
+Crucis Sector HR-W c1-17
+LTT 9310
+Col 285 Sector KE-V b17-6
+Tascheter Sector GB-X a1-2
+Trianguli Sector RZ-O a6-1
+Col 285 Sector EP-P a35-0
+Tascheter Sector JM-V a2-1
+Kaurawish
+Alrai Sector TI-T a3-3
+Herculis Sector HW-W b1-4
+CD-43 11917
+Piscium Sector RK-N a7-2
+Pi Mensae
+Col 285 Sector OT-H c10-15
+Crucis Sector KN-K a8-2
+Piscium Sector MN-S a4-0
+Col 285 Sector LV-E a41-2
+BD-03 3952
+Crucis Sector OT-R b4-4
+UGP 145
+Piscium Sector VZ-O a6-1
+Col 285 Sector JP-G a40-3
+Col 285 Sector GJ-I a39-2
+Herculis Sector SD-T b3-6
+Tascheter Sector EG-X b1-1
+Cephei Sector ON-T b3-1
+Alrai Sector HW-N a6-4
+Col 285 Sector LQ-N a36-2
+Trianguli Sector VU-O a6-2
+Yin Sector YZ-Y b2
+Alba
+Alrai Sector YU-P a5-1
+Piscium Sector UK-N a7-1
+Wolf 5
+Alrai Sector VO-R a4-2
+Col 285 Sector NZ-U b17-5
+Alrai Sector EQ-P a5-3
+Piscium Sector IY-H a10-0
+Puppis Sector EW-N a6-1
+Alrai Sector EQ-P a5-2
+Alrai Sector XO-R a4-0
+Col 285 Sector LK-P a35-0
+Col 285 Sector CC-R b19-6
+Tascheter Sector NY-R a4-2
+Col 285 Sector GO-I a39-2
+Crucis Sector NI-T b3-4
+Crucis Sector GC-M a7-3
+Col 285 Sector ED-K a38-0
+Col 285 Sector HP-P a35-0
+Sharru Sector LH-V b2-4
+Col 285 Sector DC-R b19-3
+Col 285 Sector FO-I a39-0
+Col 285 Sector IP-G a40-0
+37 Ceti
+Eurus
+Tiamat
+Trianguli Sector LT-Q a5-2
+Piscium Sector DB-W a2-1
+Crucis Sector JN-K a8-2
+Crucis Sector IC-M a7-0
+Col 285 Sector AC-R b19-4
+Jastreb Sector HH-M a7-0
+Crucis Sector EW-W c1-20
+Hyades Sector MZ-K a23-2
+Crucis Sector HC-M a7-1
+Ross 735
+Trianguli Sector OO-Q a5-1
+Puppis Sector ZZ-Y b0
+LTT 8788
+Alrai Sector JH-V b2-6
+Cephei Sector TO-R b4-4
+Alrai Sector EQ-P a5-4
+LHS 2126
+LP 793-33
+Col 285 Sector RT-R d4-100
+212 Puppis
+LTT 9181
+HR 7454
+Piscium Sector YQ-L a8-0
+Ceti Sector RJ-Q b5-2
+Piscium Sector DM-U a3-0
+Alrai Sector EW-N a6-2
+Puppis Sector JC-M a7-0
+LTT 8708
+Col 285 Sector AR-S b18-7
+Alrai Sector ZJ-R a4-3
+Col 285 Sector BR-S b18-0
+LFT 1204
+BD-11 192
+Crucis Sector EW-N a6-3
+Puppis Sector DL-Y d142
+Alrai Sector YU-P a5-3
+Crucis Sector IC-M a7-4
+CD-56 1032
+Alrai Sector ZJ-R a4-4
+Alrai Sector UI-T a3-1
+Col 285 Sector WW-L a37-2
+Col 285 Sector LT-V b17-3
+LTT 10482
+Hathor
+Trianguli Sector IC-V b2-5
+Puppis Sector DW-N a6-0
+Alrai Sector TI-T a3-4
+LHS 1351
+CD-42 7240
+59 Draconis
+Pepper
+Ross 439
+LP 608-70
+Puppis Sector GW-W c1-14
+Cephei Sector NN-T b3-5
+Bei Dou Sector ZE-A c16
+Ross 620
+Core Sys Sector TD-T a3-2
+Col 285 Sector OE-R a34-1
+Puppis Sector DL-Y d92
+Crucis Sector SO-R a4-0
+Piscium Sector DX-J a9-1
+EZ Piscium
+Trianguli Sector CH-L a8-2
+Crucis Sector OI-T a3-3
+Puppis Sector BW-N a6-0
+Crucis Sector FW-N a6-1
+Ceti Sector GR-V b2-6
+Adjukru
+Puppis Sector QI-T b3-3
+BD-18 394
+Puppis Sector NX-U b2-3
+AD Leonis
+Gamma Tucanae
+Col 285 Sector LT-V b17-2
+Caer Sidi
+50 Omega Tauri
+Col 285 Sector KP-G a40-4
+Col 285 Sector LP-G a40-3
+Alrai Sector QN-K a8-2
+Core Sys Sector DL-Y d118
+LFT 460
+Dierfar
+Crucis Sector OT-R b4-6
+Col 285 Sector OY-S a33-1
+Alrai Sector FB-O a6-4
+Kistha
+Alrai Sector YO-R a4-0
+Alrai Sector HR-V b2-1
+Trianguli Sector UF-N a7-2
+Col 285 Sector IJ-I a39-4
+LP 452-10
+Col 285 Sector RQ-N a36-1
+Piscium Sector HH-V b2-2
+Koraik
+Ah Kin
+Core Sys Sector HH-M a7-0
+Alrai Sector WI-T a3-0
+Tascheter Sector BL-O a6-1
+Col 285 Sector XW-L a37-1
+Crucis Sector SO-R b4-5
+Tascheter Sector AA-Z b2
+Crucis Sector MN-T b3-5
+Piscium Sector GS-S a4-1
+Scorpii Sector IB-X a1-1
+Trianguli Sector QZ-O a6-4
+El
+Alpheratz
+Moultac
+Puppis Sector KC-M a7-4
+Sharru Sector ON-T b3-4
+Piscium Sector JY-H a10-2
+Crucis Sector CL-Y d152
+Wayaliti
+Col 285 Sector FX-Q b19-5
+Trianguli Sector KN-S a4-2
+Piscium Sector JY-H a10-0
+Dylan Eil Ton
+LP 263-35
+Trianguli Sector TO-R b4-4
+Crucis Sector QI-T a3-1
+Alrai Sector HM-V b2-1
+Shui Wei Sector JI-S b4-6
+Col 285 Sector NV-E a41-3
+Crucis Sector FB-X b1-3
+Core Sys Sector SI-T a3-2
+LTT 12018
+Alrai Sector YZ-Y b6
+Core Sys Sector HH-M a7-3
+Ross 747
+Ceti Sector BV-Y c17
+Tascheter Sector MH-V a2-2
+Col 285 Sector MK-P a35-2
+Crucis Sector EB-O a6-2
+Piscium Sector FD-I a10-1
+NLTT 19993
+Lalande 15290
+HR 7012
+Col 285 Sector JX-U a32-0
+Dulla
+Tascheter Sector HM-V a2-1
+HIP 40170
+Yin Sector YO-A b5
+Weywotya
+Ross 880
+Crucis Sector VJ-R a4-2
+Col 285 Sector LQ-N a36-3
+LHS 3281
+Core Sys Sector VJ-R a4-3
+Trianguli Sector JC-V b2-7
+Trianguli Sector CM-L a8-2
+LP 316-604
+LP 307-8
+Tascheter Sector RY-R a4-3
+Col 285 Sector BR-S b18-2
+LHS 1950
+Alrai Sector GW-V b2-4
+Piscium Sector FD-I a10-0
+Crucis Sector GH-V b2-7
+Tascheter Sector IS-K a8-2
+LHS 3411
+NLTT 47555
+Trianguli Sector NO-Q a5-0
+Trianguli Sector HN-S a4-0
+21 Leonis Minoris
+Tascheter Sector HX-K a8-1
+Crucis Sector CB-O a6-3
+Col 285 Sector GI-P b20-8
+Col 285 Sector LI-X b16-2
+Shui Wei Sector FC-U b3-3
+Crucis Sector IC-M a7-6
+Crucis Sector CL-Y d126
+Tegmen
+Alrai Sector JW-N a6-2
+Alrai Sector IW-N a6-0
+Col 285 Sector JU-G a40-1
+Crucis Sector RO-R b4-4
+Hagr
+Alrai Sector YO-R a4-3
+Puppis Sector EL-Y c31
+Col 285 Sector RZ-C b14-3
+Perun
+Crucis Sector MN-T b3-7
+Tascheter Sector XE-Q a5-2
+Alrai Sector CK-R a4-3
+Crucis Sector ZU-P a5-4
+Puppis Sector HR-N a6-2
+Rho Coronae Borealis
+Gamma Crateris
+Zandu
+Ganga
+Col 285 Sector LK-P a35-1
+Jupali
+Cettal
+Crucis Sector XJ-R a4-1
+Alrai Sector OC-V b2-3
+LHS 480
+Col 285 Sector FJ-I a39-1
+Col 285 Sector BI-K a38-1
+Col 285 Sector AR-S b18-6
+Piscium Sector YU-Y c17
+Piscium Sector LY-H a10-1
+LHS 2610
+Crucis Sector FH-M a7-4
+Puppis Sector ZZ-Y b1
+Col 285 Sector TQ-N a36-2
+LHS 3610
+Bei Dou Sector CQ-Y b4
+Weir
+Crucis Sector EB-O a6-1
+Puppis Sector ZE-R a4-0
+Ikpenones
+Wakaparibe
+Alrai Sector AV-Y b5
+Maiawa
+Cephei Sector BA-A d103
+Col 285 Sector ZH-K a38-1
+Bunuras
+LTT 7903
+Asteria
+Piscium Sector IY-H a10-2
+LHS 1217
+Col 285 Sector ZH-K a38-2
+Col 285 Sector MP-G a40-2
+Herculis Sector TY-S b3-2
+LHS 483
+Scorpii Sector FW-W b1-6
+Taurinmuth
+Sharru Sector BV-Y b1
+Crucis Sector PX-U a2-0
+Puppis Sector JC-M a7-2
+Tascheter Sector KH-V a2-0
+Col 285 Sector IY-V b17-1
+Capo
+Piscium Sector UZ-O a6-2
+LTT 16764
+PPM 41187
+Col 285 Sector PY-R d4-103
+Chemaku
+Blati
+Cephei Sector NX-U b2-6
+Crucis Sector PT-R b4-6
+Col 285 Sector RD-Y b15-4
+Col 285 Sector SV-N a36-0
+Crucis Sector MI-K a8-3
+Col 285 Sector FX-Q b19-2
+Galibi
+Piscium Sector KY-Q a5-3
+Dalfur
+Aldebaran
+Alrai Sector GB-O a6-1
+Col 285 Sector PE-R a34-5
+Alrai Sector IB-O a6-2
+Puppis Sector XJ-R a4-1
+Piscium Sector DM-U a3-4
+Bao Yan Luo
+Shalim
+LFT 1487
+Piscium Sector QT-Q a5-1
+Piscium Sector UZ-O a6-3
+Piscium Sector YF-N a7-1
+Trianguli Sector UU-O a6-3
+Col 285 Sector JP-G a40-0
+Crucis Sector IC-M a7-5
+Col 285 Sector OV-E a41-0
+Tascheter Sector SY-R a4-1
+Piscium Sector GS-J a9-2
+Jaung
+Yhi
+Sokn
+Anna Perenna
+Crucis Sector FH-M a7-0
+Smethells 97
+Addo
+Crucis Sector XO-R a4-1
+Crucis Sector XO-R a4-3
+Piscium Sector HR-W c1-12
+Puppis Sector GW-W c1-13
+Cephei Sector MC-V b2-5
+Col 285 Sector MK-P a35-0
+Col 285 Sector PQ-N a36-1
+Col 285 Sector BJ-R a34-2
+LP 448-41
+Wardaliti
+CD-24 10236
+Hyades Sector WK-E b12-3
+BD+10 4534
+Atropos
+Trianguli Sector YA-N a7-2
+Alrai Sector FV-P a5-4
+HR 5451
+Cephei Sector QI-T b3-7
+Brunne
+Crucis Sector RI-T a3-0
+Alignak
+LTT 7876
+Tascheter Sector ST-R a4-0
+Trianguli Sector CM-L a8-3
+Trianguli Sector NO-Q a5-4
+Nekhbet
+Puppis Sector YE-R a4-6
+Col 285 Sector QZ-C b14-1
+Tascheter Sector GR-M a7-0
+Cauani
+Col 285 Sector DD-K a38-2
+Col 285 Sector FX-Q b19-4
+Piscium Sector TF-N a7-1
+Crucis Sector XO-R a4-5
+Crucis Sector OI-T a3-1
+Tascheter Sector CL-O a6-1
+LP 635-46
+TYC 82-953-1
+LTT 14761
+LHS 205
+Core Sys Sector TI-T a3-1
+Col 285 Sector II-P b20-7
+Col 285 Sector AD-K a38-6
+Col 285 Sector IJ-I a39-0
+Garuna
+Crucis Sector TI-T a3-2
+Alrai Sector KH-M a7-2
+Tascheter Sector BL-O a6-2
+Trianguli Sector RZ-O a6-3
+Kuruages
+Alrai Sector JW-N a6-1
+LFT 698
+AT Coronae Borealis
+Piscium Sector DX-J a9-2
+Mi Linkampi
+Piscium Sector HS-J a9-2
+LHS 512
+e Geminorum
+Har
+Wolf 1132
+Piscium Sector GS-J a9-1
+Crucis Sector BQ-Y c26
+Crucis Sector YP-X b1-1
+Col 285 Sector AC-R b19-3
+Alrai Sector WO-R a4-3
+Albarib
+Aequeelg
+HR 7294
+LHS 397
+Piscium Sector XQ-L a8-0
+Trianguli Sector RZ-O a6-0
+NLTT 45170
+111 Tauri
+Do Canum Venaticorum
+Crucis Sector FG-Y c15
+Tascheter Sector NY-R a4-0
+Crucis Sector SD-T a3-3
+BD+33 3339
+Lusonda
+Scorpii Sector ZU-Y b3
+Tascheter Sector BV-Y b2
+Trianguli Sector TZ-O a6-0
+Col 285 Sector HK-P a35-3
+Crucis Sector ZU-P a5-0
+V1090 Herculis
+Puppis Sector DQ-P a5-0
+Shui Wei Sector OO-Q b5-2
+Piscium Sector OE-P a6-0
+Aeng Dimo
+Scorpii Sector DV-Y a4
+Col 285 Sector YQ-S b18-5
+Alrai Sector UO-R a4-1
+Piscium Sector YQ-L a8-1
+Maghiri
+Tascheter Sector IM-M a7-1
+Hyades Sector PL-H a25-1
+LFT 1209
+Puppis Sector KC-M a7-3
+Tascheter Sector LH-V b2-1
+Col 285 Sector DC-R b19-5
+Annarr
+Crucis Sector DL-Y c15
+15 Leonis Minoris
+BD+87 118
+Col 285 Sector ED-K a38-1
+Llyr
+Crucis Sector DW-N a6-3
+Kongkomisso
+Kartam
+Col 285 Sector SQ-N a36-3
+Ngolibardu
+LTT 12990
+LSE 239
+LTT 95
+Ceti Sector ND-S b4-1
+Kapp
+Shokondii
+Kaupolock
+Trianguli Sector PO-Q a5-1
+Darahk
+LFT 1454
+Trianguli Sector OT-Q a5-2
+Uzumoxii
+Tascheter Sector GM-V a2-4
+Yin Sector ZZ-Y b0
+Col 285 Sector DC-R b19-2
+Regira
+Sukuruaco
+Col 285 Sector DO-I a39-1
+Trianguli Sector CH-L a8-3
+Endr
+Tascheter Sector FW-W c1-25
+LP 91-140
+Tascheter Sector ZF-O a6-0
+Dierites
+Hayimstae
+Alrai Sector DL-Y c31
+Garib
+Alrai Sector FV-P a5-3
+Brizo
+Seginus
+LTT 9821
+Cosi
+Postverta
+V1402 Orionis
+Tascheter Sector QT-R a4-1
+Piscium Sector ZQ-L a8-1
+Trianguli Sector ZF-N a7-0
+HERZ 13422
+Hyades Sector VA-M b8-3
+Herculis Sector CQ-Y b0
+Alrai Sector CK-R a4-4
+NLTT 21440
+Piscium Sector DX-J a9-0
+Wi
+LHS 3385
+Belu
+Col 285 Sector EX-Q b19-4
+Xang Tzu
+Tascheter Sector FB-X b1-7
+Tascheter Sector FB-X b1-6
+Aiabiko
+Tascheter Sector FG-X a1-3
+Tascheter Sector KM-V a2-2
+LHS 1852
+Tirnitz
+Puppis Sector JR-N a6-1
+Puppis Sector JR-N a6-0
+90 G. Canis Majoris
+Sanos
+Hyades Sector PF-J a24-1
+Puppis Sector JR-W b1-5
+Trianguli Sector ZA-N a7-1
+Tascheter Sector FG-X a1-1
+LHS 2368
+Tascheter Sector WZ-P a5-1
+LHS 117
+Kamchata
+Macu Kung
+Col 285 Sector OW-L a37-4
+p Velorum
+Alrai Sector RN-K a8-0
+Tascheter Sector DG-O a6-3
+Sesmetae
+Crucis Sector FB-X b1-4
+Crucis Sector FB-X b1-2
+13 Orionis
+LHS 3756
+Alrai Sector GQ-P a5-3
+Crucis Sector JC-V b2-7
+Epsilon Cygni
+Tascheter Sector OX-U b2-7
+Gullion
+LP 254-26
+Atum
+Piscium Sector CX-J a9-3
+Anekaliti
+L 119-33
+LP 355-65
+Tascheter Sector GR-M a7-3
+LHS 1814
+Piscium Sector PT-Q a5-3
+Piscium Sector TF-N a7-2
+LP 478-73
+Cerno
+V371 Normae
+Crucis Sector MI-T b3-6
+Orgelal
+Crucis Sector CB-O a6-2
+Col 285 Sector PT-H c10-13
+Alrai Sector JR-V b2-6
+Piscium Sector PE-P a6-1
+LP 385-58
+Alrai Sector FB-X c1-21
+Hyades Sector QF-J a24-1
+Crucis Sector AV-P a5-3
+Crucis Sector GW-W b1-8
+Beta Caeli
+Prakriti
+Alrai Sector DQ-P a5-3
+Puppis Sector IM-V b2-1
+Tascheter Sector BQ-Y c21
+Piscium Sector TO-R b4-5
+Ceti Sector CQ-Y d98
+Alrai Sector YU-P a5-2
+Puppis Sector GW-N a6-1
+Puppis Sector ZJ-R a4-1
+Col 285 Sector TQ-N a36-1
+G 123-49
+STF 1774
+Huh
+Uluri
+Abi
+Alrai Sector TI-T a3-1
+Puppis Sector FW-N a6-2
+G 180-18
+LP 883-185
+Tascheter Sector RY-R a4-0
+Alrai Sector VI-T a3-1
+Muscida
+Col 285 Sector IS-U a32-3
+Core Sys Sector RT-R b4-5
+LFT 1765
+Col 285 Sector RQ-N a36-3
+Alrai Sector XO-R a4-2
+Kuma
+Piscium Sector ZU-X a1-1
+LHS 3725
+BD+15 176
+Lhan
+Lir
+Sun Wen
+LTT 15461
+Tau-1 Eridani
+Col 285 Sector XG-Z b15-2
+Puppis Sector HM-V b2-5
+Crucis Sector NY-R b4-5
+Crucis Sector GR-W c1-22
+Crucis Sector NT-I a9-0
+Crucis Sector XU-P a5-1
+LHS 3808
+Trianguli Sector CM-L a8-0
+Tascheter Sector TZ-P a5-3
+Col 285 Sector JJ-I a39-0
+Puppis Sector DL-P a5-4
+LP 274-24
+Sotuki
+Corngaranga
+Wolf 620
+Tascheter Sector LH-V b2-3
+LP 826-603
+LHS 1124
+LFT 98
+LHS 1225
+Arabh
+LFT 42
+LHS 3221
+Meiri
+Core Sys Sector JH-M a7-0
+Scorpii Sector CQ-Y b2
+Alrai Sector VI-T a3-3
+Tascheter Sector MN-T a3-2
+Puppis Sector IR-W c1-26
+Herculis Sector MX-U b2-1
+Crucis Sector BQ-P a5-0
+Core Sys Sector YU-P a5-0
+Tascheter Sector FG-X b1-2
+Crucis Sector IC-M a7-1
+Wo 9732
+HDS 123
+Muriges
+Wolf 1325
+Tascheter Sector AV-Y b5
+Tote
+Tzel
+Ix Chakan
+Hyades Sector TL-H a25-0
+Minmar
+Puppis Sector LC-M a7-2
+LP 658-44
+LTT 4497
+Theta Indi
+Ceri
+Ryu
+Asellus Secondus
+Pie
+Mahakala
+Puppis Sector IR-W c1-29
+Crucis Sector CV-Y b1
+LHS 6282
+Julannsa
+Piscium Sector PI-T b3-7
+Mexicatese
+Puppis Sector IR-W c1-13
+LP 379-62
+Cephei Sector ST-R b4-2
+Hach
+Formorians
+Piscium Sector ZK-X b1-0
+NLTT 8422
+Tyn
+Baijio
+Col 285 Sector IT-W b16-5
+Amun
+Puppis Sector GW-W c1-23
+Tascheter Sector SY-S b3-5
+Puppis Sector GW-W c1-26
+BD-22 286
+Nervir
+Alrai Sector JB-O a6-2
+LTT 2396
+Boloo
+Misisture
+Crucis Sector MI-K a8-2
+Ross 754
+Navajoar
+Core Sys Sector XU-P a5-1
+Sharru Sector BG-X b1-2
+Puppis Sector MC-V b2-4
+LP 415-1446
+Tommo
+Regulus
+Blenu
+Inggale
+Ross 733
+Vanir
+Conneda
+Chelgit
+Hyades Sector YW-I b10-4
+Hyades Sector AS-I b10-2
+Hyades Sector WL-K b9-1
+Puiku
+BD-22 6219
+Didarengu
+Core Sys Sector TD-T a3-0
+Col 285 Sector VW-L a37-0
+Arabakti
+Puppis Sector HM-V b2-4
+Mantja
+Yan Yun Oya
+Njunmin
+V447 Lacertae
+Crucis Sector LN-T b3-5
+Bei Dou Sector EB-X b1-2
+Trianguli Sector HN-S a4-1
+Sedia
+Ga'anjob'al
+Cephei Sector RD-T b3-3
+Puppis Sector IR-W c1-28
+Yamahun
+Puppis Sector HM-V b2-3
+Moroecani
+LHS 1882
+BPM 890
+Rho Geminorum
+Isis
+BD+22 2632
+Bei Dou Sector JC-V b2-3
+BD-17 6172
+Crucis Sector XJ-A c20
+LFT 507
+Omumbojas
+Trianguli Sector BM-L a8-2
+Alrai Sector BQ-Y c25
+Agwe
+Bei Dou Sector FW-W b1-1
+Col 285 Sector AR-S b18-5
+Yuqui
+Piculta
+Col 285 Sector IY-V b17-0
+Col 285 Sector ES-X b16-4
+LTT 3305
+Crucis Sector PI-T a3-0
+Tascheter Sector MH-V a2-0
+BAG 7
+van Maanen's Star
+LP 988-175
+Trianguli Sector YF-N a7-0
+CC Eri
+Trianguli Sector UU-O a6-4
+Mahimata
+Sigma-2 Ursae Majoris
+MCC 813
+Crucis Sector AV-P a5-0
+Tascheter Sector YK-O a6-0
+Baraswar
+Puppis Sector ZJ-R a4-0
+LFT 1664
+Donner
+Dadal
+Col 285 Sector YQ-S b18-6
+LP 417-213
+DQ Tucanae
+ICZ ZU-X b1-1
+69 G. Carinae
+Core Sys Sector ON-T b3-7
+Tascheter Sector ZZ-P a5-1
+Crucis Sector JC-V b2-3
+L 32-8
+Yam
+Alrai Sector ZU-P a5-2
+Tascheter Sector QT-R a4-3
+Valki
+Col 285 Sector AC-R b19-2
+Col 285 Sector GM-W a31-2
+Alrai Sector ZU-P a5-0
+G 166-21
+LHS 1393
+Kunahpu
+Tiangchi
+Ceti Sector GR-V b2-4
+LP 342-14
+Piscium Sector PT-Q a5-7
+FF Andromedae
+Wudjal
+Tascheter Sector XE-Q a5-3
+V374 Andromedae
+Nyokojai
+Tau Cygni
+Crucis Sector AL-X b1-5
+Sin
+Hyades Sector YW-I b10-1
+Seleru Bao
+Evejitaense
+G 14-6
+LHS 1505
+LTT 4131
+Pachanwen
+Tau-3 Eridani
+Puppis Sector FR-N a6-0
+Uram
+Eme
+LPM 26
+Alrai Sector RI-T b3-3
+LHS 1765
+Parenses
+Tascheter Sector DL-Y d120
+Mellac
+Col 285 Sector OK-P a35-1
+Khnum
+SHY 35
+G 205-35
+Col 285 Sector PY-S a33-0
+Adeo
+LP 291-24
+Col 285 Sector GS-U a32-1
+LFT 1594
+Xingga
+LHS 3991
+Sabik
+Core Sys Sector QX-U a2-0
+HR 2548
+AY Indi
+Col 285 Sector NE-R a34-0
+Puppis Sector IC-M a7-1
+Jastreb Sector CB-X b1-7
+LP 912-32
+Anu
+Ross 1047
+Piscium Sector WU-P b5-1
+NN 3009
+Alrai Sector HB-O a6-2
+Chnouk
+Ngaledi
+Alrai Sector NH-M a7-2
+Alaunus
+LHS 3885
+Shu
+Tascheter Sector JH-V a2-2
+Tascheter Sector QY-R a4-0
+Col 285 Sector SJ-W b16-3
+EGM 823
+Ye'kuape
+Trianguli Sector DM-L a8-0
+Nox
+Trianguli Sector CM-L a8-4
+Trianguli Sector SZ-O a6-2
+Crucis Sector RO-R b4-3
+Ceti Sector FW-V b2-2
+Alrai Sector YE-A d108
+Crucis Sector OI-T b3-1
+Puppis Sector ZJ-R a4-4
+Eos
+Core Sys Sector TD-T a3-3
+NLTT 48633
+CR Draconis
+Duloskitoke
+Borr
+Chipiapoos
+Piscium Sector EM-U a3-0
+Alrai Sector VI-T a3-0
+Palis
+StKM 1-626
+Kweleutahe
+Bei Dou Sector JH-V b2-2
+Piscium Sector IH-V b2-4
+Crucis Sector KN-T b3-4
+Core Sys Sector VU-P a5-2
+Mwamba
+Murungh
+Neits
+Piscium Sector JY-H a10-1
+Piscium Sector GD-I a10-1
+Warninohan
+LHS 2314
+Tascheter Sector IM-V a2-0
+DE Bootis
+Tascheter Sector AV-Y b7
+Radiansan
+Scorpii Sector GB-X a1-0
+Trianguli Sector WA-N a7-1
+Piscium Sector QI-T b3-5
+SPOCS 308
+Oto
+YZ Fornacis
+HR 9046
+Ra
+Coelatuvean
+Col 285 Sector PQ-N a36-3
+Core Sys Sector DB-O a6-1
+CD-40 135
+Crucis Sector WJ-R a4-3
+Padhyas
+BD+37 968
+Tascheter Sector ZK-O a6-1
+Tascheter Sector HM-V b2-4
+Kolanji
+V774 Tauri
+LHS 3921
+Trianguli Sector PY-R b4-0
+1 i Centauri
+LDS 883
+Toromona
+LHS 1617
+Crucis Sector CL-Y d106
+Piscium Sector EB-X b1-2
+Largarayu
+MY Apodis
+Nabatean
+BPM 16002
+Cybele
+Main
+Piscium Sector GS-J a9-0
+Rod
+Tascheter Sector LS-T a3-3
+LFT 1482
+Crucis Sector JC-V b2-2
+Cephei Sector RD-T b3-4
+LP 298-52
+Piscium Sector ID-I a10-0
+LP 839-11
+LHS 1887
+LFT 601
+Gunnovale
+Shui Wei Sector NT-Q b5-7
+Medusa
+Agastani
+Akhvathaang
+Fates
+Piscium Sector IW-W b1-4
+Crucis Sector GH-V b2-6
+Col 285 Sector VW-L a37-2
+26 Draconis
+Ceti Sector EW-V b2-5
+LHS 3949
+CF 14857
+Kvikindi
+Piscium Sector AV-Y b5
+Nett
+LTT 3676
+Sharru Sector GW-W c1-15
+LHS 2029
+Col 285 Sector OE-R a34-0
+Crucis Sector IH-V b2-0
+Hydrae Sector DB-X b1-3
+Samequit
+BD-09 956
+Crucis Sector FB-X b1-8
+Crucis Sector DL-Y c29
+Saras
+Alrai Sector MH-M a7-6
+Tascheter Sector QT-R a4-0
+LHS 3080
+Kinich Ahau
+LHS 210
+HDS 1353
+Quanlu
+Col 285 Sector AR-S b18-2
+Tascheter Sector UE-Q a5-1
+Cerktondhs
+LP 869-42
+Alrai Sector FV-P a5-0
+LTT 7719
+LHS 3479
+LTT 15574
+LHS 3271
+Berkanan
+BD+22 2742
+Oshepra
+Geb
+Alrai Sector ZU-X b1-2
+LP 499-54
+Piscium Sector AV-Y b4
+Alrai Sector IM-V b2-7
+BD+03 3531a
+Andoe
+Amalangkan
+LHS 5268
+LHS 1453
+CD-75 661
+Crucis Sector DL-Y c23
+Crucis Sector EQ-Y b2
+Scorpii Sector YZ-Y b5
+Esege Malan
+UGPS 0722-05
+Crucis Sector IC-M a7-3
+Fomalhaut
+Ongerinja
+Tascheter Sector HM-M a7-1
+Core Sys Sector PN-T b3-3
+LP 63-267
+GD 215
+Trianguli Sector KS-T b3-5
+LFT 142
+Tamor
+Core Sys Sector IC-M a7-2
+Piscium Sector VZ-P b5-3
+LTT 123
+Nanauatzin
+GD 1212
+G 107-48
+LPM 616
+Puppis Sector GW-N a6-3
+Col 285 Sector ED-K a38-5
+Col 285 Sector CX-Y b15-5
+MCC 858
+Herculis Sector EL-Y b4
+VW Cephi
+Cephei Sector CA-A d91
+Piscium Sector QI-T b3-6
+Vivata
+Divja Mu
+Ovimbiabas
+Kunggi
+LFT 1
+Yimanbin
+Leerham
+LHS 3925
+MS Draconis
+Core Sys Sector BQ-P a5-3
+Trianguli Sector BM-L a8-0
+Jastreb Sector CB-O a6-0
+Herculis Sector GB-X b1-2
+Tascheter Sector GW-W c1-22
+Scorpii Sector YZ-Y b4
+BD+01 3657
+Sun Takush
+LHS 2310
+Tascheter Sector GB-X b1-5
+LHS 1885
+Bumbur
+NLTT 6992
+Hyades Sector CN-I b10-3
+Kausalya
+LHS 1507
+Tascheter Sector DR-M a7-0
+Sanka
+SPF-LF 1
+LDS 2314
+Talitha
+Antinica
+LP 302-22
+Yin Sector YE-A d109
+Piscium Sector XU-P b5-1
+BD+25 4085
+LHS 5354
+LP 71-165
+G 205-47
+V492 Lyrae
+Lokapuri
+G 205-38
+Bei Dou Sector AV-Y b0
+Wolf 33
+NLTT 49528
+LFT 671
+LTT 6774
+Scorpii Sector ZE-A c21
+Col 285 Sector WK-U b17-6
+Valtys
+Gacrux
+Puppis Sector QD-T b3-6
+LHS 2509
+Lalande 13427
+LTT 4487
+Luyten 145-141
+V867 Monocerotis
+LHS 1697
+Pemede
+Jastreb Sector GR-W c1-27
+Rex
+Furuhjelm III-674
+LTT 16016
+Cephei Sector RD-T b3-5
+Dyr
+Hakkinoha
+Batara Kala
+Ross 248
+Ross 33
+LAWD 26
+Trianguli Sector LI-S a4-1
+Tascheter Sector QN-T a3-1
+Trianguli Sector DL-Y c10
+Trianguli Sector JI-S a4-3
+Trianguli Sector PO-Q a5-5
+G 203-51
+V388 Cassiopeiae
+Piscium Sector EB-X b1-1
+Core Sys Sector AQ-P a5-1
+LP 353-74
+Kared
+Trianguli Sector KI-S a4-0
+LTT 13805
+Manglal
+OU Geminorum
+Tascheter Sector CG-X b1-1
+BD+31 2373
+Wolf 409
+Keian Gu
+Piscium Sector RT-Q a5-2
+Michael Pantazis
+LP 410-93
+LHS 1375
+Shibboleth
+Dinda
+Frigaha
+Col 285 Sector PE-R a34-2
+LTT 5455
+Guy
+G 41-9
+Cet
+HR 2883
+Yin Sector XZ-Y b2
+Crucis Sector PC-V a2-2
+LHS 301
+Priva
+Labe
+Negriti
+LP 60-205
+47 Ursae Majoris
+Seeti
+Aphros
+CD-47 399
+Col 285 Sector SQ-N a36-5
+MCC 39
+Magna Dea
+Kipsigines
+Lowne 1
+LHS 178
+LHS 262
+Col 285 Sector NZ-U b17-6
+Piscium Sector EW-W c1-16
+LHS 2088
+LHS 450
+HR 2906
+LP 840-15
+Wolf 922
+EZ Aquarii
+LP 926-40
+Fousang
+LP 640-43
+Hakkipikki
+DT Virginis
+Trianguli Sector XA-N a7-1
+Teaka
+LHS 1963
+15 Lambda Aurigae
+BD+28 3900
+Chaac
+Col 285 Sector EO-I a39-1
+LHS 1387
+LP 732-94
+Col 285 Sector BI-K a38-0
+CD-58 538
+Tascheter Sector WE-Q a5-2
+Ambibates
+Laifangyi
+LTT 5775
+Djedet
+LHS 6354
+h Draconis
+Aplu
+LFT 446
+LP 404-66
+Codorain
+Tascheter Sector BL-O a6-3
+Meldrith
+LHS 368
+Ross 556
+George Pantazis
+Tascheter Sector CL-Y d99
+Carmenta
+Alrai Sector CV-P a5-0
+Alrai Sector BK-R a4-4
+GD 279
+LTT 7448
+Piscium Sector ST-Z a1
+Piscium Sector AR-L a8-2
+Kharinda
+Shudun Sector AA-A d132
+Zemez
+LHS 392
+Rabay
+BD-01 3474
+LP 339-7
+LP 285-5
+Huiche
+G 130-9
+Juan
+LAWD 80
+UV Ceti
+Alrai Sector JW-W b1-6
+Stein 2051
+Epsilon Eridani
+Lacaille 8760
+Core Sys Sector GH-M a7-0
+L 174-28
+Sisii
+Hecate
+G 218-5
+V640 Cassiopeia
+Piscium Sector AL-X b1-6
+G 41-14
+LHS 2459
+Miola
+G 35-15
+Kapteyn's Star
+Zeta Doradus
+Cephei Sector IW-W b1-4
+Piscium Sector PI-T b3-0
+Fortuna
+GD 140
+G 29-18
+Shui Wei Sector DB-X c1-18
+NLTT 6667
+1 Hydrae
+LFT 179
+Puppis Sector CQ-Y c18
+Trianguli Sector KS-T b3-4
+2E 604
+LHS 1731
+Tascheter Sector YE-Q a5-1
+Tascheter Sector DG-O a6-2
+Epsilon Sculptoris
+G 274-72
+16 Cygni
+LP 263-64
+Proteus
+Core Sys Sector DL-Y d133
+Komovoy
+Murnakum
+Col 285 Sector ID-T a33-0
+Ceti Sector EW-V b2-4
+Mazahuanses
+Shui Wei Sector GH-U b3-2
+Castor
+Mullag
+Zelano
+Telchine
+Ross 279
+LFT 880
+Bedaho
+Malannher
+LP 90-39
+Zosma
+NLTT 13249
+Wolf 386
+Crucis Sector HH-V b2-4
+LHS 252
+Gliese 868
+LHS 470
+Core Sys Sector EW-N a6-1
+Ofan
+Wathiparian
+LHS 256
+Panopi
+Trianguli Sector KS-T b3-6
+Crucis Sector LC-V b2-8
+Wolf 896
+LP 906-9
+Bunda
+Alrai Sector QC-V a2-4
+Eta Cassiopeiae
+Jaudugayo
+Jen Elabog
+BD+04 4988
+Puppis Sector BV-Y b5
+Alrai Sector WO-R a4-2
+Don
+Col 285 Sector XV-S b18-7
+Puppis Sector CV-Y b4
+Wolf 1494
+Sharru Sector LS-T b3-1
+LHS 112
+Alrai Sector VO-R a4-3
+59 Virginis
+LHS 153
+Marduk
+Crucis Sector NY-R b4-7
+Core Sys Sector CQ-P a5-0
+Xi Ophiuchi
+Sikarici
+PY Vulpeculae
+Apura
+Crucis Sector CB-O a6-0
+LTT 4835
+Gwaelod
+Phi-2 Pavonis
+HR 5243
+b2 Carinae
+Lalande 38451
+Cathbadah
+Wonorne Nu
+Piscium Sector CM-U a3-2
+Noegin
+Ross 210
+Scorpii Sector CQ-Y b9
+LTT 10918
+LP 340-547
+LHS 2217
+Core Sys Sector HW-N a6-1
+LFT 672
+Col 285 Sector WW-L a37-0
+Alrai Sector LH-M a7-0
+Scylla
+LTT 18432
+Picaurukan
+Crucis Sector YP-X b1-0
+HR 4758
+Hydrae Sector ZU-Y b2
+Dhanhopi
+LHS 1840
+Thoth
+Ga Gaun
+Sosolingati
+Enayex
+Ceramix
+LFT 392
+Grabi
+38 Cassiopeiae
+Luyten 205-128
+Bok
+Mebegernir
+Chamunda
+Arexack
+Elphin
+Uzumeru
+Gendalla
+Yum Kaia
+LTT 8456
+Wolf 427
+LHS 134
+Mbukuravi
+Ngaliba
+LTT 18486
+63 G. Capricorni
+Crucis Sector BB-O a6-0
+Bast
+Ninsun
+LP 5-88
+Groombridge 34
+LFT 1231
+LFT 1361
+Wolf 437
+Core Sys Sector DL-Y d130
+Alrai Sector DL-Y d111
+Puppis Sector BL-P a5-0
+Gun
+Sigma Pegasi
+Crucis Sector EW-W c1-23
+Rho Puppis
+Core Sys Sector EB-O a6-0
+LP 51-17
+Lopu Maris
+LFT 1376
+Col 285 Sector NQ-N a36-3
+Ao
+Khong Wang
+Nahundi
+HR 2866
+Puppis Sector EQ-Y b5
+V914 Scorpii
+39 Tauri
+Crucis Sector MI-K a8-5
+Crucis Sector HH-M a7-0
+PLX 695
+Walgan
+Ross 112
+Hlin
+LP 1-52
+Puppis Sector LC-V b2-6
+Alrai Sector OC-V a2-1
+Arcturus
+Col 285 Sector YC-K a38-0
+Col 285 Sector BD-K a38-1
+Wolf 587
+Alrai Sector DL-Y d122
+Tascheter Sector FG-X b1-1
+Ross 1019
+Crucis Sector CB-O a6-4
+ICZ YU-X b1-6
+Orishpucho
+13 Ceti
+LFT 377
+Tun
+Istanu
+LHS 1084
+Alioth
+Askr
+LP 704-15
+Lodemovoi
+Segais
+Narasimha
+Xihe
+Turnat
+G 173-39
+Duberdicus
+LHS 21
+LTT 4772
+LHS 1541
+Col 285 Sector SV-N a36-2
+Theta Cygni
+Stheno
+Altais
+Neto
+LP 455-12
+Thadshe
+17 Virginis
+Core Sys Sector UO-R b4-6
+Omicron Aquilae
+Genetrix
+Wolf 1148
+Guaras
+LTT 16301
+Alrai Sector DB-O a6-0
+Liasstrata
+Arque
+Djuhti
+Puppis Sector DG-X b1-3
+Adad
+HR 6836
+Col 285 Sector JX-U a32-3
+Ceti Sector GR-V b2-5
+Okinura
+LHS 2212
+LHS 2328
+Piscium Sector LY-H a10-4
+Hotas
+Jarnae
+Sharru Sector NN-T b3-4
+LHS 452
+Tellus
+LFT 1448
+Boreas
+Rakapila
+LTT 17156
+Phiince
+KUI 11
+Izanagi
+Yakabugai
+Charunder
+Nevermore
+Wadjali
+Col 285 Sector DJ-I a39-3
+BD-10 5238
+Ditibi
+LHS 1650
+LTT 8181
+Wolf 918
+Tascheter Sector GG-X a1-0
+Puppis Sector TO-R b4-5
+Hydrae Sector ZU-Y b4
+Agrippa
+HAT 94-00572
+HIP 4907
+G 59-7
+Danu
+Potriti
+LP 319-68
+Trianguli Sector VF-N a7-1
+LTT 11455
+LB 2449
+Carnsan
+LDS 46
+Cephei Sector KR-W b1-3
+LTT 606
+Marowalan
+Omega Andromedae
+Core Sys Sector MC-V b2-7
+Wolf 248
+ICZ CW-V b2-1
+LHS 3297
+Nu-2 Canis Majoris
+Ross 644
+LHS 1604
+Bestii
+Sama
+Col 285 Sector WV-S b18-1
+Xirang
+LHS 2771
+Yin Sector CL-Y d127
+Acan
+Nyx
+LP 104-2
+Kokary
+Afli
+Wolf 483
+VESPER-M4
+Snoquot
+G 246-26
+LP 45-128
+Kremainn
+Huokang
+Maujavant
+Alrai Sector IM-V b2-2
+Piscium Sector VZ-O a6-0
+LHS 2405
+BD+74 526
+LTT 6883
+LAWD 52
+6 Andromedae
+Ross 346
+36 Ursae Majoris
+Anlave
+BD-04 782
+Tyr
+LP 718-47
+Caraswang
+LP 621-11
+LHS 221
+G 122-60
+HR 3028
+Piscium Sector FB-X b1-5
+Hedetet
+Solati
+Alrai Sector OS-T b3-2
+Neche
+Clermeil
+LHS 1044
+Meliae
+6 Ceti
+Wolf 414
+Ki
+EGM 95
+Marizi
+BD-01 3500
+Aku
+Huilliche
+Metzili
+Fujin
+WW Piscis Austrini
+Crucis Sector HX-T b3-5
+Alrai Sector UI-T a3-2
+Scorpii Sector FB-X a1-2
+NLTT 11599
+Puppis Sector GL-Y b8
+LHS 5072
+45 c Bootis
+Delkar
+Nagnatae
+L 484-31
+Herculis Sector CQ-Y b4
+G 224-46
+Tascheter Sector JM-V b2-5
+Puppis Sector DQ-P a5-2
+LAWD 68
+Pyemsito
+Aegilips
+Pan
+Momus Reach
+Crucis Sector MI-T b3-0
+Atfero
+LP 446-6
+LP 441-33
+Cai
+LHS 3447
+Crucis Sector GH-M a7-3
+78 Iota Leonis
+Tascheter Sector KH-V a2-1
+Col 285 Sector FD-K a38-0
+Kwatiles
+CD-61 6651
+Diyu
+Synteini
+LTT 700
+Togher
+Dahan
+Crucis Sector IH-V b2-5
+Ross 1003
+Alrai Sector IM-V b2-6
+Tauernonese
+Nu Goryni
+Tascheter Sector EG-X a1-5
+Tascheter Sector EG-X a1-3
+Cupinook
+Ross 775
+LFT 1073
+PSPF-LF 2
+Elli
+Aecerbot
+Thethys
+V374 Pegasi
+Rasalhague
+LFT 950
+Wally Bei
+Algreit
+LHS 5240
+Perendi
+Crucis Sector MN-T b3-4
+Asgaa
+Shui Wei Sector FW-W d1-91
+Ot
+V1688 Aquilae
+Col 285 Sector OK-P a35-2
+Tascheter Sector FR-M a7-3
+G 203-47
+Gebel
+L 355-62
+LHS 3262
+Parcae
+Zeta Aquilae
+LHS 142
+Lalande 4141
+Core Sys Sector EW-N a6-0
+Shui Wei Sector HC-U b3-1
+Shui Wei Sector KI-S b4-3
+Tum
+Masans
+LFT 37
+Ceti Sector CQ-Y d89
+Tascheter Sector RT-R a4-0
+Ethgreze
+Beetrix
+Obe
+Tama
+Beatis
+Sharru Sector JH-V b2-4
+Brani
+Alrai Sector HR-W c1-10
+LFT 1446
+LHS 2995
+LP 447-38
+54 Piscium
+LP 329-18
+Belobog
+Changgu
+LHS 358
+Core Sys Sector WO-R a4-2
+LHS 3079
+78 Ursae Majoris
+Freng
+Crucis Sector ER-V b2-5
+VZ Corvi
+Struve 2398
+Zaraluvul
+Avik
+Autahenetsi
+LP 816-60
+Lacaille 9352
+BD+55 1519
+Bei Dou Sector BA-A d96
+LP 532-81
+Namaka
+Albina
+LHS 340
+Chongquan
+Shudun Sector AA-A d142
+70 Virginis
+LTT 7421
+Puppis Sector XJ-R a4-0
+TZ Arietis
+Lindol
+CM Draconis
+82 Eridani
+Wodimui
+Capella
+Adenets
+LHS 2661
+LTT 11503
+LTT 14094
+Bei Dou Sector IH-V b2-4
+GL Virginis
+Bhritzameno
+Ori
+Megrez
+LHS 1827
+Rhea
+Maljenni
+LP 415-18
+Ross 9
+Sharru Sector YZ-Y b3
+Chujohimba
+Cofalyawa
+Hsinga
+LHS 2637
+Fedmich
+G 95-22
+Eranin
+LHS 1516
+Hrunapori
+LHS 20
+Surya
+Shokwa
+LAWD 96
+Merti
+Caerus
+Mulachi
+LFT 747
+ICZ ZU-X b1-4
+19 Leonis Minoris
+Wolf 906
+Duwaredari
+LFT 65
+LP 37-75
+Vendemo
+Puppis Sector YE-R a4-4
+Bei Dou Sector JH-V b2-4
+LTT 183
+Ross 614
+Wodiwodi
+LFT 1505
+Alrai Sector KH-V b2-1
+Eta Cephei
+Prae
+Mazu
+Puppis Sector ON-T b3-5
+Zeessze
+LPM 173
+Ithaca
+Mizar
+Gateway
+Orannika
+Lenore
+Sharru Sector FW-W c1-19
+Hambula
+LHS 415
+LP 571-80
+Eravate
+Olgrea
+Alrai Sector GR-V b2-3
+Tanmark
+LHS 28
+G 139-50
+BD+41 1865
+LFT 163
+G 140-9
+Tascheter Sector EG-X a1-0
+Shui Wei Sector DW-V b2-4
+Yin Sector IW-W b1-2
+Col 285 Sector KY-S a33-1
+LHS 3531
+Wolf 406
+Core Sys Sector GH-M a7-1
+Puppis Sector EL-Y c17
+Ross 154
+LHS 1163
+Kigandan
+NLTT 46621
+Trianguli Sector UJ-R b4-2
+Core Sys Sector YJ-R a4-1
+Duamta
+NLTT 34715
+Onyaksas
+Aulin
+Altair
+LHS 2884
+Marasing
+Jastreb Sector AG-X b1-3
+CX Com
+Asellus Primus
+LHS 2936
+He Bo
+Core Sys Sector CQ-P a5-2
+Wolf 1487
+Ninabin
+LHS 547
+LHS 362
+Ashtart
+CPC 22 212
+Crucis Sector YE-A d146
+Puppis Sector IR-W b1-6
+Aganippe
+IV Comae Berenices
+LHS 3003
+G 241-62
+76 Sigma Ceti
+Wolf 359
+Kokojina
+Kuanes
+Col 285 Sector IK-P a35-0
+LHS 250
+Core Sys Sector BQ-P a5-2
+Core Sys Sector CQ-P a5-1
+LP 377-100
+LP 838-16
+LFT 69
+Yanyan
+LHS 1593
+Sharru Sector CL-Y d75
+CPD-67 2198
+Terravor
+DP Draconis
+Ndozins
+Toolfa
+Procyon
+Zhi
+Alcor
+LHS 2552
+Cebalrai
+Wyrd
+Den 1048-3956
+Ceti Sector BQ-Y d109
+LHS 6028
+Trianguli Sector AM-L a8-1
+Minerva
+Ribhniugo
+Wu Kuku
+WISE 0350-5658
+Manguts
+WISE 0855-0714
+Tiethay
+Luhman 16
+Alderamin
+Ross 1069
+Baedule
+Eurybia
+Apadipinook
+Kuk
+Alpha Centauri
+Amaterasu
+Barnard's Star
+Tau Ceti
+Andceeth
+LAWD 74
+Vega
+LHS 1552
+LFT 1421
+Chandh
+Ehi
+Cocijo
+Khernidjal
+CR Draco
+Lung
+Set
+Ross 555
+ICZ AB-W b2-2
+Choenpetese
+Crucis Sector ZK-X b1-5
+Slink's Eye
+Epsilon Indi
+Hill Pa Hsi
+70 Ophiuchi
+10 Canum Venaticorum
+Ceti Sector GW-V b2-1
+LFT 926
+Sesuang
+G 98-44
+Alrai Sector MH-M a7-0
+LHS 2948
+21 Draco
+Fuelum
+LHS 1928
+BD+03 1552
+G 113-20
+Styx
+61 Cygni
+LHS 3799
+Cephei Sector KR-W b1-1
+LHS 1807
+Aurai
+Gebo
+Asegezites
+LTT 8517
+Lalande 21185
+WISE 0410+1502
+Sirius
+Nanditi
+Ross 671
+Eea
+Crucis Sector OI-T b3-2
+G 179-7
+Shinrarta Dezhra
+Pancienses
+Hydrae Sector FW-W b1-3
+LTT 14437
+89 Leonis
+Luyten's Star
+Ross 129
+WISE 1405+5534
+Nanomam
+Amahu
+CQ Tucani
+Rahu
+Naitis
+Kappa Ophiuchi
+LHS 1064
+NLTT 55164
+Wolf 397
+Oliver and Ben's Beacon
+Sulis
+Mbooni
+Trappist-1
+Eva's Hush
+Ratri
+Wolf 25
+Dumnona
+Eta Coronae Borealis
+Witchhaul
+Guttun
+Ross 486
+Parnut
+Kubau
+HR 1594
+Pollux
+29 Arietis
+Amo
+14 Geminorum
+I Carinae
+Delta Pavonis
+Tiapalan
+LHS 2429
+Flousop
+Sol
+Alpha Hydri
+Bellica
+CD-44 1695
+HR 4413
+LFT 509
+LHS 2894
+LHS 2921
+LHS 3091
+Mingfu
+Witch's Reach
