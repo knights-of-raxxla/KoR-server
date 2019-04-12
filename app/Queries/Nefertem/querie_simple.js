@@ -7,7 +7,7 @@ const fs = require('fs');
 const _ = require('lodash');
 
 // let system = "Nefertem";
-let system = "LP 29-188";
+let system = "Maia";
 // let distance = 15; //al
 // let distance = 298; //al
 let distance = 20;
