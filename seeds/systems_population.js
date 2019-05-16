@@ -45,6 +45,7 @@ function isData(line) {
 
 exports.seed = function(_knex, Promise) {
     knex = _knex;
+    // return Promise.all([]);
     console.log('==== Seed des populations de EDSM ====');
     return reader.readFileLinesByChunk(population_json_edsm
         , 280000, insertSystemsChunk);

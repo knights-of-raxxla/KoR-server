@@ -23,7 +23,9 @@ let gas_types = [
     'Class V gas giant',
     'Gas giant with ammonia-based life',
     'Gas giant with water-based life',
-    'Hellium-rich gas giant',
+    'Helium-rich gas giant',
+    'Helium gas giant',
+    'Water giant'
 ];
 let t_tauri_name = 'T Tauri Star';
 const type_m = require('./_type_m.js');
@@ -61,6 +63,7 @@ function query(ids) {
         .select('systems.y as y')
         .select('systems.z as z')
         .select('systems.is_populated as is_populated');
+        .select('bodies.rotational_period_tidally_locked as body_is_tidal_locked')
 }
 
 let center_system = 'Sol';
@@ -145,7 +148,7 @@ expeRepo.getSystem(center_system)
                     let possible_stars = _.filter(bodies, b => {
                         if (b.system_id !== gaz.system_id) return false;
                         if (b.type !== 'Star') return false;
-                        star_types += b.sub_type;
+                        star_types += b.sub_type + '-';
                         system_stars_count ++;
                         if (type_m.indexOf(b.sub_type) > -1 || b.sub_type === t_tauri_name) {
                             m_or_tt = true;

@@ -68,7 +68,7 @@ exports.up = function(knex, Promise) {
         knex.schema.createTable('stations', function(table) {
             table.increments();
             table.string('name').notNullable();
-            table.integer('body_id').notNullable().unsigned();
+            table.integer('system_id').notNullable().unsigned();
             table.string('type');
             table.string('location').notNullable();
 
@@ -76,8 +76,8 @@ exports.up = function(knex, Promise) {
             table.dateTime('updated_at');
             table.boolean('archive');
 
-            table.foreign('body_id')
-                .references('bodies.id');
+            table.foreign('system_id')
+                .references('systems.id');
         }),
         knex.schema.createTable('factions', function(table) {
             table.increments();
