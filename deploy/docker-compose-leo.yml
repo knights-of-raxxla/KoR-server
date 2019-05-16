@@ -10,7 +10,7 @@ services:
           build: ./main
           tty: true
           volumes:
-            - ~/Documents/projects/KoR-server:/var/www/KoR-server
+            - ~/Documents/projects/perso/KoR-server:/var/www/KoR-server
           networks:
             local:
               ipv4_address: 172.111.0.110
