@@ -71,6 +71,8 @@ exports.up = function(knex, Promise) {
             table.integer('system_id').notNullable().unsigned();
             table.string('type');
             table.string('location').notNullable();
+            table.text('faction');
+            table.float('distance_from_arrival');
 
             table.dateTime('created_at');
             table.dateTime('updated_at');

@@ -20,6 +20,7 @@ class Container {
         dipsy.register('nodemailer', require('nodemailer'), [], false);
         dipsy.register('child_process', require('child_process'), [], false);
         dipsy.register('cheerio', require('cheerio'), [], false);
+        dipsy.register('tor-request', require('tor-request'), [], false);
 
          dipsy.register('BodiesModel', require('./Models/BodiesModel.js', [], false));
          dipsy.register('ExpeditionsSystemsUserModel'
@@ -65,6 +66,9 @@ class Container {
          , require('./Services/Email/Mailer.js'), ['nodemailer']);
          dipsy.register('MailFactory'
          , require('./Services/Email/MailFactory.js'));
+
+         dipsy.register('EDSM_API'
+         , require('./Services/API/EDSM_API.js'), ['tor-request']);
 
 
 

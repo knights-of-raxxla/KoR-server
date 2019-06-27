@@ -1,0 +1,25 @@
+const fs = require('fs');
+const _ = require('lodash');
+const os = require('os');
+
+let data = require('./edsm_incomplete.json') ;
+let sep = ';';
+out = "";
+
+data.forEach(row => {
+    let a = [
+        row.system_name,
+        row.reason,
+        (row.x / 32).toFixed(2),
+        (row.y / 32).toFixed(2),
+        (row.z / 32).toFixed(2)
+    ].join(sep);
+
+    out += a + os.EOL;
+});
+
+fs.writeFileSync('edsm_incomplete.csv', out);
+console.log('OK');
+process.exit(0);
+
+

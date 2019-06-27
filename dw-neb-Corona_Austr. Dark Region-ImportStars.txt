@@ -1,0 +1,78 @@
+R CrA Sector HR-W d1-55
+Corona Austr. Dark Region NI-S b4-3
+HIP 93689
+R CrA Sector JS-K b8-4
+R CrA Sector JS-K b8-0
+Corona Austr. Dark Region PD-S b4-2
+Corona Austr. Dark Region PD-S b4-1
+Corona Austr. Dark Region TJ-Q b5-3
+Corona Austr. Dark Region TJ-Q b5-2
+HIP 93783
+Corona Austr. Dark Region UJ-Q b5-0
+R CrA Sector JS-K b8-1
+Corona Austr. Dark Region BQ-Y d10
+R CrA Sector HR-W d1-85
+R CrA Sector DR-M b7-1
+R CrA Sector HX-K b8-2
+HIP 94065
+R CrA Sector HR-W d1-57
+R CrA Sector HR-W d1-104
+R CrA Sector HR-W d1-80
+R CrA Sector HX-K b8-0
+R CrA Sector JS-K b8-3
+R CrA Sector EM-M b7-3
+R CrA Sector EM-M b7-2
+Corona Austr. Dark Region UJ-Q b5-3
+Corona Austr. Dark Region HW-W c1-6
+R CrA Sector HR-W d1-54
+Corona Austr. Dark Region BQ-Y d44
+Corona Austr. Dark Region UJ-Q b5-1
+Corona Austr. Dark Region BQ-Y d115
+R CrA Sector HR-W d1-94
+Corona Austr. Dark Region PD-S b4-3
+R CrA Sector OI-T c3-1
+Corona Austr. Dark Region BQ-Y d113
+Corona Austr. Dark Region JH-V c2-16
+R CrA Sector IS-K b8-4
+Corona Austr. Dark Region TJ-Q b5-4
+R CrA Sector DR-M b7-4
+R CrA Sector OI-T c3-13
+R CrA Sector IS-K b8-0
+Corona Austr. Dark Region FB-X c1-6
+R CrA Sector HR-W d1-62
+Corona Austr. Dark Region HW-W c1-14
+R CrA Sector NI-T c3-2
+R CrA Sector HR-W d1-106
+Corona Austr. Dark Region FB-X c1-4
+Corona Austr. Dark Region UJ-Q b5-4
+Corona Austr. Dark Region JH-V c2-10
+Corona Austr. Dark Region HW-W c1-13
+Corona Austr. Dark Region JH-V c2-11
+Corona Austr. Dark Region TJ-Q b5-0
+Corona Austr. Dark Region FB-X c1-5
+R CrA Sector IS-K b8-5
+Corona Austr. Dark Region RY-R b4-4
+R CrA Sector JS-K b8-2
+Corona Austr. Dark Region NS-T b3-3
+Corona Austr. Dark Region BQ-Y d11
+R CrA Sector HR-W d1-105
+Corona Austr. Dark Region BQ-Y d83
+Corona Austr. Dark Region TJ-Q b5-1
+Corona Austr. Dark Region BQ-Y d46
+R CrA Sector GH-M b7-2
+Corona Austr. Dark Region OD-S b4-3
+R CrA Sector HS-K b8-2
+R CrA Sector OI-T c3-7
+Corona Austr. Dark Region RO-Q b5-1
+R CrA Sector FM-M b7-4
+R CrA Sector HR-W d1-107
+Corona Austr. Dark Region DL-Y d72
+Corona Austr. Dark Region UJ-Q b5-2
+R CrA Sector EM-M b7-4
+R CrA Sector GX-K b8-4
+Corona Austr. Dark Region OD-S b4-4
+R CrA Sector FM-M b7-3
+R CrA Sector GX-K b8-0
+R CrA Sector QD-T c3-16
+R CrA Sector HR-W d1-72
+Corona Austr. Dark Region WE-Q b5-0

@@ -15,6 +15,7 @@ function insertStationsChunk(stations) {
     if (inserted % 1000 === 0) console.log(`inserted ${inserted} stations`);
     let now = new Date();
     return async.eachLimit(stations, 20, _station => {
+
         if (!isData(_station)) return;
         if (_.last(_station) === ",") _station = _station.slice(0, -1);
         else {
@@ -29,7 +30,6 @@ function insertStationsChunk(stations) {
             console.log("======== Fin d'erreur de parse =========")
         }
         if (!station) return;
-
         return knex('systems')
             .where({edsm_id: station.systemId})
             .first()
@@ -40,11 +40,16 @@ function insertStationsChunk(stations) {
                     .insert({
                         name: station.name,
                         type: station.type,
-                        body_id: 1,
-                        location:  'test',
+                        // body_id: 1,
+                        distance_from_arrival: station.distanceToArrival,
+                        faction: JSON.stringify(station.controllingFaction),
+                        location: 'unknown',
+                        // location:  'test',
                         system_id: sys.id,
                         created_at: now
                     });
+            }).catch(err => {
+                console.log({err});
             });
     });
 }
