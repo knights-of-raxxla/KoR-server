@@ -3,7 +3,6 @@ const container = require('../../Container.js')
 const knex = container.get('knex');
 const _ = container.get('lodash');
 const fs = require('fs');
-const combi = require('js-combinatorics');
 let star_types = [
     'O (Blue-White) Star', //0
     'K (Yellow-Orange) Star',
@@ -46,7 +45,7 @@ let star_types = [
     'White Dwarf (DAZ) Star',
     'White Dwarf (DQ) Star',
     'Wolf-Rayet N Star',
-    'CJ Star', // 42
+    'CJ Star', // 41
     'White Dwarf (DBZ) Star'
 ];
 
@@ -68,7 +67,8 @@ let $selected_types = [
     star_types[21], // M Super giant
     star_types[22], // G
     star_types[11], // T Tauri
-    star_types[15], // K
+    star_types[15], // K giants
+    star_types[1], // K
     star_types[17], // MS
     star_types[20], // C
     star_types[24], // Herbig
@@ -76,7 +76,9 @@ let $selected_types = [
     star_types[41], // CJ
     star_types[18], // S
     star_types[29], // WR
+    star_types[27], // WR
     star_types[33], // WRNC
+    star_types[18], // S
 ];
 
 console.log($selected_types);
@@ -156,31 +158,31 @@ function makeStarChunks(luminosities) {
 }
 
 // TODO changer ca pour calculer directemnt la distance la plus petite
-function generatePaths(grps, i = 0, paths = []) {
-    console.log(i);
-    if (!grps[i]) return paths;
-    let grps_l = grps[i].length;
-    if (!paths.length) {
-        for (let k = 0; k < grps_l; k++) {
-            paths.push(grps[k]);
-        }
-    } else {
-        let new_paths = [];
-        let paths_l = paths.length;
-        for (let l = 0; l < grps_l; l++) {
-            for (let j = 0; j < paths_l; j ++) {
-                if (!paths[j]) continue;
-                let p = paths[j].slice();
-                p.push(grps[i][l]);
-                new_paths.push(p);
-            }
-        }
-        paths = new_paths;
-        new_paths = [];
-    }
-    i += 1;
-    return generatePaths(grps, i, paths);
-}
+// function generatePaths(grps, i = 0, paths = []) {
+//     console.log(i);
+//     if (!grps[i]) return paths;
+//     let grps_l = grps[i].length;
+//     if (!paths.length) {
+//         for (let k = 0; k < grps_l; k++) {
+//             paths.push(grps[k]);
+//         }
+//     } else {
+//         let new_paths = [];
+//         let paths_l = paths.length;
+//         for (let l = 0; l < grps_l; l++) {
+//             for (let j = 0; j < paths_l; j ++) {
+//                 if (!paths[j]) continue;
+//                 let p = paths[j].slice();
+//                 p.push(grps[i][l]);
+//                 new_paths.push(p);
+//             }
+//         }
+//         paths = new_paths;
+//         new_paths = [];
+//     }
+//     i += 1;
+//     return generatePaths(grps, i, paths);
+// }
 
 // function buildPowerSet(chars) {
 //     var result = [];
@@ -194,59 +196,57 @@ function generatePaths(grps, i = 0, paths = []) {
 //     return result;
 // }
 
-function buildPowerSet(ary) {
-    var ps = [[]];
-    for (var i=0; i < ary.length; i++) {
-        for (var j = 0, len = ps.length; j < len; j++) {
-            ps.push(ps[j].concat(ary[i]));
-        }
-    }
-    return ps;
-}
-
-function perm(xs) {
-    let ret = [];
-
-    for (let i = 0; i < xs.length; i = i + 1) {
-        let rest = perm(xs.slice(0, i).concat(xs.slice(i + 1)));
-
-        if(!rest.length) {
-            ret.push([xs[i]])
-        } else {
-            for(let j = 0; j < rest.length; j = j + 1) {
-                ret.push([xs[i]].concat(rest[j]))
-            }
-        }
-    }
-    return ret;
-}
-
-var permutation = function (collection){
-    var current,
-    subarray,
-    result = [],
-    currentArray = [],
-    newResultArray = [];
-
-    if (collection.length){
-        current = collection.shift();
-        result = permutation(collection);
-
-        currentArray.push(current);
-
-        result.map(function(list) {
-            newResultArray.push(list.slice(0));
-            list.push(current);
-        });
-
-        result.push(currentArray);
-        result = result.concat(newResultArray);
-    }
-
-    return result;
-};
-
-
+// function buildPowerSet(ary) {
+//     var ps = [[]];
+//     for (var i=0; i < ary.length; i++) {
+//         for (var j = 0, len = ps.length; j < len; j++) {
+//             ps.push(ps[j].concat(ary[i]));
+//         }
+//     }
+//     return ps;
+// }
+//
+// function perm(xs) {
+//     let ret = [];
+//
+//     for (let i = 0; i < xs.length; i = i + 1) {
+//         let rest = perm(xs.slice(0, i).concat(xs.slice(i + 1)));
+//
+//         if(!rest.length) {
+//             ret.push([xs[i]])
+//         } else {
+//             for(let j = 0; j < rest.length; j = j + 1) {
+//                 ret.push([xs[i]].concat(rest[j]))
+//             }
+//         }
+//     }
+//     return ret;
+// }
+//
+// var permutation = function (collection){
+//     var current,
+//     subarray,
+//     result = [],
+//     currentArray = [],
+//     newResultArray = [];
+//
+//     if (collection.length){
+//         current = collection.shift();
+//         result = permutation(collection);
+//
+//         currentArray.push(current);
+//
+//         result.map(function(list) {
+//             newResultArray.push(list.slice(0));
+//             list.push(current);
+//         });
+//
+//         result.push(currentArray);
+//         result = result.concat(newResultArray);
+//     }
+//
+//     return result;
+// };
 
 function generateShortestPath(luminosities) {
     let flat_grps = [];
